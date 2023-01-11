@@ -13,15 +13,20 @@ source = "github"
 github = "bbg-contributors/bbg"
 use_latest_release = true
 
-[gqrx-scanner]
-source = "github"
-github = "neural75/gqrx-scanner"
-use_latest_release = true
-prefix = "v"
-
 [docsify-cli]
 source = "github"
 github = "docsifyjs/docsify-cli"
+use_latest_release = true
+prefix = "v"
+
+[fscan]
+source = "github"
+github = "shadow1ng/fscan"
+use_latest_release = true
+
+[gqrx-scanner]
+source = "github"
+github = "neural75/gqrx-scanner"
 use_latest_release = true
 prefix = "v"
 
