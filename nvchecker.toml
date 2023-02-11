@@ -24,6 +24,12 @@ source = "github"
 github = "shadow1ng/fscan"
 use_latest_release = true
 
+[go-cqhttp-bin]
+source = "github"
+github = "Mrs4s/go-cqhttp"
+use_latest_release = true
+prefix = "v"
+
 [gqrx-scanner]
 source = "github"
 github = "neural75/gqrx-scanner"
