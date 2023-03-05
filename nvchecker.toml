@@ -19,6 +19,12 @@ github = "docsifyjs/docsify-cli"
 use_latest_release = true
 prefix = "v"
 
+[frida-dexdump]
+source = "github"
+github = "hluwa/frida-dexdump"
+use_latest_release = true
+prefix = "v"
+
 [fscan]
 source = "github"
 github = "shadow1ng/fscan"
@@ -35,6 +41,11 @@ source = "github"
 github = "neural75/gqrx-scanner"
 use_latest_release = true
 prefix = "v"
+
+[python-wallbreaker]
+source = "github"
+github = "hluwa/Wallbreaker"
+use_latest_release = true
 
 [whitesur-icon-theme]
 source = "github"
