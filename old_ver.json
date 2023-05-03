@@ -1,6 +1,6 @@
 {
   "anime4k": "4.0.1",
-  "bbg": "20230219",
+  "bbg": "20230503",
   "docsify-cli": "4.4.4",
   "easyeda-bin": "6.5.23",
   "easyeda-pro-bin": "1.9.30",
@@ -10,8 +10,8 @@
   "go-cqhttp-bin": "1.0.1",
   "gqrx-scanner": "1.0.4",
   "jlc-assistant-bin": "5.0.69",
-  "lceda-pro": "2.0.17",
-  "lceda-pro-bin": "2.0.17",
+  "lceda-pro": "2.0.21",
+  "lceda-pro-bin": "2.0.21",
   "python-wallbreaker": "1.0.3",
   "whitesur-icon-theme": "2023.01.08"
 }
