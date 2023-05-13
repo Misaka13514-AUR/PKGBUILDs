@@ -1,0 +1,24 @@
+pkgbase = python-pem
+	pkgdesc = Parsing and splitting PEM files
+	pkgver = 21.2.0
+	pkgrel = 2
+	url = https://github.com/hynek/pem
+	changelog = CHANGELOG.rst
+	arch = any
+	license = MIT
+	checkdepends = python-pytest
+	checkdepends = python-certifi
+	checkdepends = python-pretend
+	checkdepends = python-pyopenssl
+	makedepends = python-setuptools
+	makedepends = python-build
+	makedepends = python-installer
+	makedepends = python-wheel
+	depends = python
+	source = python-pem-21.2.0.tar.gz::https://files.pythonhosted.org/packages/source/p/pem/pem-21.2.0.tar.gz
+	source = python-pem-21.2.0.tar.gz.asc::https://files.pythonhosted.org/packages/source/p/pem/pem-21.2.0.tar.gz.asc
+	validpgpkeys = C2A04F86ACE28ADCF817DBB7AE2536227F69F181
+	sha256sums = c491833b092662626fd58a87375d450637d4ee94996ad9bbbd42593428e93e5a
+	sha256sums = SKIP
+
+pkgname = python-pem
