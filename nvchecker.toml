@@ -53,6 +53,12 @@ source = "github"
 github = "hynek/pem"
 use_max_tag = true
 
+[python-rdbtools]
+source = "github"
+github = "sripathikrishnan/redis-rdb-tools"
+use_latest_release = true
+prefix = "rdbtools-"
+
 [python-wallbreaker]
 source = "github"
 github = "hluwa/Wallbreaker"
