@@ -42,6 +42,12 @@ github = "neural75/gqrx-scanner"
 use_latest_release = true
 prefix = "v"
 
+[python-lzf]
+source = "github"
+github = "teepark/python-lzf"
+use_max_tag = true
+prefix = "release-"
+
 [python-pem]
 source = "github"
 github = "hynek/pem"
