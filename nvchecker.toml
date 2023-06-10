@@ -13,11 +13,36 @@ source = "github"
 github = "bbg-contributors/bbg"
 use_latest_release = true
 
+[code-server-marketplace]
+source = "github"
+github = "coder/code-server"
+use_latest_release = true
+prefix = "v"
+
 [docsify-cli]
 source = "github"
 github = "docsifyjs/docsify-cli"
 use_latest_release = true
 prefix = "v"
+
+[easierconnect]
+source = "github"
+github = "lyc8503/EasierConnect"
+
+[easyeda-bin]
+source = "regex"
+url = "https://easyeda.com/page/download"
+regex = 'easyeda-linux-x64-(\d+.\d+.\d+).zip'
+
+[easyeda-pro-bin]
+source = "regex"
+url = "https://easyeda.com/page/download"
+regex = 'easyeda-pro-linux-x64-(\d+.\d+.\d+).zip'
+
+[easyeda-pro-electron]
+source = "regex"
+url = "https://easyeda.com/page/download"
+regex = 'easyeda-pro-linux-x64-(\d+.\d+.\d+).zip'
 
 [frida-dexdump]
 source = "github"
@@ -39,6 +64,33 @@ prefix = "v"
 [gqrx-scanner]
 source = "github"
 github = "neural75/gqrx-scanner"
+use_latest_release = true
+prefix = "v"
+
+[jlc-assistant-bin]
+source = "regex"
+url = "https://www.jlc.com/portal/appDownloadsWithConfig.html"
+regex = 'JLCPcAssit-linux-x64-(\d+.\d+.\d+).zip'
+
+[lceda-pro]
+source = "regex"
+url = "https://lceda.cn/page/download"
+regex = 'lceda-pro-linux-x64-(\d+.\d+.\d+).zip'
+
+[lceda-pro-bin]
+source = "regex"
+url = "https://lceda.cn/page/download"
+regex = 'lceda-pro-linux-x64-(\d+.\d+.\d+).zip'
+
+[nuclei]
+source = "github"
+github = "projectdiscovery/nuclei"
+use_latest_release = true
+prefix = "v"
+
+[nuclei-bin]
+source = "github"
+github = "projectdiscovery/nuclei"
 use_latest_release = true
 prefix = "v"
 
@@ -64,6 +116,18 @@ source = "github"
 github = "hluwa/Wallbreaker"
 use_latest_release = true
 
+[subfinder]
+source = "github"
+github = "projectdiscovery/subfinder"
+use_latest_release = true
+prefix = "v"
+
+[subfinder-bin]
+source = "github"
+github = "projectdiscovery/subfinder"
+use_latest_release = true
+prefix = "v"
+
 [whitesur-icon-theme]
 source = "github"
 github = "vinceliuice/WhiteSur-icon-theme"
@@ -71,43 +135,13 @@ use_latest_release = true
 from_pattern = '(\d+)-(\d+)-(\d+)'
 to_pattern = '\1.\2.\3'
 
-[easyeda-bin]
-source = "regex"
-url = "https://easyeda.com/page/download"
-regex = 'easyeda-linux-x64-(\d+.\d+.\d+).zip'
-
-[easyeda-pro-bin]
-source = "regex"
-url = "https://easyeda.com/page/download"
-regex = 'easyeda-pro-linux-x64-(\d+.\d+.\d+).zip'
-
-[easyeda-pro-electron]
-source = "regex"
-url = "https://easyeda.com/page/download"
-regex = 'easyeda-pro-linux-x64-(\d+.\d+.\d+).zip'
-
-# [lceda-bin]
-# source = "regex"
-# url = "https://lceda.cn/page/download"
-# regex = 'lceda-linux-x64-(\d+.\d+.\d+).zip'
-
-[lceda-pro]
-source = "regex"
-url = "https://lceda.cn/page/download"
-regex = 'lceda-pro-linux-x64-(\d+.\d+.\d+).zip'
-
-[lceda-pro-bin]
-source = "regex"
-url = "https://lceda.cn/page/download"
-regex = 'lceda-pro-linux-x64-(\d+.\d+.\d+).zip'
-
-[jlc-assistant-bin]
-source = "regex"
-url = "https://www.jlc.com/portal/appDownloadsWithConfig.html"
-regex = 'JLCPcAssit-linux-x64-(\d+.\d+.\d+).zip'
-
 # [mastodon-twitter-sync]
 # source = "github"
 # github = "klausi/mastodon-twitter-sync"
 # use_latest_release = true
 # prefix = "v"
+
+# [lceda-bin]
+# source = "regex"
+# url = "https://lceda.cn/page/download"
+# regex = 'lceda-linux-x64-(\d+.\d+.\d+).zip'

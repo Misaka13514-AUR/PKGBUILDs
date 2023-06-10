@@ -1,7 +1,9 @@
 {
   "anime4k": "4.0.1",
   "bbg": "20230505",
+  "code-server-marketplace": "4.13.0",
   "docsify-cli": "4.4.4",
+  "easierconnect": "20230501.133013",
   "easyeda-bin": "6.5.23",
   "easyeda-pro-bin": "1.9.30",
   "easyeda-pro-electron": "1.9.30",
@@ -12,9 +14,13 @@
   "jlc-assistant-bin": "5.0.69",
   "lceda-pro": "2.0.30",
   "lceda-pro-bin": "2.0.30",
+  "nuclei": "2.9.6",
+  "nuclei-bin": "2.9.6",
   "python-lzf": "0.2.4",
   "python-pem": "21.2.0",
   "python-rdbtools": "0.1.15",
   "python-wallbreaker": "1.0.3",
+  "subfinder": "2.6.0",
+  "subfinder-bin": "2.6.0",
   "whitesur-icon-theme": "2023.01.08"
 }
