@@ -116,6 +116,11 @@ source = "github"
 github = "hluwa/Wallbreaker"
 use_latest_release = true
 
+[srmd-ncnn-vulkan]
+source = "github"
+github = "nihui/srmd-ncnn-vulkan"
+use_latest_release = true
+
 [subfinder]
 source = "github"
 github = "projectdiscovery/subfinder"
