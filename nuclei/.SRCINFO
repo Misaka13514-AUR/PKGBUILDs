@@ -1,0 +1,15 @@
+pkgbase = nuclei
+	pkgdesc = Fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use
+	pkgver = 2.9.6
+	pkgrel = 1
+	url = https://github.com/projectdiscovery/nuclei
+	arch = x86_64
+	arch = armv6h
+	arch = aarch64
+	license = MIT
+	makedepends = go
+	depends = glibc
+	source = nuclei-2.9.6.tar.gz::https://github.com/projectdiscovery/nuclei/archive/v2.9.6.tar.gz
+	b2sums = 8959cb4dcc7510c1bea239afaa8716e05f729238d187d70b562742086a0f13e07289802c6ea8bd31bd107fc650ba96df20f6ff70e7b13f32278f5b8aea0bbdeb
+
+pkgname = nuclei
