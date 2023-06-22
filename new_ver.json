@@ -1,7 +1,7 @@
 {
   "anime4k": "4.0.1",
   "bbg": "20230505",
-  "code-server-marketplace": "4.13.0",
+  "code-server-marketplace": "4.14.0",
   "docsify-cli": "4.4.4",
   "easierconnect": "20230501.133013",
   "easyeda-bin": "6.5.23",
@@ -17,7 +17,7 @@
   "nuclei": "2.9.6",
   "nuclei-bin": "2.9.6",
   "python-lzf": "0.2.4",
-  "python-pem": "21.2.0",
+  "python-pem": "23.1.0",
   "python-rdbtools": "0.1.15",
   "python-wallbreaker": "1.0.3",
   "srmd-ncnn-vulkan": "20220728",
