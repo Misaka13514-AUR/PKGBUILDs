@@ -84,6 +84,10 @@ github = "neural75/gqrx-scanner"
 use_latest_release = true
 prefix = "v"
 
+[hid-ite8291r3-dkms-git]
+source = "github"
+github = "pobrn/hid-ite8291r3"
+
 [jlc-assistant-bin]
 source = "regex"
 url = "https://www.jlc.com/portal/appDownloadsWithConfig.html"
