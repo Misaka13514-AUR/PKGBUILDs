@@ -13,6 +13,14 @@ source = "github"
 github = "bbg-contributors/bbg"
 use_latest_release = true
 
+[bbg-git]
+source = "github"
+github = "bbg-contributors/bbg"
+
+[canokey-usbip-git]
+source = "github"
+github = "canokeys/canokey-usbip"
+
 [code-server-marketplace]
 source = "github"
 github = "coder/code-server"
@@ -25,9 +33,18 @@ github = "docsifyjs/docsify-cli"
 use_latest_release = true
 prefix = "v"
 
+[dump1090-git]
+source = "github"
+github = "MalcolmRobb/dump1090"
+
 [easierconnect]
 source = "github"
 github = "lyc8503/EasierConnect"
+
+[easyeda-license]
+source = "regex"
+url = "https://easyeda.com/page/legal"
+regex = 'Last Updated: (\w+ \d+, \d+)'
 
 [easyeda-bin]
 source = "regex"
@@ -72,6 +89,14 @@ source = "regex"
 url = "https://www.jlc.com/portal/appDownloadsWithConfig.html"
 regex = 'JLCPcAssit-linux-x64-(\d+.\d+.\d+).zip'
 
+[lceda-license]
+source = "regex"
+url = "https://lceda.cn/page/legal"
+encoding = "utf-8"
+regex = '本版本发布/更新于：(【\d+】年【\d+】月【\d+】日)'
+from_pattern = '【(\d+)】年【(\d+)】月【(\d+)】日'
+to_pattern = '\1-\2-\3'
+
 [lceda-pro]
 source = "regex"
 url = "https://lceda.cn/page/download"
@@ -81,6 +106,10 @@ regex = 'lceda-pro-linux-x64-(\d+.\d+.\d+).zip'
 source = "regex"
 url = "https://lceda.cn/page/download"
 regex = 'lceda-pro-linux-x64-(\d+.\d+.\d+).zip'
+
+[mfoc-hardnested-git]
+source = "github"
+github = "nfc-tools/mfoc-hardnested"
 
 [nixpkgs-fmt]
 source = "github"
@@ -99,6 +128,10 @@ source = "github"
 github = "projectdiscovery/nuclei"
 use_latest_release = true
 prefix = "v"
+
+[python-ite8291r3-ctl-git]
+source = "github"
+github = "pobrn/ite8291r3-ctl"
 
 [python-lzf]
 source = "github"

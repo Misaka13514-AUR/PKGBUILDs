@@ -9,15 +9,8 @@ url="https://github.com/nix-community/nixpkgs-fmt"
 license=('Apache')
 depends=('glibc' 'gcc-libs')
 makedepends=('cargo')
-checkdepends=()
-optdepends=()
-backup=()
-options=()
-changelog=
 source=("$pkgname-$pkgver.tar.gz::$url/archive/v$pkgver.tar.gz")
-noextract=()
 sha256sums=('a04b99a8aa9d162ba5da77a764915a4d8385492a40169c419dc5fc7af606b89a')
-validpgpkeys=()
 
 prepare() {
     cd "$pkgname-$pkgver"
