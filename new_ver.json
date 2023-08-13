@@ -1,7 +1,7 @@
 {
   "anime4k": "4.0.1",
   "bbg": "20230706",
-  "bbg-git": "20230803.171944",
+  "bbg-git": "20230810.091209",
   "canokey-usbip-git": "20220518.133549",
   "code-server-marketplace": "4.16.1",
   "docsify-cli": "4.4.4",
@@ -30,7 +30,7 @@
   "python-rdbtools": "0.1.15",
   "python-wallbreaker": "1.0.3",
   "srmd-ncnn-vulkan": "20220728",
-  "subfinder": "2.6.1",
-  "subfinder-bin": "2.6.1",
+  "subfinder": "2.6.2",
+  "subfinder-bin": "2.6.2",
   "whitesur-icon-theme": "2023.07.03"
 }
