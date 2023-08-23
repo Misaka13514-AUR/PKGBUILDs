@@ -88,6 +88,12 @@ prefix = "v"
 source = "github"
 github = "pobrn/hid-ite8291r3"
 
+[iptv-checker]
+source = "github"
+github = "freearhey/iptv-checker"
+use_latest_release = true
+prefix = "v"
+
 [jlc-assistant-bin]
 source = "regex"
 url = "https://www.jlc.com/portal/appDownloadsWithConfig.html"
