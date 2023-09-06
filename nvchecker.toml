@@ -44,7 +44,9 @@ github = "lyc8503/EasierConnect"
 [easyeda-license]
 source = "regex"
 url = "https://easyeda.com/page/legal"
-regex = 'Last Updated: (\w+ \d+, \d+)'
+regex = 'Effective Date: (\d+ \d+, \d+)'
+from_pattern = '(\d+) (\d+), (\d+)'
+to_pattern = '\3-\1-\2'
 
 [easyeda-bin]
 source = "regex"
