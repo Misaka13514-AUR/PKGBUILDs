@@ -145,6 +145,12 @@ prefix = "v"
 source = "github"
 github = "pobrn/ite8291r3-ctl"
 
+[python-largestinteriorrectangle]
+source = "github"
+github = "OpenStitching/lir"
+use_latest_release = true
+prefix = "v"
+
 [python-lzf]
 source = "github"
 github = "teepark/python-lzf"
@@ -161,6 +167,12 @@ source = "github"
 github = "sripathikrishnan/redis-rdb-tools"
 use_latest_release = true
 prefix = "rdbtools-"
+
+[python-stitching]
+source = "github"
+github = "OpenStitching/stitching"
+use_latest_release = true
+prefix = "v"
 
 [python-wallbreaker]
 source = "github"
