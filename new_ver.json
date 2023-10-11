@@ -1,7 +1,7 @@
 {
   "anime4k": "4.0.1",
   "bbg": "20230820",
-  "bbg-git": "20231006.050154",
+  "bbg-git": "20231007.062523",
   "canokey-usbip-git": "20220518.133549",
   "code-server-marketplace": "4.17.1",
   "docsify-cli": "4.4.4",
@@ -13,7 +13,7 @@
   "easyeda-pro-electron": "2.0.32",
   "frida-dexdump": "2.0.1",
   "fscan": "1.8.2",
-  "go-cqhttp-bin": "1.1.0",
+  "go-cqhttp-bin": "1.2.0",
   "gqrx-scanner": "1.0.4",
   "hid-ite8291r3-dkms-git": "20230701.185327",
   "iptv-checker": "0.26.0",
