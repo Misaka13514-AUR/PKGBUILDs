@@ -27,6 +27,12 @@ prefix = "v"
 source = "npm"
 npm = "wrangler"
 
+[cloudflarespeedtest]
+source = "github"
+github = "XIU2/CloudflareSpeedTest"
+use_latest_release = true
+prefix = "v"
+
 [cura]
 source = "github"
 github = "Ultimaker/Cura"
@@ -85,6 +91,18 @@ github = "Tudmotu/gnome-shell-extension-clipboard-indicator"
 use_max_tag = true
 prefix = "v"
 
+[gnome-shell-extension-dash-to-dock]
+source = "github"
+github = "micheleg/dash-to-dock"
+use_latest_release = true
+prefix = "extensions.gnome.org-v"
+
+[gnome-shell-extension-gsconnect]
+source = "github"
+github = "GSConnect/gnome-shell-extension-gsconnect"
+use_latest_release = true
+prefix = "v"
+
 [gnome-shell-extension-nightthemeswitcher]
 source = "gitlab"
 gitlab = "rmnvgr/nightthemeswitcher-gnome-shell-extension"
@@ -106,19 +124,53 @@ github = "hexojs/hexo-cli"
 use_latest_release = true
 prefix = "v"
 
+[hmcl]
+source = "github"
+github = "huanghongxun/HMCL"
+use_latest_release = true
+prefix = "release-"
+
+[howdy]
+source = "github"
+github = "boltgolt/howdy"
+use_latest_release = true
+prefix = "v"
+
 [ibus-mozc]
 source = "github"
 github = "google/mozc"
 use_max_tag = true
+
+[icalingua-plus-plus]
+source = "github"
+github = "Icalingua-plus-plus/Icalingua-plus-plus"
+use_latest_release = true
+prefix = "v"
+
+[imhex]
+source = "github"
+github = "WerWolv/ImHex"
+use_latest_release = true
+prefix = "v"
 
 [intellij-idea-ultimate-edition]
 source = "regex"
 url = "https://data.services.jetbrains.com/products/releases?code=IIU&latest=true&type=release"
 regex = 'ideaIU-(\d+.\d+.\d+).tar.gz'
 
+[iptv-checker]
+source = "github"
+github = "freearhey/iptv-checker"
+use_latest_release = true
+prefix = "v"
+
 [kicad-library-ab2-git]
 source = "github"
 github = "ab2tech/KiCad"
+
+[kicad-library-digikey-git]
+source = "github"
+github = "digikey/digikey-kicad-library"
 
 [kicad-library-espressif-git]
 source = "github"
@@ -138,6 +190,18 @@ github = "jaquadro/NBTExplorer"
 use_latest_release = true
 from_pattern = 'v(\d+).(\d+).(\d+)-win'
 to_pattern = '\1.\2.\3'
+
+[nixfmt]
+source = "github"
+github = "serokell/nixfmt"
+use_latest_release = true
+prefix = "v"
+
+[nvidia-container-toolkit]
+source = "github"
+github = "NVIDIA/nvidia-container-toolkit"
+use_latest_release = true
+prefix = "v"
 
 [openvisualtraceroute]
 source = "github"
@@ -191,6 +255,12 @@ source = "github"
 github = "librosa/librosa"
 use_latest_release = true
 
+[python-pydub]
+source = "github"
+github = "jiaaro/pydub"
+use_latest_release = true
+prefix = "v"
+
 [sdrangel]
 source = "github"
 github = "f4exb/sdrangel"
@@ -206,6 +276,11 @@ use_latest_release = true
 source = "github"
 github = "Drive-Trust-Alliance/sedutil"
 use_max_tag = true
+
+[slack-desktop]
+source = "regex"
+url = "https://slack.com/downloads/linux"
+regex = 'Version (\d+.\d+.\d+)'
 
 [stm32cubeide]
 source = "regex"
@@ -236,6 +311,23 @@ use_latest_release = true
 [ulauncher]
 source = "github"
 github = "Ulauncher/Ulauncher"
+use_latest_release = true
+
+[v2raya]
+source = "github"
+github = "v2rayA/v2rayA"
+use_latest_release = true
+prefix = "v"
+
+[ventoy-bin]
+source = "github"
+github = "ventoy/Ventoy"
+use_latest_release = true
+prefix = "v"
+
+[video2x]
+source = "github"
+github = "k4yt3x/video2x"
 use_latest_release = true
 
 [visual-studio-code]
@@ -270,3 +362,9 @@ prefix = "v"
 [whitesur-cursor-theme-git]
 source = "github"
 github = "vinceliuice/WhiteSur-cursors"
+
+[yay]
+source = "github"
+github = "Jguer/yay"
+use_latest_release = true
+prefix = "v"
