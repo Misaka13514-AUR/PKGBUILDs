@@ -119,6 +119,11 @@ source = "regex"
 url = "https://lceda.cn/page/download"
 regex = 'lceda-pro-linux-x64-(\d+.\d+.\d+).zip'
 
+[meanalyzer]
+source = "github"
+github = "platomav/MEAnalyzer"
+use_latest_release = true
+
 [mfoc-hardnested-git]
 source = "github"
 github = "nfc-tools/mfoc-hardnested"
