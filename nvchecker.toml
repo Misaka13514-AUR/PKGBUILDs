@@ -1,6 +1,7 @@
 [__config__]
 oldver = "old_ver.json"
 newver = "new_ver.json"
+keyfile = "keyfile.toml"
 
 [anime4k]
 source = "github"

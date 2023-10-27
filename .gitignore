@@ -1,3 +1,6 @@
+# private key file
+keyfile.toml
+
 # package src/pkg archives, downloaded sources
 *.tar*
 *.tgz

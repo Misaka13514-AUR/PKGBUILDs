@@ -1,6 +1,7 @@
 [__config__]
 oldver = "old_aur.json"
 newver = "new_aur.json"
+keyfile = "keyfile.toml"
 
 [android-studio]
 source = "regex"
@@ -158,12 +159,6 @@ source = "regex"
 url = "https://data.services.jetbrains.com/products/releases?code=IIU&latest=true&type=release"
 regex = 'ideaIU-(\d+.\d+.\d+).tar.gz'
 
-[iptv-checker]
-source = "github"
-github = "freearhey/iptv-checker"
-use_latest_release = true
-prefix = "v"
-
 [kicad-library-ab2-git]
 source = "github"
 github = "ab2tech/KiCad"
@@ -319,7 +314,7 @@ github = "v2rayA/v2rayA"
 use_latest_release = true
 prefix = "v"
 
-[ventoy-bin]
+[ventoy]
 source = "github"
 github = "ventoy/Ventoy"
 use_latest_release = true
