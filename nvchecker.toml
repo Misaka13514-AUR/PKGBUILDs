@@ -64,6 +64,12 @@ source = "regex"
 url = "https://easyeda.com/page/download"
 regex = 'easyeda-pro-linux-x64-(\d+.\d+.\d+).zip'
 
+[freerouting]
+source = "github"
+github = "freerouting/freerouting"
+use_latest_release = true
+prefix = "v"
+
 [frida-dexdump]
 source = "github"
 github = "hluwa/frida-dexdump"

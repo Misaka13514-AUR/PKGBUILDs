@@ -74,12 +74,6 @@ github = "superfly/flyctl"
 use_latest_release = true
 prefix = "v"
 
-[freerouting]
-source = "github"
-github = "freerouting/freerouting"
-use_latest_release = true
-prefix = "v"
-
 [gnome-shell-extension-blur-my-shell]
 source = "github"
 github = "aunetx/blur-my-shell"

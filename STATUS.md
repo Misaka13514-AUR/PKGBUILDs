@@ -13,6 +13,7 @@
 |           [easyeda-bin]           |         6.5.37-1         |         OK          |      E, W      |       Yes       |
 |         [easyeda-pro-bin]         |         2.0.35-1         |      W (False)      |      E, W      |       Yes       |
 |      [easyeda-pro-electron]       |         2.0.35-1         |      W (False)      |       W        |       Yes       |
+|           [freerouting]           |         1.9.0-1          |         OK          |   W (False)    |       No        |
 |          [frida-dexdump]          |         2.0.1-1          |         OK          |   W (False)    |                 |
 |              [fscan]              |         1.8.2-2          |         OK          |       OK       |       No        |
 |          [go-cqhttp-bin]          |         1.2.0-1          |      W (False)      |       W        |       No        |
@@ -52,6 +53,7 @@
 [easyeda-bin]: https://aur.archlinux.org/packages/easyeda-bin
 [easyeda-pro-bin]: https://aur.archlinux.org/packages/easyeda-pro-bin
 [easyeda-pro-electron]: https://aur.archlinux.org/packages/easyeda-pro-electron
+[freerouting]: https://aur.archlinux.org/packages/freerouting
 [frida-dexdump]: https://aur.archlinux.org/packages/frida-dexdump
 [fscan]: https://aur.archlinux.org/packages/fscan
 [go-cqhttp-bin]: https://aur.archlinux.org/packages/go-cqhttp-bin
