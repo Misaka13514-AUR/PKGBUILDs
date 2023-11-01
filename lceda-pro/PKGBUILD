@@ -4,7 +4,7 @@
 pkgbase=lceda-pro
 pkgname=lceda-pro
 pkgver=2.1.35
-pkgrel=1
+pkgrel=2
 pkgdesc="免费、专业、强大的国产PCB设计工具"
 arch=('x86_64' 'aarch64' 'loong64')
 url="https://pro.lceda.cn/"
@@ -12,12 +12,14 @@ license=('custom')
 depends=(gtk3 nss alsa-lib electron libappindicator-gtk3 libnotify)
 install=${pkgname}.install
 source=("LICENSE"
-        "${pkgname}.install")
+        "${pkgname}.install"
+        "easyeda-pro.xml")
 source_x86_64=("${pkgname}-x86_64-${pkgver}.zip::https://image.lceda.cn/files/lceda-pro-linux-x64-${pkgver}.zip")
 source_aarch64=("${pkgname}-aarch64-${pkgver}.zip::https://image.lceda.cn/files/lceda-pro-linux-arm64-${pkgver}.zip")
 source_loong64=("${pkgname}-loong64-${pkgver}.zip::https://image.lceda.cn/files/lceda-pro-linux-loong64-${pkgver}.zip")
 sha256sums=('df9110f0949b869a922449d87e32b975c84b13122967bc18cd1b2cd58a18ab83'
-            'f8c3c7f65443801b8a70e40de7cdceade5dcd75974945695dd5a1bfb1f862e1a')
+            'f8c3c7f65443801b8a70e40de7cdceade5dcd75974945695dd5a1bfb1f862e1a'
+            'SKIP')
 sha256sums_x86_64=('51484ad4bcdac7c5ffc5cdbd5a311e9de8c22bf1f6d8bba5d4d6ba65b04d3bd3')
 sha256sums_aarch64=('9ce0b21f861c42c50b09c70b06fb1acbaa5c282ae0b3606326b115acc6e33f8a')
 sha256sums_loong64=('e0ee0624ce190fe625b72dfef2d789d77e532ee366e05abd95ac0ef23fa53bff')
@@ -27,6 +29,9 @@ package() {
 
     # electron file
     install -dm0755 "${pkgdir}/usr/lib/${pkgname}/"
+
+    # mime file
+    install -Dm0644 easyeda-pro.xml ${pkgdir}/usr/share/mime/packages/${pkgname}.xml
 
     cd ${srcdir}/${pkgname}/
     cp -r resources ${pkgdir}/usr/lib/${pkgname}
@@ -48,6 +53,8 @@ package() {
         ${pkgdir}/usr/share/applications/${pkgname}.desktop
     sed -i 's|/opt/lceda-pro/||g' \
         ${pkgdir}/usr/share/applications/${pkgname}.desktop
+    echo "MimeType=application/x-easyeda-pro-lib;application/x-easyeda-pro-project;application/x-easyeda-pro-foo;application/x-easyeda-pro-sym;" \
+        >> ${pkgdir}/usr/share/applications/${pkgname}.desktop
 
     # lceda-pro file
     install -Dm0755 /dev/stdin ${pkgdir}/usr/bin/${pkgname} << EOF

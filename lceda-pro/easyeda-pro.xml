@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="application/x-easyeda-pro-lib">
+    <sub-class-of type="application/vnd.sqlite3"/>
+    <comment>EasyEDA Pro Library</comment>
+    <comment xml:lang="zh_CN">EasyEDA Pro 元件库</comment>
+    <glob pattern="*.elib" weight="40"/>
+  </mime-type>
+  <mime-type type="application/x-easyeda-pro-project">
+    <sub-class-of type="application/vnd.sqlite3"/>
+    <comment>EasyEDA Pro Project</comment>
+    <comment xml:lang="zh_CN">EasyEDA Pro 项目</comment>
+    <glob pattern="*.eprj" weight="40"/>
+  </mime-type>
+  <mime-type type="application/x-easyeda-pro-foo">
+    <sub-class-of type="text/plain"/>
+    <comment>EasyEDA Pro Package</comment>
+    <comment xml:lang="zh_CN">EasyEDA Pro 封装</comment>
+    <glob pattern="*.efoo" weight="40"/>
+    <magic priority="40">
+      <match type="string" offset="0" value="[&quot;DOCTYPE&quot;,&quot;FOOTPRINT&quot;"/>
+    </magic>
+  </mime-type>
+  <mime-type type="application/x-easyeda-pro-sym">
+    <sub-class-of type="application/zip"/>
+    <comment>EasyEDA Pro Symbol</comment>
+    <comment xml:lang="zh_CN">EasyEDA Pro 符号</comment>
+    <glob pattern="*.esym" weight="40"/>
+  </mime-type>
+  <!-- <mime-type type="application/x-easyeda-pro-pan">
+    <sub-class-of type=""/>
+    <comment>EasyEDA Pro Panel</comment>
+    <comment xml:lang="zh_CN">EasyEDA Pro 面板</comment>
+    <glob pattern="*.epan" weight="40"/>
+  </mime-type>
+  <mime-type type="application/x-easyeda-pro-sch">
+    <sub-class-of type=""/>
+    <comment>EasyEDA Pro Schematic</comment>
+    <comment xml:lang="zh_CN">EasyEDA Pro 原理图</comment>
+    <glob pattern="*.esch" weight="40"/>
+  </mime-type>
+  <mime-type type="application/x-easyeda-pro-pcb">
+    <sub-class-of type=""/>
+    <comment>EasyEDA Pro PCB</comment>
+    <comment xml:lang="zh_CN">EasyEDA Pro PCB文件</comment>
+    <glob pattern="*.epcb" weight="40"/>
+  </mime-type>
+  <mime-type type="application/x-easyeda-pro-cop">
+    <sub-class-of type=""/>
+    <comment>EasyEDA Pro Copper</comment>
+    <comment xml:lang="zh_CN">EasyEDA Pro 铺铜文件</comment>
+    <glob pattern="*.ecop" weight="40"/>
+  </mime-type>
+  <mime-type type="application/x-easyeda-pro-ins">
+    <sub-class-of type=""/>
+    <comment>EasyEDA Pro Instance Value</comment>
+    <comment xml:lang="zh_CN">EasyEDA Pro 实例值文件</comment>
+    <glob pattern="*.eins" weight="40"/>
+  </mime-type>
+  <mime-type type="application/x-easyeda-pro-fon">
+    <sub-class-of type=""/>
+    <comment>EasyEDA Pro Font</comment>
+    <comment xml:lang="zh_CN">EasyEDA Pro 字体文件</comment>
+    <glob pattern="*.efon" weight="40"/>
+  </mime-type>
+  <mime-type type="application/x-easyeda-pro-panm">
+    <sub-class-of type=""/>
+    <comment>EasyEDA Pro Panel Manufacturing File</comment>
+    <comment xml:lang="zh_CN">EasyEDA Pro 面板制造文件</comment>
+    <glob pattern="*.epanm" weight="40"/>
+  </mime-type>
+  <mime-type type="application/x-easyeda-pro-net">
+    <sub-class-of type=""/>
+    <comment>EasyEDA Pro Netlist File</comment>
+    <comment xml:lang="zh_CN">EasyEDA Pro 网表文件</comment>
+    <glob pattern="*.enet" weight="40"/>
+  </mime-type> -->
+</mime-info>
