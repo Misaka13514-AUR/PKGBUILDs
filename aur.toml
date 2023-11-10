@@ -223,16 +223,6 @@ source = "regex"
 url = "https://data.services.jetbrains.com/products/releases?code=PCP&latest=true&type=release"
 regex = 'pycharm-professional-(\d+.\d+.\d+).tar.gz'
 
-[python-frida]
-source = "github"
-github = "frida/frida"
-use_latest_release = true
-
-[python-frida-tools]
-source = "github"
-github = "frida/frida-tools"
-use_max_tag = true
-
 [python-iptvtools]
 source = "github"
 github = "huxuan/iptvtools"

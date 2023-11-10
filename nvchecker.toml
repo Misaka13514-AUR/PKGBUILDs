@@ -22,7 +22,7 @@ github = "bbg-contributors/bbg"
 source = "github"
 github = "canokeys/canokey-usbip"
 
-[code-server-marketplace]
+[code-server]
 source = "github"
 github = "coder/code-server"
 use_latest_release = true
@@ -153,6 +153,22 @@ github = "projectdiscovery/nuclei"
 use_latest_release = true
 prefix = "v"
 
+[python-crccheck]
+source = "github"
+github = "MartinScharrer/crccheck"
+use_latest_release = true
+prefix = "v"
+
+[python-frida]
+source = "github"
+github = "frida/frida"
+use_latest_release = true
+
+[python-frida-tools]
+source = "github"
+github = "frida/frida-tools"
+use_max_tag = true
+
 [python-ite8291r3-ctl-git]
 source = "github"
 github = "pobrn/ite8291r3-ctl"
@@ -173,6 +189,10 @@ prefix = "release-"
 source = "github"
 github = "hynek/pem"
 use_max_tag = true
+
+[python-pltable]
+source = "pypi"
+pypi = "pltable"
 
 [python-rdbtools]
 source = "github"
