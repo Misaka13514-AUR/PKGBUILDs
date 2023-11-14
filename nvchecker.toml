@@ -79,7 +79,7 @@ prefix = "v"
 [fscan]
 source = "github"
 github = "shadow1ng/fscan"
-use_latest_release = true
+use_max_tag = true
 
 [go-cqhttp-bin]
 source = "github"
