@@ -1,6 +1,6 @@
 {
   "android-studio": "2022.3.1.22",
-  "burpsuite": "2023.10.3.5",
+  "burpsuite": "2023.10.3.6",
   "charles": "4.6.5",
   "cinny-desktop": "3.2.1",
   "cloudflare-wrangler2": "3.16.0",
@@ -18,7 +18,7 @@
   "gnome-shell-extension-gsconnect": "56",
   "gnome-shell-extension-nightthemeswitcher": "75",
   "gnome-shell-extension-no-overview": "45",
-  "gnome-shell-extension-system-monitor-next-git": "20231107.002543",
+  "gnome-shell-extension-system-monitor-next-git": "20231120.185700",
   "hexo-cli": "4.3.1",
   "hmcl": "3.5.5",
   "howdy": "2.6.1",
