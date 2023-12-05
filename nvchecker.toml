@@ -185,11 +185,6 @@ github = "teepark/python-lzf"
 use_max_tag = true
 prefix = "release-"
 
-[python-pem]
-source = "github"
-github = "hynek/pem"
-use_max_tag = true
-
 [python-pltable]
 source = "pypi"
 pypi = "pltable"

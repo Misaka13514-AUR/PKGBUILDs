@@ -62,18 +62,6 @@ github = "projectdiscovery/dnsprobe"
 use_latest_release = true
 prefix = "v"
 
-[fluffychat]
-source = "github"
-github = "krille-chan/fluffychat"
-use_latest_release = true
-prefix = "v"
-
-[flyctl]
-source = "github"
-github = "superfly/flyctl"
-use_latest_release = true
-prefix = "v"
-
 [gnome-shell-extension-blur-my-shell]
 source = "github"
 github = "aunetx/blur-my-shell"
