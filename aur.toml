@@ -254,6 +254,11 @@ source = "regex"
 url = "https://nvchecker.atri.tk/stm32cubeide"
 regex = 'STM32CubeIDE-Lnx.version=(\d+.\d+.\d+).html'
 
+[stm32cubemonitor]
+source = "regex"
+url = "https://nvchecker.atri.tk/stm32cubemonitor"
+regex = 'STM32CubeMon-Lin.version=(\d+.\d+.\d+).html'
+
 [stm32cubemx]
 source = "regex"
 url = "https://nvchecker.atri.tk/stm32cubemx"
