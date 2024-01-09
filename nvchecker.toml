@@ -119,12 +119,12 @@ to_pattern = '\1-\2-\3'
 [lceda-pro]
 source = "regex"
 url = "https://lceda.cn/page/download"
-regex = 'lceda-pro-linux-x64-(\d+.\d+.\d+).zip'
+regex = 'lceda-pro-linux-x64-(\d+.\d+.\d+.\d+).zip'
 
 [lceda-pro-bin]
 source = "regex"
 url = "https://lceda.cn/page/download"
-regex = 'lceda-pro-linux-x64-(\d+.\d+.\d+).zip'
+regex = 'lceda-pro-linux-x64-(\d+.\d+.\d+.\d+).zip'
 
 [meanalyzer]
 source = "github"
