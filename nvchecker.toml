@@ -1,0 +1,242 @@
+[__config__]
+oldver = "old_ver.json"
+newver = "new_ver.json"
+keyfile = "keyfile.toml"
+
+[anime4k]
+source = "github"
+github = "bloc97/Anime4K"
+use_latest_release = true
+prefix = "v"
+
+[bbg]
+source = "github"
+github = "bbg-contributors/bbg"
+use_latest_release = true
+
+[bbg-git]
+source = "github"
+github = "bbg-contributors/bbg"
+
+[canokey-usbip-git]
+source = "github"
+github = "canokeys/canokey-usbip"
+
+[code-server]
+source = "github"
+github = "coder/code-server"
+use_latest_release = true
+prefix = "v"
+
+[docsify-cli]
+source = "github"
+github = "docsifyjs/docsify-cli"
+use_latest_release = true
+prefix = "v"
+
+[dump1090-git]
+source = "github"
+github = "MalcolmRobb/dump1090"
+
+[easierconnect]
+source = "github"
+github = "lyc8503/EasierConnect"
+
+[easyeda-license]
+source = "regex"
+url = "https://easyeda.com/page/legal"
+regex = 'Effective Date: (\d+ \d+, \d+)'
+from_pattern = '(\d+) (\d+), (\d+)'
+to_pattern = '\3-\1-\2'
+
+[easyeda-bin]
+source = "regex"
+url = "https://easyeda.com/page/download"
+regex = 'easyeda-linux-x64-(\d+.\d+.\d+).zip'
+
+[easyeda-pro-bin]
+source = "regex"
+url = "https://easyeda.com/page/download"
+regex = 'easyeda-pro-linux-x64-(\d+.\d+.\d+).zip'
+
+[easyeda-pro-electron]
+source = "regex"
+url = "https://easyeda.com/page/download"
+regex = 'easyeda-pro-linux-x64-(\d+.\d+.\d+).zip'
+
+[freerouting]
+source = "github"
+github = "freerouting/freerouting"
+use_latest_release = true
+prefix = "v"
+
+[frida-dexdump]
+source = "github"
+github = "hluwa/frida-dexdump"
+use_latest_release = true
+prefix = "v"
+
+[fscan]
+source = "github"
+github = "shadow1ng/fscan"
+use_max_tag = true
+
+[go-cqhttp-bin]
+source = "github"
+github = "Mrs4s/go-cqhttp"
+use_latest_release = true
+prefix = "v"
+
+[gqrx-scanner]
+source = "github"
+github = "neural75/gqrx-scanner"
+use_latest_release = true
+prefix = "v"
+
+[hid-ite8291r3-dkms-git]
+source = "github"
+github = "pobrn/hid-ite8291r3"
+
+[iptv-checker]
+source = "github"
+github = "freearhey/iptv-checker"
+use_latest_release = true
+prefix = "v"
+
+[jlc-assistant-bin]
+source = "regex"
+url = "https://www.jlc.com/portal/appDownloadsWithConfig.html"
+regex = 'JLCPcAssit-linux-x64-(\d+.\d+.\d+).zip'
+
+[lceda-license]
+source = "regex"
+url = "https://lceda.cn/page/legal"
+encoding = "utf-8"
+regex = '本版本发布/更新于：(【\d+】年【\d+】月【\d+】日)'
+from_pattern = '【(\d+)】年【(\d+)】月【(\d+)】日'
+to_pattern = '\1-\2-\3'
+
+[lceda-pro]
+source = "regex"
+url = "https://lceda.cn/page/download"
+regex = 'lceda-pro-linux-x64-(\d+.\d+.\d+.\d+).zip'
+
+[lceda-pro-bin]
+source = "regex"
+url = "https://lceda.cn/page/download"
+regex = 'lceda-pro-linux-x64-(\d+.\d+.\d+.\d+).zip'
+
+[meanalyzer]
+source = "github"
+github = "platomav/MEAnalyzer"
+use_latest_release = true
+
+[mfoc-hardnested-git]
+source = "github"
+github = "nfc-tools/mfoc-hardnested"
+
+[nixpkgs-fmt]
+source = "github"
+github = "nix-community/nixpkgs-fmt"
+use_max_tag = true
+prefix = "v"
+
+[nuclei]
+source = "github"
+github = "projectdiscovery/nuclei"
+use_latest_release = true
+prefix = "v"
+
+[nuclei-bin]
+source = "github"
+github = "projectdiscovery/nuclei"
+use_latest_release = true
+prefix = "v"
+
+[python-crccheck]
+source = "github"
+github = "MartinScharrer/crccheck"
+use_latest_release = true
+prefix = "v"
+
+[python-frida]
+source = "github"
+github = "frida/frida"
+use_latest_release = true
+
+[python-frida-tools]
+source = "github"
+github = "frida/frida-tools"
+use_max_tag = true
+
+[python-ite8291r3-ctl-git]
+source = "github"
+github = "pobrn/ite8291r3-ctl"
+
+[python-largestinteriorrectangle]
+source = "github"
+github = "OpenStitching/lir"
+use_latest_release = true
+prefix = "v"
+
+[python-lzf]
+source = "github"
+github = "teepark/python-lzf"
+use_max_tag = true
+prefix = "release-"
+
+[python-pltable]
+source = "pypi"
+pypi = "pltable"
+
+[python-rdbtools]
+source = "github"
+github = "sripathikrishnan/redis-rdb-tools"
+use_latest_release = true
+prefix = "rdbtools-"
+
+[python-stitching]
+source = "github"
+github = "OpenStitching/stitching"
+use_latest_release = true
+prefix = "v"
+
+[python-wallbreaker]
+source = "github"
+github = "hluwa/Wallbreaker"
+use_latest_release = true
+
+[srmd-ncnn-vulkan]
+source = "github"
+github = "nihui/srmd-ncnn-vulkan"
+use_latest_release = true
+
+[subfinder]
+source = "github"
+github = "projectdiscovery/subfinder"
+use_latest_release = true
+prefix = "v"
+
+[subfinder-bin]
+source = "github"
+github = "projectdiscovery/subfinder"
+use_latest_release = true
+prefix = "v"
+
+[whitesur-icon-theme]
+source = "github"
+github = "vinceliuice/WhiteSur-icon-theme"
+use_latest_release = true
+from_pattern = '(\d+)-(\d+)-(\d+)'
+to_pattern = '\1.\2.\3'
+
+# [mastodon-twitter-sync]
+# source = "github"
+# github = "klausi/mastodon-twitter-sync"
+# use_latest_release = true
+# prefix = "v"
+
+# [lceda-bin]
+# source = "regex"
+# url = "https://lceda.cn/page/download"
+# regex = 'lceda-linux-x64-(\d+.\d+.\d+).zip'

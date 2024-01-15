@@ -1,0 +1,342 @@
+[__config__]
+oldver = "old_aur.json"
+newver = "new_aur.json"
+keyfile = "keyfile.toml"
+
+[android-studio]
+source = "regex"
+url = "https://developer.android.com/studio"
+regex = 'android-studio-(\d+.\d+.\d+.\d+)-linux.tar.gz'
+
+[burpsuite]
+source = "regex"
+url = "https://portswigger.net/burp/releases/community/latest"
+regex = 'Professional / Community (\d+.\d+.\d+.\d+)'
+
+[charles]
+source = "regex"
+url = "https://www.charlesproxy.com/download/"
+regex = 'v(\d+.\d+.\d+)'
+
+[cinny-desktop]
+source = "github"
+github = "cinnyapp/cinny-desktop"
+use_latest_release = true
+prefix = "v"
+
+[cloudflare-wrangler2]
+source = "npm"
+npm = "wrangler"
+
+[cloudflarespeedtest]
+source = "github"
+github = "XIU2/CloudflareSpeedTest"
+use_latest_release = true
+prefix = "v"
+
+[cura]
+source = "github"
+github = "Ultimaker/Cura"
+use_latest_release = true
+
+[cyberchef-web]
+source = "github"
+github = "gchq/CyberChef"
+use_latest_release = true
+prefix = "v"
+
+[davinci-resolve]
+source = "regex"
+url = "https://www.blackmagicdesign.com/support/partial/downloads"
+regex = 'DaVinci Resolve (\d+.\d+.\d+) Update'
+
+[dirsearch]
+source = "github"
+github = "maurosoria/dirsearch"
+use_latest_release = true
+prefix = "v"
+
+[dnsprobe]
+source = "github"
+github = "projectdiscovery/dnsprobe"
+use_latest_release = true
+prefix = "v"
+
+[gnome-shell-extension-blur-my-shell]
+source = "github"
+github = "aunetx/blur-my-shell"
+use_latest_release = true
+prefix = "v"
+
+[gnome-shell-extension-clipboard-indicator]
+source = "github"
+github = "Tudmotu/gnome-shell-extension-clipboard-indicator"
+use_max_tag = true
+prefix = "v"
+
+[gnome-shell-extension-dash-to-dock]
+source = "github"
+github = "micheleg/dash-to-dock"
+use_latest_release = true
+prefix = "extensions.gnome.org-v"
+
+[gnome-shell-extension-gsconnect]
+source = "github"
+github = "GSConnect/gnome-shell-extension-gsconnect"
+use_latest_release = true
+prefix = "v"
+
+[gnome-shell-extension-nightthemeswitcher]
+source = "gitlab"
+gitlab = "rmnvgr/nightthemeswitcher-gnome-shell-extension"
+use_max_tag = true
+
+[gnome-shell-extension-no-overview]
+source = "github"
+github = "fthx/no-overview"
+use_latest_release = true
+prefix = "v"
+
+[gnome-shell-extension-system-monitor-next-git]
+source = "github"
+github = "mgalgs/gnome-shell-system-monitor-applet"
+
+[hexo-cli]
+source = "github"
+github = "hexojs/hexo-cli"
+use_latest_release = true
+prefix = "v"
+
+[hmcl]
+source = "github"
+github = "huanghongxun/HMCL"
+use_latest_release = true
+prefix = "release-"
+
+[howdy]
+source = "github"
+github = "boltgolt/howdy"
+use_latest_release = true
+prefix = "v"
+
+[ibus-mozc]
+source = "github"
+github = "google/mozc"
+use_max_tag = true
+
+[icalingua-plus-plus]
+source = "github"
+github = "Icalingua-plus-plus/Icalingua-plus-plus"
+use_latest_release = true
+prefix = "v"
+
+[imhex]
+source = "github"
+github = "WerWolv/ImHex"
+use_latest_release = true
+prefix = "v"
+
+[intellij-idea-ultimate-edition]
+source = "regex"
+url = "https://data.services.jetbrains.com/products/releases?code=IIU&latest=true&type=release"
+regex = 'ideaIU-(\d+.\d+.\d+).tar.gz'
+
+[kicad-library-ab2-git]
+source = "github"
+github = "ab2tech/KiCad"
+
+[kicad-library-digikey-git]
+source = "github"
+github = "digikey/digikey-kicad-library"
+
+[kicad-library-espressif-git]
+source = "github"
+github = "espressif/kicad-libraries"
+
+[kicad-library-sparkfun-git]
+source = "github"
+github = "sparkfun/SparkFun-KiCad-Libraries"
+
+[mfcuk-git]
+source = "github"
+github = "nfc-tools/mfcuk"
+
+[nbtexplorer]
+source = "github"
+github = "jaquadro/NBTExplorer"
+use_latest_release = true
+from_pattern = 'v(\d+).(\d+).(\d+)-win'
+to_pattern = '\1.\2.\3'
+
+[nixfmt]
+source = "github"
+github = "serokell/nixfmt"
+use_latest_release = true
+prefix = "v"
+
+[nvidia-container-toolkit]
+source = "github"
+github = "NVIDIA/nvidia-container-toolkit"
+use_latest_release = true
+prefix = "v"
+
+[openvisualtraceroute]
+source = "github"
+github = "leolewis/openvisualtraceroute"
+
+[pgloader]
+source = "github"
+github = "dimitri/pgloader"
+use_latest_release = true
+prefix = "v"
+
+[pkcrack]
+source = "regex"
+url = "https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack/download1.html"
+regex = 'pkcrack-(\d+.\d+.\d+).tar.gz'
+
+[pngcheck]
+source = "regex"
+url = "http://www.libpng.org/pub/png/apps/pngcheck.html"
+regex = 'pngcheck-(\d+.\d+.\d+).tar.gz'
+
+[pnpm-shell-completion]
+source = "github"
+github = "g-plane/pnpm-shell-completion"
+use_latest_release = true
+prefix = "v"
+
+[pycharm-professional]
+source = "regex"
+url = "https://data.services.jetbrains.com/products/releases?code=PCP&latest=true&type=release"
+regex = 'pycharm-professional-(\d+.\d+.\d+).tar.gz'
+
+[python-iptvtools]
+source = "github"
+github = "huxuan/iptvtools"
+use_latest_release = true
+prefix = "v"
+
+[python-librosa]
+source = "github"
+github = "librosa/librosa"
+use_latest_release = true
+
+[python-pydub]
+source = "github"
+github = "jiaaro/pydub"
+use_latest_release = true
+prefix = "v"
+
+[sdrangel]
+source = "github"
+github = "f4exb/sdrangel"
+use_latest_release = true
+prefix = "v"
+
+[seclists]
+source = "github"
+github = "danielmiessler/SecLists"
+use_latest_release = true
+
+[sedutil]
+source = "github"
+github = "Drive-Trust-Alliance/sedutil"
+use_max_tag = true
+
+[slack-desktop]
+source = "regex"
+url = "https://slack.com/downloads/linux"
+regex = 'Version (\d+.\d+.\d+)'
+
+[stm32cubeide]
+source = "regex"
+url = "https://nvchecker.atri.tk/stm32cubeide"
+regex = 'STM32CubeIDE-Lnx.version=(\d+.\d+.\d+).html'
+
+[stm32cubemonitor]
+source = "regex"
+url = "https://nvchecker.atri.tk/stm32cubemonitor"
+regex = 'STM32CubeMon-Lin.version=(\d+.\d+.\d+).html'
+
+[stm32cubemx]
+source = "regex"
+url = "https://nvchecker.atri.tk/stm32cubemx"
+regex = 'STM32CubeMX-Lin.version=(\d+.\d+.\d+).html'
+
+[subconverter]
+source = "github"
+github = "tindy2013/subconverter"
+use_latest_release = true
+prefix = "v"
+
+[tcping]
+source = "github"
+github = "zhengxiaowai/tcping"
+use_max_tag = true
+
+[ttf-vlgothic]
+source = "github"
+github = "daisukesuzuki/VLGothic"
+use_latest_release = true
+
+[ulauncher]
+source = "github"
+github = "Ulauncher/Ulauncher"
+use_latest_release = true
+
+[v2raya]
+source = "github"
+github = "v2rayA/v2rayA"
+use_latest_release = true
+prefix = "v"
+
+[ventoy]
+source = "github"
+github = "ventoy/Ventoy"
+use_latest_release = true
+prefix = "v"
+
+[video2x]
+source = "github"
+github = "k4yt3x/video2x"
+use_latest_release = true
+
+[visual-studio-code]
+source = "httpheader"
+url = "https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64"
+regex = 'code_(\d+.\d+.\d+)-\d+_amd64.deb'
+
+[wafw00f]
+source = "github"
+github = "EnableSecurity/wafw00f"
+use_latest_release = true
+prefix = "v"
+
+[wemeet]
+source = "htmlparser"
+url = "https://source.meeting.qq.com/download-center.html"
+xpath = """//div[contains(@class, 'linux')]//div[contains(@class, 'with-version')]/div"""
+prefix = "版本号："
+
+[whisper]
+source = "github"
+github = "openai/whisper"
+use_latest_release = true
+prefix = "v"
+
+[whisper.cpp]
+source = "github"
+github = "ggerganov/whisper.cpp"
+use_latest_release = true
+prefix = "v"
+
+[whitesur-cursor-theme-git]
+source = "github"
+github = "vinceliuice/WhiteSur-cursors"
+
+[yay]
+source = "github"
+github = "Jguer/yay"
+use_latest_release = true
+prefix = "v"
