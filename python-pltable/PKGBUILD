@@ -3,11 +3,11 @@
 _module='PLTable'
 pkgname='python-pltable'
 pkgver=1.1.0
-pkgrel=1
+pkgrel=2
 pkgdesc="Python library for easily displaying tabular data in a visually appealing text table format"
 arch=('any')
 url='https://github.com/platomav/PLTable'
-license=('BSD')
+license=('BSD-3-Clause')
 depends=('python')
 makedepends=('python-setuptools')
 source=("https://files.pythonhosted.org/packages/source/${_module::1}/${_module}/${_module}-${pkgver}.tar.gz")
