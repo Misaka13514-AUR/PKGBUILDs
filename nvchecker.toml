@@ -45,17 +45,17 @@ github = "lyc8503/EasierConnect"
 [easyeda-bin]
 source = "regex"
 url = "https://easyeda.com/page/download"
-regex = 'easyeda-linux-x64-(\d+.\d+.\d+).zip'
+regex = 'easyeda-linux-x64-([\d.]+).zip'
 
 [easyeda-pro-bin]
 source = "regex"
 url = "https://easyeda.com/page/download"
-regex = 'easyeda-pro-linux-x64-(\d+.\d+.\d+).zip'
+regex = 'easyeda-pro-linux-x64-([\d.]+).zip'
 
 [easyeda-pro-electron]
 source = "regex"
 url = "https://easyeda.com/page/download"
-regex = 'easyeda-pro-linux-x64-(\d+.\d+.\d+).zip'
+regex = 'easyeda-pro-linux-x64-([\d.]+).zip'
 
 [freerouting]
 source = "github"
@@ -99,17 +99,17 @@ prefix = "v"
 [jlc-assistant-bin]
 source = "regex"
 url = "https://www.jlc.com/portal/appDownloadsWithConfig.html"
-regex = 'JLCPcAssit-linux-x64-(\d+.\d+.\d+).zip'
+regex = 'JLCPcAssit-linux-x64-([\d.]+).zip'
 
 [lceda-pro]
 source = "regex"
 url = "https://lceda.cn/page/download"
-regex = 'lceda-pro-linux-x64-(\d+.\d+.\d+.\d+).zip'
+regex = 'lceda-pro-linux-x64-([\d.]+).zip'
 
 [lceda-pro-bin]
 source = "regex"
 url = "https://lceda.cn/page/download"
-regex = 'lceda-pro-linux-x64-(\d+.\d+.\d+.\d+).zip'
+regex = 'lceda-pro-linux-x64-([\d.]+).zip'
 
 [meanalyzer]
 source = "github"
@@ -224,4 +224,4 @@ to_pattern = '\1.\2.\3'
 # [lceda-bin]
 # source = "regex"
 # url = "https://lceda.cn/page/download"
-# regex = 'lceda-linux-x64-(\d+.\d+.\d+).zip'
+# regex = 'lceda-linux-x64-([\d.]+).zip'
