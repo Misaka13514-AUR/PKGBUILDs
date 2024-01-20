@@ -27,3 +27,6 @@ keyfile.toml
 
 # lock file
 pkg.lock
+
+# EasyEDA LICENSE file
+LICENSE*.html

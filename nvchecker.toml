@@ -42,13 +42,6 @@ github = "MalcolmRobb/dump1090"
 source = "github"
 github = "lyc8503/EasierConnect"
 
-[easyeda-license]
-source = "regex"
-url = "https://easyeda.com/page/legal"
-regex = 'Effective Date: (\d+ \d+, \d+)'
-from_pattern = '(\d+) (\d+), (\d+)'
-to_pattern = '\3-\1-\2'
-
 [easyeda-bin]
 source = "regex"
 url = "https://easyeda.com/page/download"
@@ -107,14 +100,6 @@ prefix = "v"
 source = "regex"
 url = "https://www.jlc.com/portal/appDownloadsWithConfig.html"
 regex = 'JLCPcAssit-linux-x64-(\d+.\d+.\d+).zip'
-
-[lceda-license]
-source = "regex"
-url = "https://lceda.cn/page/legal"
-encoding = "utf-8"
-regex = '本版本发布/更新于：(【\d+】年【\d+】月【\d+】日)'
-from_pattern = '【(\d+)】年【(\d+)】月【(\d+)】日'
-to_pattern = '\1-\2-\3'
 
 [lceda-pro]
 source = "regex"
