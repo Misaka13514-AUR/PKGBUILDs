@@ -22,6 +22,10 @@ github = "bbg-contributors/bbg"
 source = "github"
 github = "canokeys/canokey-usbip"
 
+[cloudflare-wrangler2]
+source = "npm"
+npm = "wrangler"
+
 [code-server]
 source = "github"
 github = "coder/code-server"

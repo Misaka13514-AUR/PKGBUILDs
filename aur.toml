@@ -24,10 +24,6 @@ github = "cinnyapp/cinny-desktop"
 use_latest_release = true
 prefix = "v"
 
-[cloudflare-wrangler2]
-source = "npm"
-npm = "wrangler"
-
 [cloudflarespeedtest]
 source = "github"
 github = "XIU2/CloudflareSpeedTest"
