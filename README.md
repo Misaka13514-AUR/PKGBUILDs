@@ -1,6 +1,6 @@
 # [PKGBUILDs](https://wiki.archlinux.org/index.php/PKGBUILD) for [Arch User Repository](https://aur.archlinux.org)
 
-This repository contains the packages I maintain in [AUR](https://aur.archlinux.org/packages/?K=Misaka13514&SeB=M), checked into git as subtrees for easier management and pull requests.
+This repository contains the packages I maintain or co-maintain in [AUR](https://aur.archlinux.org/packages/?K=Misaka13514&SeB=M), checked into Git as subtrees for easier management and pull requests.
 
 Powered by [nvchecker](https://github.com/lilydjwg/nvchecker) & [aurpublish](https://github.com/eli-schwartz/aurpublish).
 
@@ -17,9 +17,15 @@ Add the following lines to `/etc/pacman.conf`:
 Server = https://repo.atri.tk/$arch
 ```
 
-Add and trust my GPG key in pacman keyring:
+Add my GPG key to the pacman keyring and trust it:
 
 ```sh
 sudo pacman-key --recv-keys 293B93D8A471059F85D716A65BA92099D9BE2DAA
 sudo pacman-key --lsign-key 293B93D8A471059F85D716A65BA92099D9BE2DAA
 ```
+
+## Acknowledgments
+
+This repository is largely inspired by [orhun/PKGBUILDs](https://github.com/orhun/PKGBUILDs), thanks to [orhun](https://aur.archlinux.org/account/orhun).
+
+The GitHub Actions workflow for automatically building AUR packages is based on [clansty/arch-build](https://github.com/clansty/arch-build), thanks to [Clansty](https://aur.archlinux.org/account/Clansty).
