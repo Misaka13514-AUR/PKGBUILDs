@@ -192,6 +192,12 @@ github = "OpenStitching/stitching"
 use_latest_release = true
 prefix = "v"
 
+[python-toml-sort]
+source = "github"
+github = "pappasam/toml-sort"
+use_latest_release = true
+prefix = "v"
+
 [python-wallbreaker]
 source = "github"
 github = "hluwa/Wallbreaker"
@@ -226,17 +232,17 @@ to_pattern = '\1.\2.\3'
 [android-studio]
 source = "regex"
 url = "https://developer.android.com/studio"
-regex = 'android-studio-(\d+.\d+.\d+.\d+)-linux.tar.gz'
+regex = 'android-studio-([\d.]+)-linux.tar.gz'
 
 [burpsuite]
 source = "regex"
 url = "https://portswigger.net/burp/releases/community/latest"
-regex = 'Professional / Community (\d+.\d+.\d+.\d+)'
+regex = 'Professional / Community ([\d.]+)'
 
 [charles]
 source = "regex"
 url = "https://www.charlesproxy.com/download/"
-regex = 'v(\d+.\d+.\d+)'
+regex = 'v([\d.]+)'
 
 [cinny-desktop]
 source = "github"
@@ -264,7 +270,7 @@ prefix = "v"
 [davinci-resolve]
 source = "regex"
 url = "https://www.blackmagicdesign.com/support/partial/downloads"
-regex = 'DaVinci Resolve (\d+.\d+.\d+) Update'
+regex = 'DaVinci Resolve ([\d.]+) Update'
 
 [dirsearch]
 source = "github"
@@ -317,6 +323,10 @@ prefix = "v"
 source = "github"
 github = "mgalgs/gnome-shell-system-monitor-applet"
 
+[google-chrome]
+source = "cmd"
+cmd = '''wget -qO- http://dl.google.com/linux/chrome/rpm/stable/x86_64/repodata/other.xml.gz | zgrep -A1 "google-chrome-stable" | awk -F\" '/version/ {print $4"-"$6}' '''
+
 [hexo-cli]
 source = "github"
 github = "hexojs/hexo-cli"
@@ -335,10 +345,11 @@ github = "boltgolt/howdy"
 use_latest_release = true
 prefix = "v"
 
-[ibus-mozc]
+[hysteria]
 source = "github"
-github = "google/mozc"
-use_max_tag = true
+github = "apernet/hysteria"
+use_latest_release = true
+prefix = "app/v"
 
 [icalingua-plus-plus]
 source = "github"
@@ -355,7 +366,7 @@ prefix = "v"
 [intellij-idea-ultimate-edition]
 source = "regex"
 url = "https://data.services.jetbrains.com/products/releases?code=IIU&latest=true&type=release"
-regex = 'ideaIU-(\d+.\d+.\d+).tar.gz'
+regex = 'ideaIU-([\d.]+).tar.gz'
 
 [kicad-library-ab2-git]
 source = "github"
@@ -373,9 +384,24 @@ github = "espressif/kicad-libraries"
 source = "github"
 github = "sparkfun/SparkFun-KiCad-Libraries"
 
+[libnatspec]
+source = "github"
+github = "Etersoft/libnatspec"
+use_max_tag = true
+
+[linuxqq-nt-bwrap]
+source = "regex"
+url = "https://cdn-go.cn/qq-web/im.qq.com_new/latest/rainbow/linuxQQDownload.js"
+regex = 'linuxqq_([\d.-]+)_amd64.deb'
+
 [mfcuk-git]
 source = "github"
 github = "nfc-tools/mfcuk"
+
+[mozc]
+source = "github"
+github = "google/mozc"
+use_max_tag = true
 
 [nbtexplorer]
 source = "github"
@@ -383,6 +409,12 @@ github = "jaquadro/NBTExplorer"
 use_latest_release = true
 from_pattern = 'v(\d+).(\d+).(\d+)-win'
 to_pattern = '\1.\2.\3'
+
+[needrestart]
+source = "github"
+github = "liske/needrestart"
+use_latest_release = true
+prefix = "v"
 
 [nixfmt]
 source = "github"
@@ -400,6 +432,17 @@ prefix = "v"
 source = "github"
 github = "leolewis/openvisualtraceroute"
 
+[pacroller]
+source = "github"
+github = "isjerryxiao/pacroller"
+use_max_tag = true
+
+[paru]
+source = "github"
+github = "Morganamilo/paru"
+use_latest_release = true
+prefix = "v"
+
 [pgloader]
 source = "github"
 github = "dimitri/pgloader"
@@ -409,12 +452,12 @@ prefix = "v"
 [pkcrack]
 source = "regex"
 url = "https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack/download1.html"
-regex = 'pkcrack-(\d+.\d+.\d+).tar.gz'
+regex = 'pkcrack-([\d.]+).tar.gz'
 
 [pngcheck]
 source = "regex"
 url = "http://www.libpng.org/pub/png/apps/pngcheck.html"
-regex = 'pngcheck-(\d+.\d+.\d+).tar.gz'
+regex = 'pngcheck-([\d.]+).tar.gz'
 
 [pnpm-shell-completion]
 source = "github"
@@ -425,7 +468,7 @@ prefix = "v"
 [pycharm-professional]
 source = "regex"
 url = "https://data.services.jetbrains.com/products/releases?code=PCP&latest=true&type=release"
-regex = 'pycharm-professional-(\d+.\d+.\d+).tar.gz'
+regex = 'pycharm-professional-([\d.]+).tar.gz'
 
 [python-iptvtools]
 source = "github"
@@ -438,11 +481,22 @@ source = "github"
 github = "librosa/librosa"
 use_latest_release = true
 
+[python-pluginbase]
+source = "github"
+github = "mitsuhiko/pluginbase"
+use_max_tag = true
+prefix = "v"
+
 [python-pydub]
 source = "github"
 github = "jiaaro/pydub"
 use_latest_release = true
 prefix = "v"
+
+[realsr-ncnn-vulkan]
+source = "github"
+github = "nihui/realsr-ncnn-vulkan"
+use_latest_release = true
 
 [sdrangel]
 source = "github"
@@ -463,22 +517,22 @@ use_max_tag = true
 [slack-desktop]
 source = "regex"
 url = "https://slack.com/downloads/linux"
-regex = 'Version (\d+.\d+.\d+)'
+regex = 'Version ([\d.]+)'
 
 [stm32cubeide]
 source = "regex"
 url = "https://nvchecker.atri.tk/stm32cubeide"
-regex = 'STM32CubeIDE-Lnx.version=(\d+.\d+.\d+).html'
+regex = 'STM32CubeIDE-Lnx.version=([\d.]+).html'
 
 [stm32cubemonitor]
 source = "regex"
 url = "https://nvchecker.atri.tk/stm32cubemonitor"
-regex = 'STM32CubeMon-Lin.version=(\d+.\d+.\d+).html'
+regex = 'STM32CubeMon-Lin.version=([\d.]+).html'
 
 [stm32cubemx]
 source = "regex"
 url = "https://nvchecker.atri.tk/stm32cubemx"
-regex = 'STM32CubeMX-Lin.version=(\d+.\d+.\d+).html'
+regex = 'STM32CubeMX-Lin.version=([\d.]+).html'
 
 [subconverter]
 source = "github"
@@ -521,7 +575,7 @@ use_latest_release = true
 [visual-studio-code]
 source = "httpheader"
 url = "https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64"
-regex = 'code_(\d+.\d+.\d+)-\d+_amd64.deb'
+regex = 'code_([\d.]+)-\d+_amd64.deb'
 
 [wafw00f]
 source = "github"
