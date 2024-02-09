@@ -337,7 +337,7 @@ prefix = "v"
 source = "github"
 github = "huanghongxun/HMCL"
 use_latest_release = true
-prefix = "release-"
+prefix = "v"
 
 [howdy]
 source = "github"
