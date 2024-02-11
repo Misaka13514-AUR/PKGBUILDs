@@ -14,7 +14,7 @@ Add the following lines to `/etc/pacman.conf`:
 
 ```ini
 [atri]
-Server = https://repo.atri.tk/$arch
+Server = https://repo.apeiria.net/$arch
 ```
 
 Add my GPG key to the pacman keyring and trust it:
