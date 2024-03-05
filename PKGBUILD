@@ -19,7 +19,7 @@ build() {
 
 check() {
   cd pipreqs-$pkgver
-  python setup.py test
+  python -m unittest -v
 }
 
 package() {
