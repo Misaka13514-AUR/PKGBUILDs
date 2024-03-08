@@ -388,7 +388,7 @@ use_max_tag = true
 [linuxqq-nt-bwrap]
 source = "regex"
 url = "https://cdn-go.cn/qq-web/im.qq.com_new/latest/rainbow/linuxQQDownload.js"
-regex = 'linuxqq_([\d.-]+)_amd64.deb'
+regex = 'QQ_([\d._-]+)_amd64'
 
 [mfcuk-git]
 source = "github"
