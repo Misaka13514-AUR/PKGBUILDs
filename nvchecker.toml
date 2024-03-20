@@ -82,6 +82,12 @@ github = "Mrs4s/go-cqhttp"
 use_latest_release = true
 prefix = "v"
 
+[gqrx]
+source = "github"
+github = "gqrx-sdr/gqrx"
+use_latest_release = true
+prefix = "v"
+
 [gqrx-scanner]
 source = "github"
 github = "neural75/gqrx-scanner"
