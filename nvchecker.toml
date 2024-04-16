@@ -24,12 +24,6 @@ github = "bbg-contributors/bbg"
 source = "github"
 github = "canokeys/canokey-usbip"
 
-[code-server]
-source = "github"
-github = "coder/code-server"
-use_latest_release = true
-prefix = "v"
-
 [docsify-cli]
 source = "github"
 github = "docsifyjs/docsify-cli"
@@ -146,22 +140,6 @@ github = "projectdiscovery/nuclei"
 use_latest_release = true
 prefix = "v"
 
-[python-crccheck]
-source = "github"
-github = "MartinScharrer/crccheck"
-use_latest_release = true
-prefix = "v"
-
-[python-frida]
-source = "github"
-github = "frida/frida"
-use_latest_release = true
-
-[python-frida-tools]
-source = "github"
-github = "frida/frida-tools"
-use_max_tag = true
-
 [python-ite8291r3-ctl-git]
 source = "github"
 github = "pobrn/ite8291r3-ctl"
@@ -178,9 +156,11 @@ github = "teepark/python-lzf"
 use_max_tag = true
 prefix = "release-"
 
-[python-pltable]
-source = "pypi"
-pypi = "pltable"
+[python-pipreqs]
+source = "github"
+github = "bndr/pipreqs"
+use_max_tag = true
+prefix = "v"
 
 [python-rdbtools]
 source = "github"
@@ -205,6 +185,11 @@ source = "github"
 github = "hluwa/Wallbreaker"
 use_latest_release = true
 
+[python-yarg]
+source = "github"
+github = "kura/yarg"
+use_max_tag = true
+
 [srmd-ncnn-vulkan]
 source = "github"
 github = "nihui/srmd-ncnn-vulkan"
@@ -222,9 +207,39 @@ github = "projectdiscovery/subfinder"
 use_latest_release = true
 prefix = "v"
 
+[ttf-vlgothic]
+source = "github"
+github = "daisukesuzuki/VLGothic"
+use_latest_release = true
+
 [whitesur-icon-theme]
 source = "github"
 github = "vinceliuice/WhiteSur-icon-theme"
+use_latest_release = true
+from_pattern = '(\d+)-(\d+)-(\d+)'
+to_pattern = '\1.\2.\3'
+
+# AUR dependencies #
+
+[code-server]
+source = "github"
+github = "coder/code-server"
+use_latest_release = true
+prefix = "v"
+
+[python-crccheck]
+source = "github"
+github = "MartinScharrer/crccheck"
+use_latest_release = true
+prefix = "v"
+
+[python-pltable]
+source = "pypi"
+pypi = "pltable"
+
+[whitesur-gtk-theme]
+source = "github"
+github = "vinceliuice/WhiteSur-gtk-theme"
 use_latest_release = true
 from_pattern = '(\d+)-(\d+)-(\d+)'
 to_pattern = '\1.\2.\3'
@@ -235,6 +250,11 @@ to_pattern = '\1.\2.\3'
 source = "regex"
 url = "https://developer.android.com/studio"
 regex = 'android-studio-([\d.]+)-linux.tar.gz'
+
+[arduino-ide]
+source = "github"
+github = "arduino/arduino-ide"
+use_latest_release = true
 
 [burpsuite]
 source = "regex"
@@ -285,6 +305,12 @@ source = "github"
 github = "projectdiscovery/dnsprobe"
 use_latest_release = true
 prefix = "v"
+
+[eagle]
+source = "httpheader"
+url = "https://www.autodesk.com/eagle-download-lin"
+regex = 'EAGLE_([\d.]+)_English_Linux'
+user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 
 [gnome-shell-extension-blur-my-shell]
 source = "github"
@@ -472,6 +498,16 @@ source = "regex"
 url = "https://data.services.jetbrains.com/products/releases?code=PCP&latest=true&type=release"
 regex = 'pycharm-professional-([\d.]+).tar.gz'
 
+[python-frida]
+source = "github"
+github = "frida/frida"
+use_latest_release = true
+
+[python-frida-tools]
+source = "github"
+github = "frida/frida-tools"
+use_max_tag = true
+
 [python-iptvtools]
 source = "github"
 github = "huxuan/iptvtools"
@@ -547,11 +583,6 @@ source = "github"
 github = "zhengxiaowai/tcping"
 use_max_tag = true
 
-[ttf-vlgothic]
-source = "github"
-github = "daisukesuzuki/VLGothic"
-use_latest_release = true
-
 [ulauncher]
 source = "github"
 github = "Ulauncher/Ulauncher"
@@ -597,7 +628,7 @@ github = "openai/whisper"
 use_latest_release = true
 prefix = "v"
 
-[whisper.cpp]
+[whisper-cpp]
 source = "github"
 github = "ggerganov/whisper.cpp"
 use_latest_release = true
