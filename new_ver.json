@@ -1,119 +1,558 @@
 {
-  "android-studio": "2023.2.1.25",
-  "anime4k": "4.0.1",
-  "arduino-ide": "2.3.2",
-  "bbg": "20240104",
-  "bbg-git": "20240417.154345",
-  "burpsuite": "2024.2.1.5",
-  "canokey-usbip-git": "20240311.144100",
-  "charles": "4.6.6",
-  "cinny-desktop": "3.2.1",
-  "cloudflarespeedtest": "2.2.5",
-  "code-server": "4.23.1",
-  "cura": "5.7.0",
-  "cyberchef-web": "10.17.0",
-  "davinci-resolve": "18.6.6",
-  "dirsearch": "0.4.3",
-  "dnsprobe": "1.0.3",
-  "docsify-cli": "4.4.4",
-  "dump1090-git": "20141031.130159",
-  "eagle": "9.6.2",
-  "easierconnect": "20231002.150536",
-  "easyeda-bin": "6.5.40",
-  "easyeda-pro-bin": "2.1.57",
-  "easyeda-pro-electron": "2.1.57",
-  "freerouting": "1.9.0",
-  "frida-dexdump": "2.0.1",
-  "fscan": "1.8.3",
-  "gnome-shell-extension-blur-my-shell": "60",
-  "gnome-shell-extension-clipboard-indicator": "60",
-  "gnome-shell-extension-dash-to-dock": "90",
-  "gnome-shell-extension-gsconnect": "57",
-  "gnome-shell-extension-nightthemeswitcher": "77",
-  "gnome-shell-extension-no-overview": "45",
-  "gnome-shell-extension-system-monitor-next-git": "20240325.235352",
-  "go-cqhttp-bin": "1.2.0",
-  "google-chrome": "124.0.6367.60-1",
-  "gqrx": "2.17.5",
-  "gqrx-scanner": "1.0.5",
-  "hexo-cli": "4.3.2",
-  "hid-ite8291r3-dkms-git": "20230701.185327",
-  "hmcl": "3.5.7.246",
-  "howdy": "2.6.1",
-  "hysteria": "2.4.1",
-  "icalingua-plus-plus": "2.11.1",
-  "imhex": "1.33.2",
-  "intellij-idea-ultimate-edition": "2024.1",
-  "iptv-checker": "0.28.0",
-  "jlc-assistant-bin": "5.0.69",
-  "kicad-library-ab2-git": "20200220.224337",
-  "kicad-library-digikey-git": "20220202.200024",
-  "kicad-library-espressif-git": "20240415.081901",
-  "kicad-library-sparkfun-git": "20240418.164633",
-  "lceda-pro": "2.1.57",
-  "lceda-pro-bin": "2.1.57",
-  "libnatspec": "0.3.3-alt1",
-  "linuxqq-nt-bwrap": "3.2.7_240412",
-  "meanalyzer": "r346",
-  "mfcuk-git": "20180714.103154",
-  "mfoc-hardnested-git": "20230327.080352",
-  "mozc": "2.29.5374.102",
-  "nbtexplorer": "2.8.0",
-  "needrestart": "3.6",
-  "nixfmt": "0.6.0",
-  "nixpkgs-fmt": "1.3.0",
-  "nuclei": "3.2.4",
-  "nuclei-bin": "3.2.4",
-  "nvidia-container-toolkit": "1.15.0",
-  "openvisualtraceroute": "20220521.225939",
-  "pacroller": "0.1.8",
-  "paru": "2.0.3",
-  "pgloader": "3.6.9",
-  "pkcrack": "1.2.2",
-  "pngcheck": "3.0.3",
-  "pnpm-shell-completion": "0.5.3",
-  "pycharm-professional": "2024.1",
-  "python-crccheck": "1.3.0",
-  "python-frida": "16.2.1",
-  "python-frida-tools": "12.3.0",
-  "python-iptvtools": "0.2.11",
-  "python-ite8291r3-ctl-git": "20220314.181251",
-  "python-largestinteriorrectangle": "0.2.0",
-  "python-librosa": "0.10.1",
-  "python-lzf": "0.2.4",
-  "python-pipreqs": "0.5.0",
-  "python-pltable": "1.1.0",
-  "python-pluginbase": "1.0.1",
-  "python-pydub": "0.25.1",
-  "python-rdbtools": "0.1.15",
-  "python-stitching": "0.5.3",
-  "python-toml-sort": "0.23.1",
-  "python-wallbreaker": "1.0.3",
-  "python-yarg": "0.1.9",
-  "realsr-ncnn-vulkan": "20220728",
-  "sdrangel": "7.20.0",
-  "seclists": "2024.1",
-  "sedutil": "1.49",
-  "slack-desktop": "4.37.101",
-  "srmd-ncnn-vulkan": "20220728",
-  "stm32cubeide": "1.15.0",
-  "stm32cubemonitor": "1.8.0",
-  "stm32cubemx": "6.11.0",
-  "subconverter": "0.9.0",
-  "subfinder": "2.6.6",
-  "subfinder-bin": "2.6.6",
-  "tcping": "0.1.1rc1",
-  "ttf-vlgothic": "20230918",
-  "ulauncher": "5.15.7",
-  "v2raya": "2.2.5.1",
-  "ventoy": "1.0.97",
-  "video2x": "4.8.1",
-  "visual-studio-code": "1.88.1",
-  "wafw00f": "2.2.0",
-  "whisper": "20231117",
-  "whisper-cpp": "1.5.5",
-  "whitesur-cursor-theme-git": "20220617.145134",
-  "whitesur-gtk-theme": "2024.02.26",
-  "whitesur-icon-theme": "2024.04.08",
-  "yay": "12.3.5"
+  "version": 2,
+  "data": {
+    "android-studio": {
+      "version": "2023.2.1.25"
+    },
+    "anime4k": {
+      "version": "4.0.1",
+      "gitref": "refs/tags/v4.0.1",
+      "url": "https://github.com/bloc97/Anime4K/releases/tag/v4.0.1"
+    },
+    "arduino-ide": {
+      "version": "2.3.2",
+      "gitref": "refs/tags/2.3.2",
+      "url": "https://github.com/arduino/arduino-ide/releases/tag/2.3.2"
+    },
+    "bbg": {
+      "version": "20240104",
+      "gitref": "refs/tags/20240104",
+      "url": "https://github.com/bbg-contributors/bbg/releases/tag/20240104"
+    },
+    "bbg-git": {
+      "version": "20240417.154345",
+      "revision": "ee2a9da106f02c0f891c0937bfe12c1257a51bb1",
+      "url": "https://github.com/bbg-contributors/bbg/commit/ee2a9da106f02c0f891c0937bfe12c1257a51bb1"
+    },
+    "burpsuite": {
+      "version": "2024.2.1.5"
+    },
+    "canokey-usbip-git": {
+      "version": "20240311.144100",
+      "revision": "cc7087277096f185401b05143f9a028711d43557",
+      "url": "https://github.com/canokeys/canokey-usbip/commit/cc7087277096f185401b05143f9a028711d43557"
+    },
+    "charles": {
+      "version": "4.6.6"
+    },
+    "cinny-desktop": {
+      "version": "3.2.1",
+      "gitref": "refs/tags/v3.2.1",
+      "url": "https://github.com/cinnyapp/cinny-desktop/releases/tag/v3.2.1"
+    },
+    "cloudflarespeedtest": {
+      "version": "2.2.5",
+      "gitref": "refs/tags/v2.2.5",
+      "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/tag/v2.2.5"
+    },
+    "code-server": {
+      "version": "4.23.1",
+      "gitref": "refs/tags/v4.23.1",
+      "url": "https://github.com/coder/code-server/releases/tag/v4.23.1"
+    },
+    "cura": {
+      "version": "5.7.0",
+      "gitref": "refs/tags/5.7.0",
+      "url": "https://github.com/Ultimaker/Cura/releases/tag/5.7.0"
+    },
+    "cyberchef-web": {
+      "version": "10.17.0",
+      "gitref": "refs/tags/v10.17.0",
+      "url": "https://github.com/gchq/CyberChef/releases/tag/v10.17.0"
+    },
+    "davinci-resolve": {
+      "version": "18.6.6"
+    },
+    "dirsearch": {
+      "version": "0.4.3",
+      "gitref": "refs/tags/v0.4.3",
+      "url": "https://github.com/maurosoria/dirsearch/releases/tag/v0.4.3"
+    },
+    "dnsprobe": {
+      "version": "1.0.3",
+      "gitref": "refs/tags/v1.0.3",
+      "url": "https://github.com/projectdiscovery/dnsprobe/releases/tag/v1.0.3"
+    },
+    "docsify-cli": {
+      "version": "4.4.4",
+      "gitref": "refs/tags/v4.4.4",
+      "url": "https://github.com/docsifyjs/docsify-cli/releases/tag/v4.4.4"
+    },
+    "dump1090-git": {
+      "version": "20141031.130159",
+      "revision": "bff92c4ad772a0a8d433f788d39dae97e00e4dbe",
+      "url": "https://github.com/MalcolmRobb/dump1090/commit/bff92c4ad772a0a8d433f788d39dae97e00e4dbe"
+    },
+    "eagle": {
+      "version": "9.6.2"
+    },
+    "easierconnect": {
+      "version": "20231002.150536",
+      "revision": "e01671c6067a14178de5196e3385c415f224c152",
+      "url": "https://github.com/lyc8503/EasierConnect/commit/e01671c6067a14178de5196e3385c415f224c152"
+    },
+    "easyeda-bin": {
+      "version": "6.5.40"
+    },
+    "easyeda-pro-bin": {
+      "version": "2.1.57"
+    },
+    "easyeda-pro-electron": {
+      "version": "2.1.57"
+    },
+    "freerouting": {
+      "version": "1.9.0",
+      "gitref": "refs/tags/v1.9.0",
+      "url": "https://github.com/freerouting/freerouting/releases/tag/v1.9.0"
+    },
+    "frida-dexdump": {
+      "version": "2.0.1",
+      "gitref": "refs/tags/v2.0.1",
+      "url": "https://github.com/hluwa/frida-dexdump/releases/tag/v2.0.1"
+    },
+    "fscan": {
+      "version": "1.8.3",
+      "gitref": "refs/tags/1.8.3",
+      "revision": "6bf396d09f9acc611c75a51d4d443580500535e5",
+      "url": "https://github.com/shadow1ng/fscan/releases/tag/1.8.3"
+    },
+    "gnome-shell-extension-blur-my-shell": {
+      "version": "60",
+      "gitref": "refs/tags/v60",
+      "url": "https://github.com/aunetx/blur-my-shell/releases/tag/v60"
+    },
+    "gnome-shell-extension-clipboard-indicator": {
+      "version": "60",
+      "gitref": "refs/tags/v60",
+      "revision": "dc48ca5a51aef55712faf1a920dfaaf5186ff517",
+      "url": "https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator/releases/tag/v60"
+    },
+    "gnome-shell-extension-dash-to-dock": {
+      "version": "91",
+      "gitref": "refs/tags/extensions.gnome.org-v91",
+      "url": "https://github.com/micheleg/dash-to-dock/releases/tag/extensions.gnome.org-v91"
+    },
+    "gnome-shell-extension-gsconnect": {
+      "version": "57",
+      "gitref": "refs/tags/v57",
+      "url": "https://github.com/GSConnect/gnome-shell-extension-gsconnect/releases/tag/v57"
+    },
+    "gnome-shell-extension-nightthemeswitcher": {
+      "version": "77",
+      "revision": "34aeb19fdc097a8c1be33476ddb49e176188a57e",
+      "url": "https://gitlab.com/rmnvgr/nightthemeswitcher-gnome-shell-extension/-/tags/77"
+    },
+    "gnome-shell-extension-no-overview": {
+      "version": "45",
+      "gitref": "refs/tags/v45",
+      "url": "https://github.com/fthx/no-overview/releases/tag/v45"
+    },
+    "gnome-shell-extension-system-monitor-next-git": {
+      "version": "20240325.235352",
+      "revision": "002f4328188e0f60a1d5df53663db62ddfc1ae57",
+      "url": "https://github.com/mgalgs/gnome-shell-system-monitor-applet/commit/002f4328188e0f60a1d5df53663db62ddfc1ae57"
+    },
+    "go-cqhttp-bin": {
+      "version": "1.2.0",
+      "gitref": "refs/tags/v1.2.0",
+      "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
+    },
+    "google-chrome": {
+      "version": "124.0.6367.60-1"
+    },
+    "gqrx": {
+      "version": "2.17.5",
+      "gitref": "refs/tags/v2.17.5",
+      "url": "https://github.com/gqrx-sdr/gqrx/releases/tag/v2.17.5"
+    },
+    "gqrx-scanner": {
+      "version": "1.0.5",
+      "gitref": "refs/tags/v1.0.5",
+      "url": "https://github.com/neural75/gqrx-scanner/releases/tag/v1.0.5"
+    },
+    "hexo-cli": {
+      "version": "4.3.2",
+      "gitref": "refs/tags/v4.3.2",
+      "url": "https://github.com/hexojs/hexo-cli/releases/tag/v4.3.2"
+    },
+    "hid-ite8291r3-dkms-git": {
+      "version": "20230701.185327",
+      "revision": "7ad5991acbe2f949ae64a03a99dced347ead99fa",
+      "url": "https://github.com/pobrn/hid-ite8291r3/commit/7ad5991acbe2f949ae64a03a99dced347ead99fa"
+    },
+    "hmcl": {
+      "version": "3.5.7.246",
+      "gitref": "refs/tags/v3.5.7.246",
+      "url": "https://github.com/HMCL-dev/HMCL/releases/tag/v3.5.7.246"
+    },
+    "howdy": {
+      "version": "2.6.1",
+      "gitref": "refs/tags/v2.6.1",
+      "url": "https://github.com/boltgolt/howdy/releases/tag/v2.6.1"
+    },
+    "hysteria": {
+      "version": "2.4.1",
+      "gitref": "refs/tags/app/v2.4.1",
+      "url": "https://github.com/apernet/hysteria/releases/tag/app/v2.4.1"
+    },
+    "icalingua-plus-plus": {
+      "version": "2.11.6",
+      "gitref": "refs/tags/v2.11.6",
+      "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.11.6"
+    },
+    "imhex": {
+      "version": "1.33.2",
+      "gitref": "refs/tags/v1.33.2",
+      "url": "https://github.com/WerWolv/ImHex/releases/tag/v1.33.2"
+    },
+    "intellij-idea-ultimate-edition": {
+      "version": "2024.1"
+    },
+    "iptv-checker": {
+      "version": "0.28.0",
+      "gitref": "refs/tags/v0.28.0",
+      "url": "https://github.com/freearhey/iptv-checker/releases/tag/v0.28.0"
+    },
+    "jlc-assistant-bin": {
+      "version": "5.0.69"
+    },
+    "kicad-library-ab2-git": {
+      "version": "20200220.224337",
+      "revision": "0c4713896bd95bc689a5c95cef99ee90c9d7604d",
+      "url": "https://github.com/ab2tech/KiCad/commit/0c4713896bd95bc689a5c95cef99ee90c9d7604d"
+    },
+    "kicad-library-digikey-git": {
+      "version": "20220202.200024",
+      "revision": "d4bd68f42e6ccc474526811a853a03692e170b58",
+      "url": "https://github.com/Digi-Key/digikey-kicad-library/commit/d4bd68f42e6ccc474526811a853a03692e170b58"
+    },
+    "kicad-library-espressif-git": {
+      "version": "20240415.081901",
+      "revision": "2a2975d3243c08af580bbf272eec65f350eeecc7",
+      "url": "https://github.com/espressif/kicad-libraries/commit/2a2975d3243c08af580bbf272eec65f350eeecc7"
+    },
+    "kicad-library-sparkfun-git": {
+      "version": "20240420.160718",
+      "revision": "44d7ed1bd4a23e0f0f33dd40fd48b3ac4a69141c",
+      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/44d7ed1bd4a23e0f0f33dd40fd48b3ac4a69141c"
+    },
+    "lceda-pro": {
+      "version": "2.1.57"
+    },
+    "lceda-pro-bin": {
+      "version": "2.1.57"
+    },
+    "libnatspec": {
+      "version": "0.3.3-alt1",
+      "gitref": "refs/tags/0.3.3-alt1",
+      "revision": "b99e3ce17e572f8a052131de1f8d58eb2a94d3fc",
+      "url": "https://github.com/Etersoft/libnatspec/releases/tag/0.3.3-alt1"
+    },
+    "linuxqq-nt-bwrap": {
+      "version": "3.2.7_240412"
+    },
+    "meanalyzer": {
+      "version": "r346",
+      "gitref": "refs/tags/r346",
+      "url": "https://github.com/platomav/MEAnalyzer/releases/tag/r346"
+    },
+    "mfcuk-git": {
+      "version": "20180714.103154",
+      "revision": "b333a7925a3be80d9496c88c9fef816777827a83",
+      "url": "https://github.com/nfc-tools/mfcuk/commit/b333a7925a3be80d9496c88c9fef816777827a83"
+    },
+    "mfoc-hardnested-git": {
+      "version": "20230327.080352",
+      "revision": "a6007437405a0f18642a4bbca2eeba67c623d736",
+      "url": "https://github.com/nfc-tools/mfoc-hardnested/commit/a6007437405a0f18642a4bbca2eeba67c623d736"
+    },
+    "mozc": {
+      "version": "2.29.5374.102",
+      "gitref": "refs/tags/2.29.5374.102",
+      "revision": "9114a34323c96b4af6ea9c0e0ed0e208ee01c55f",
+      "url": "https://github.com/google/mozc/releases/tag/2.29.5374.102"
+    },
+    "nbtexplorer": {
+      "version": "2.8.0",
+      "gitref": "refs/tags/v2.8.0-win",
+      "url": "https://github.com/jaquadro/NBTExplorer/releases/tag/v2.8.0-win"
+    },
+    "needrestart": {
+      "version": "3.6",
+      "gitref": "refs/tags/v3.6",
+      "url": "https://github.com/liske/needrestart/releases/tag/v3.6"
+    },
+    "nixfmt": {
+      "version": "0.6.0",
+      "gitref": "refs/tags/v0.6.0",
+      "url": "https://github.com/NixOS/nixfmt/releases/tag/v0.6.0"
+    },
+    "nixpkgs-fmt": {
+      "version": "1.3.0",
+      "gitref": "refs/tags/v1.3.0",
+      "revision": "6740ea881d3ac5942d4fbf124f5956b896666c76",
+      "url": "https://github.com/nix-community/nixpkgs-fmt/releases/tag/v1.3.0"
+    },
+    "nuclei": {
+      "version": "3.2.4",
+      "gitref": "refs/tags/v3.2.4",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.2.4"
+    },
+    "nuclei-bin": {
+      "version": "3.2.4",
+      "gitref": "refs/tags/v3.2.4",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.2.4"
+    },
+    "nvidia-container-toolkit": {
+      "version": "1.15.0",
+      "gitref": "refs/tags/v1.15.0",
+      "url": "https://github.com/NVIDIA/nvidia-container-toolkit/releases/tag/v1.15.0"
+    },
+    "openvisualtraceroute": {
+      "version": "20220521.225939",
+      "revision": "00d2327bffe7449fbcd19d1a4483305d72cc214a",
+      "url": "https://github.com/leolewis/openvisualtraceroute/commit/00d2327bffe7449fbcd19d1a4483305d72cc214a"
+    },
+    "pacroller": {
+      "version": "0.1.8",
+      "gitref": "refs/tags/0.1.8",
+      "revision": "3ae4c58ad59a2e2552fb03976e98a24db84c0d33",
+      "url": "https://github.com/isjerryxiao/pacroller/releases/tag/0.1.8"
+    },
+    "paru": {
+      "version": "2.0.3",
+      "gitref": "refs/tags/v2.0.3",
+      "url": "https://github.com/Morganamilo/paru/releases/tag/v2.0.3"
+    },
+    "pgloader": {
+      "version": "3.6.9",
+      "gitref": "refs/tags/v3.6.9",
+      "url": "https://github.com/dimitri/pgloader/releases/tag/v3.6.9"
+    },
+    "pkcrack": {
+      "version": "1.2.2"
+    },
+    "pngcheck": {
+      "version": "3.0.3"
+    },
+    "pnpm-shell-completion": {
+      "version": "0.5.3",
+      "gitref": "refs/tags/v0.5.3",
+      "url": "https://github.com/g-plane/pnpm-shell-completion/releases/tag/v0.5.3"
+    },
+    "pycharm-professional": {
+      "version": "2024.1"
+    },
+    "python-crccheck": {
+      "version": "1.3.0",
+      "gitref": "refs/tags/v1.3.0",
+      "url": "https://github.com/MartinScharrer/crccheck/releases/tag/v1.3.0"
+    },
+    "python-frida": {
+      "version": "16.2.1",
+      "gitref": "refs/tags/16.2.1",
+      "url": "https://github.com/frida/frida/releases/tag/16.2.1"
+    },
+    "python-frida-tools": {
+      "version": "12.3.0",
+      "gitref": "refs/tags/12.3.0",
+      "revision": "c10668fe4565754887027ae00ad54df9a07d140d",
+      "url": "https://github.com/frida/frida-tools/releases/tag/12.3.0"
+    },
+    "python-iptvtools": {
+      "version": "0.2.11",
+      "gitref": "refs/tags/v0.2.11",
+      "url": "https://github.com/huxuan/iptvtools/releases/tag/v0.2.11"
+    },
+    "python-ite8291r3-ctl-git": {
+      "version": "20220314.181251",
+      "revision": "d2c490a1485f4d0476649bc198e8bb9bf07b476e",
+      "url": "https://github.com/pobrn/ite8291r3-ctl/commit/d2c490a1485f4d0476649bc198e8bb9bf07b476e"
+    },
+    "python-largestinteriorrectangle": {
+      "version": "0.2.0",
+      "gitref": "refs/tags/v0.2.0",
+      "url": "https://github.com/OpenStitching/lir/releases/tag/v0.2.0"
+    },
+    "python-librosa": {
+      "version": "0.10.1",
+      "gitref": "refs/tags/0.10.1",
+      "url": "https://github.com/librosa/librosa/releases/tag/0.10.1"
+    },
+    "python-lzf": {
+      "version": "0.2.4",
+      "gitref": "refs/tags/release-0.2.4",
+      "revision": "a23fe69d78d4d8a088669202b30ca3bdb402c110",
+      "url": "https://github.com/teepark/python-lzf/releases/tag/release-0.2.4"
+    },
+    "python-pipreqs": {
+      "version": "0.5.0",
+      "gitref": "refs/tags/v0.5.0",
+      "revision": "cd3f437689a9f27c8045de5126dcbe004d2ceebe",
+      "url": "https://github.com/bndr/pipreqs/releases/tag/v0.5.0"
+    },
+    "python-pltable": {
+      "version": "1.1.0",
+      "url": "https://pypi.org/project/pltable/1.1.0/"
+    },
+    "python-pluginbase": {
+      "version": "1.0.1",
+      "gitref": "refs/tags/v1.0.1",
+      "revision": "f0b2c3baeac0269aa997371a903d861ed6474d5b",
+      "url": "https://github.com/mitsuhiko/pluginbase/releases/tag/v1.0.1"
+    },
+    "python-pydub": {
+      "version": "0.25.1",
+      "gitref": "refs/tags/v0.25.1",
+      "url": "https://github.com/jiaaro/pydub/releases/tag/v0.25.1"
+    },
+    "python-rdbtools": {
+      "version": "0.1.15",
+      "gitref": "refs/tags/rdbtools-0.1.15",
+      "url": "https://github.com/sripathikrishnan/redis-rdb-tools/releases/tag/rdbtools-0.1.15"
+    },
+    "python-stitching": {
+      "version": "0.5.3",
+      "gitref": "refs/tags/v0.5.3",
+      "url": "https://github.com/OpenStitching/stitching/releases/tag/v0.5.3"
+    },
+    "python-toml-sort": {
+      "version": "0.23.1",
+      "gitref": "refs/tags/v0.23.1",
+      "url": "https://github.com/pappasam/toml-sort/releases/tag/v0.23.1"
+    },
+    "python-wallbreaker": {
+      "version": "1.0.3",
+      "gitref": "refs/tags/1.0.3",
+      "url": "https://github.com/hluwa/Wallbreaker/releases/tag/1.0.3"
+    },
+    "python-yarg": {
+      "version": "0.1.9",
+      "gitref": "refs/tags/0.1.9",
+      "revision": "990702cc64a03a3c96dd1e228298daf3178f680a",
+      "url": "https://github.com/kura/yarg/releases/tag/0.1.9"
+    },
+    "realsr-ncnn-vulkan": {
+      "version": "20220728",
+      "gitref": "refs/tags/20220728",
+      "url": "https://github.com/nihui/realsr-ncnn-vulkan/releases/tag/20220728"
+    },
+    "sdrangel": {
+      "version": "7.20.0",
+      "gitref": "refs/tags/v7.20.0",
+      "url": "https://github.com/f4exb/sdrangel/releases/tag/v7.20.0"
+    },
+    "seclists": {
+      "version": "2024.1",
+      "gitref": "refs/tags/2024.1",
+      "url": "https://github.com/danielmiessler/SecLists/releases/tag/2024.1"
+    },
+    "sedutil": {
+      "version": "1.49",
+      "gitref": "refs/tags/1.49",
+      "revision": "b483b8cb31264990bd6112f664826bbc6ee3027e",
+      "url": "https://github.com/Drive-Trust-Alliance/sedutil/releases/tag/1.49"
+    },
+    "slack-desktop": {
+      "version": "4.37.101"
+    },
+    "srmd-ncnn-vulkan": {
+      "version": "20220728",
+      "gitref": "refs/tags/20220728",
+      "url": "https://github.com/nihui/srmd-ncnn-vulkan/releases/tag/20220728"
+    },
+    "stm32cubeide": {
+      "version": "1.15.0"
+    },
+    "stm32cubemonitor": {
+      "version": "1.8.0"
+    },
+    "stm32cubemx": {
+      "version": "6.11.0"
+    },
+    "subconverter": {
+      "version": "0.9.0",
+      "gitref": "refs/tags/v0.9.0",
+      "url": "https://github.com/tindy2013/subconverter/releases/tag/v0.9.0"
+    },
+    "subfinder": {
+      "version": "2.6.6",
+      "gitref": "refs/tags/v2.6.6",
+      "url": "https://github.com/projectdiscovery/subfinder/releases/tag/v2.6.6"
+    },
+    "subfinder-bin": {
+      "version": "2.6.6",
+      "gitref": "refs/tags/v2.6.6",
+      "url": "https://github.com/projectdiscovery/subfinder/releases/tag/v2.6.6"
+    },
+    "tcping": {
+      "version": "0.1.1rc1",
+      "gitref": "refs/tags/0.1.1rc1",
+      "revision": "eeea867bf55406d378f197ceb14b5d2a2499072a",
+      "url": "https://github.com/zhengxiaowai/tcping/releases/tag/0.1.1rc1"
+    },
+    "ttf-vlgothic": {
+      "version": "20230918",
+      "gitref": "refs/tags/20230918",
+      "url": "https://github.com/daisukesuzuki/VLGothic/releases/tag/20230918"
+    },
+    "ulauncher": {
+      "version": "5.15.7",
+      "gitref": "refs/tags/5.15.7",
+      "url": "https://github.com/Ulauncher/Ulauncher/releases/tag/5.15.7"
+    },
+    "v2raya": {
+      "version": "2.2.5.1",
+      "gitref": "refs/tags/v2.2.5.1",
+      "url": "https://github.com/v2rayA/v2rayA/releases/tag/v2.2.5.1"
+    },
+    "ventoy": {
+      "version": "1.0.97",
+      "gitref": "refs/tags/v1.0.97",
+      "url": "https://github.com/ventoy/Ventoy/releases/tag/v1.0.97"
+    },
+    "video2x": {
+      "version": "4.8.1",
+      "gitref": "refs/tags/4.8.1",
+      "url": "https://github.com/k4yt3x/video2x/releases/tag/4.8.1"
+    },
+    "visual-studio-code": {
+      "version": "1.88.1"
+    },
+    "wafw00f": {
+      "version": "2.2.0",
+      "gitref": "refs/tags/v2.2.0",
+      "url": "https://github.com/EnableSecurity/wafw00f/releases/tag/v2.2.0"
+    },
+    "whisper": {
+      "version": "20231117",
+      "gitref": "refs/tags/v20231117",
+      "url": "https://github.com/openai/whisper/releases/tag/v20231117"
+    },
+    "whisper-cpp": {
+      "version": "1.5.5",
+      "gitref": "refs/tags/v1.5.5",
+      "url": "https://github.com/ggerganov/whisper.cpp/releases/tag/v1.5.5"
+    },
+    "whitesur-cursor-theme-git": {
+      "version": "20220617.145134",
+      "revision": "5c94e8c22de067282f4cf6d782afd7b75cdd08c8",
+      "url": "https://github.com/vinceliuice/WhiteSur-cursors/commit/5c94e8c22de067282f4cf6d782afd7b75cdd08c8"
+    },
+    "whitesur-gtk-theme": {
+      "version": "2024.02.26",
+      "gitref": "refs/tags/2024-02-26",
+      "url": "https://github.com/vinceliuice/WhiteSur-gtk-theme/releases/tag/2024-02-26"
+    },
+    "whitesur-icon-theme": {
+      "version": "2024.04.22",
+      "gitref": "refs/tags/2024-04-22",
+      "url": "https://github.com/vinceliuice/WhiteSur-icon-theme/releases/tag/2024-04-22"
+    },
+    "yay": {
+      "version": "12.3.5",
+      "gitref": "refs/tags/v12.3.5",
+      "url": "https://github.com/Jguer/yay/releases/tag/v12.3.5"
+    }
+  }
 }
