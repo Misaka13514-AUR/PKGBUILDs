@@ -20,9 +20,9 @@
       "url": "https://github.com/bbg-contributors/bbg/releases/tag/20240104"
     },
     "bbg-git": {
-      "version": "20240417.154345",
-      "revision": "ee2a9da106f02c0f891c0937bfe12c1257a51bb1",
-      "url": "https://github.com/bbg-contributors/bbg/commit/ee2a9da106f02c0f891c0937bfe12c1257a51bb1"
+      "version": "20240422.093924",
+      "revision": "9c2371d648b746d250fa92a6c82a2797d774ef84",
+      "url": "https://github.com/bbg-contributors/bbg/commit/9c2371d648b746d250fa92a6c82a2797d774ef84"
     },
     "burpsuite": {
       "version": "2024.2.1.5"
@@ -51,14 +51,14 @@
       "url": "https://github.com/coder/code-server/releases/tag/v4.23.1"
     },
     "cura": {
-      "version": "5.7.0",
-      "gitref": "refs/tags/5.7.0",
-      "url": "https://github.com/Ultimaker/Cura/releases/tag/5.7.0"
+      "version": "5.7.1",
+      "gitref": "refs/tags/5.7.1",
+      "url": "https://github.com/Ultimaker/Cura/releases/tag/5.7.1"
     },
     "cyberchef-web": {
-      "version": "10.17.0",
-      "gitref": "refs/tags/v10.17.0",
-      "url": "https://github.com/gchq/CyberChef/releases/tag/v10.17.0"
+      "version": "10.18.3",
+      "gitref": "refs/tags/v10.18.3",
+      "url": "https://github.com/gchq/CyberChef/releases/tag/v10.18.3"
     },
     "davinci-resolve": {
       "version": "18.6.6"
@@ -117,9 +117,9 @@
       "url": "https://github.com/shadow1ng/fscan/releases/tag/1.8.3"
     },
     "gnome-shell-extension-blur-my-shell": {
-      "version": "60",
-      "gitref": "refs/tags/v60",
-      "url": "https://github.com/aunetx/blur-my-shell/releases/tag/v60"
+      "version": "61",
+      "gitref": "refs/tags/v61",
+      "url": "https://github.com/aunetx/blur-my-shell/releases/tag/v61"
     },
     "gnome-shell-extension-clipboard-indicator": {
       "version": "60",
@@ -128,9 +128,9 @@
       "url": "https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator/releases/tag/v60"
     },
     "gnome-shell-extension-dash-to-dock": {
-      "version": "91",
-      "gitref": "refs/tags/extensions.gnome.org-v91",
-      "url": "https://github.com/micheleg/dash-to-dock/releases/tag/extensions.gnome.org-v91"
+      "version": "92",
+      "gitref": "refs/tags/extensions.gnome.org-v92",
+      "url": "https://github.com/micheleg/dash-to-dock/releases/tag/extensions.gnome.org-v92"
     },
     "gnome-shell-extension-gsconnect": {
       "version": "57",
@@ -148,9 +148,9 @@
       "url": "https://github.com/fthx/no-overview/releases/tag/v45"
     },
     "gnome-shell-extension-system-monitor-next-git": {
-      "version": "20240325.235352",
-      "revision": "002f4328188e0f60a1d5df53663db62ddfc1ae57",
-      "url": "https://github.com/mgalgs/gnome-shell-system-monitor-applet/commit/002f4328188e0f60a1d5df53663db62ddfc1ae57"
+      "version": "20240422.182313",
+      "revision": "4a1cfff514dc4feeaef8727ceed008029d01fed7",
+      "url": "https://github.com/mgalgs/gnome-shell-system-monitor-applet/commit/4a1cfff514dc4feeaef8727ceed008029d01fed7"
     },
     "go-cqhttp-bin": {
       "version": "1.2.0",
@@ -158,7 +158,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "124.0.6367.60-1"
+      "version": "124.0.6367.78-1"
     },
     "gqrx": {
       "version": "2.17.5",
@@ -232,9 +232,9 @@
       "url": "https://github.com/espressif/kicad-libraries/commit/2a2975d3243c08af580bbf272eec65f350eeecc7"
     },
     "kicad-library-sparkfun-git": {
-      "version": "20240420.160718",
-      "revision": "44d7ed1bd4a23e0f0f33dd40fd48b3ac4a69141c",
-      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/44d7ed1bd4a23e0f0f33dd40fd48b3ac4a69141c"
+      "version": "20240424.154121",
+      "revision": "a8443423bfd03f9bc72ce31e43cef493f6ae5461",
+      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/a8443423bfd03f9bc72ce31e43cef493f6ae5461"
     },
     "lceda-pro": {
       "version": "2.1.57"
@@ -249,7 +249,7 @@
       "url": "https://github.com/Etersoft/libnatspec/releases/tag/0.3.3-alt1"
     },
     "linuxqq-nt-bwrap": {
-      "version": "3.2.7_240412"
+      "version": "3.2.7_240422"
     },
     "meanalyzer": {
       "version": "r346",
@@ -294,14 +294,14 @@
       "url": "https://github.com/nix-community/nixpkgs-fmt/releases/tag/v1.3.0"
     },
     "nuclei": {
-      "version": "3.2.4",
-      "gitref": "refs/tags/v3.2.4",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.2.4"
+      "version": "3.2.5",
+      "gitref": "refs/tags/v3.2.5",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.2.5"
     },
     "nuclei-bin": {
-      "version": "3.2.4",
-      "gitref": "refs/tags/v3.2.4",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.2.4"
+      "version": "3.2.5",
+      "gitref": "refs/tags/v3.2.5",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.2.5"
     },
     "nvidia-container-toolkit": {
       "version": "1.15.0",
@@ -462,13 +462,13 @@
       "url": "https://github.com/nihui/srmd-ncnn-vulkan/releases/tag/20220728"
     },
     "stm32cubeide": {
-      "version": "1.15.0"
+      "version": "1.15.1"
     },
     "stm32cubemonitor": {
       "version": "1.8.0"
     },
     "stm32cubemx": {
-      "version": "6.11.0"
+      "version": "6.11.1"
     },
     "subconverter": {
       "version": "0.9.0",
