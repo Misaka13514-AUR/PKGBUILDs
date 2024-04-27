@@ -20,12 +20,12 @@
       "url": "https://github.com/bbg-contributors/bbg/releases/tag/20240104"
     },
     "bbg-git": {
-      "version": "20240422.093924",
-      "revision": "9c2371d648b746d250fa92a6c82a2797d774ef84",
-      "url": "https://github.com/bbg-contributors/bbg/commit/9c2371d648b746d250fa92a6c82a2797d774ef84"
+      "version": "20240426.150359",
+      "revision": "9874bf885c1118046047fd310f8fb3c53166bc65",
+      "url": "https://github.com/bbg-contributors/bbg/commit/9874bf885c1118046047fd310f8fb3c53166bc65"
     },
     "burpsuite": {
-      "version": "2024.2.1.5"
+      "version": "2024.3.1.3"
     },
     "canokey-usbip-git": {
       "version": "20240311.144100",
@@ -158,7 +158,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "124.0.6367.78-1"
+      "version": "124.0.6367.91-1"
     },
     "gqrx": {
       "version": "2.17.5",
