@@ -344,7 +344,7 @@ use_max_tag = true
 [gnome-shell-extension-no-overview]
 source = "github"
 github = "fthx/no-overview"
-use_latest_release = true
+use_max_tag = true
 prefix = "v"
 
 [gnome-shell-extension-system-monitor-next-git]
