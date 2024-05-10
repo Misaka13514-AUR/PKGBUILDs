@@ -20,9 +20,9 @@
       "url": "https://github.com/bbg-contributors/bbg/releases/tag/20240104"
     },
     "bbg-git": {
-      "version": "20240502.124443",
-      "revision": "62012d141d1538d98d7402c7461f0d55744b5455",
-      "url": "https://github.com/bbg-contributors/bbg/commit/62012d141d1538d98d7402c7461f0d55744b5455"
+      "version": "20240506.132622",
+      "revision": "7138ebd3f48944bd5b594b9b3d9152e7d8352145",
+      "url": "https://github.com/bbg-contributors/bbg/commit/7138ebd3f48944bd5b594b9b3d9152e7d8352145"
     },
     "burpsuite": {
       "version": "2024.3.1.4"
@@ -46,9 +46,9 @@
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/tag/v2.2.5"
     },
     "code-server": {
-      "version": "4.23.1",
-      "gitref": "refs/tags/v4.23.1",
-      "url": "https://github.com/coder/code-server/releases/tag/v4.23.1"
+      "version": "4.89.0",
+      "gitref": "refs/tags/v4.89.0",
+      "url": "https://github.com/coder/code-server/releases/tag/v4.89.0"
     },
     "cura": {
       "version": "5.7.1",
@@ -95,10 +95,10 @@
       "version": "6.5.40"
     },
     "easyeda-pro-bin": {
-      "version": "2.1.57"
+      "version": "2.1.59"
     },
     "easyeda-pro-electron": {
-      "version": "2.1.57"
+      "version": "2.1.59"
     },
     "freerouting": {
       "version": "1.9.0",
@@ -149,9 +149,9 @@
       "url": "https://github.com/fthx/no-overview/releases/tag/v46"
     },
     "gnome-shell-extension-system-monitor-next-git": {
-      "version": "20240504.230352",
-      "revision": "acfd548c251149679de2c16c08daa30715d9fa82",
-      "url": "https://github.com/mgalgs/gnome-shell-system-monitor-applet/commit/acfd548c251149679de2c16c08daa30715d9fa82"
+      "version": "20240510.005206",
+      "revision": "4bd03a2944f124a493ab8fe0df757c45f00b9c81",
+      "url": "https://github.com/mgalgs/gnome-shell-system-monitor-applet/commit/4bd03a2944f124a493ab8fe0df757c45f00b9c81"
     },
     "go-cqhttp-bin": {
       "version": "1.2.0",
@@ -159,7 +159,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "124.0.6367.118-1"
+      "version": "124.0.6367.201-1"
     },
     "gqrx": {
       "version": "2.17.5",
@@ -197,9 +197,9 @@
       "url": "https://github.com/apernet/hysteria/releases/tag/app/v2.4.3"
     },
     "icalingua-plus-plus": {
-      "version": "2.11.8",
-      "gitref": "refs/tags/v2.11.8",
-      "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.11.8"
+      "version": "2.12.0",
+      "gitref": "refs/tags/v2.12.0",
+      "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.12.0"
     },
     "imhex": {
       "version": "1.33.2",
@@ -238,10 +238,10 @@
       "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/3f0742d0e291b9487b4cbd81d6033ed48b5593a2"
     },
     "lceda-pro": {
-      "version": "2.1.57"
+      "version": "2.1.59"
     },
     "lceda-pro-bin": {
-      "version": "2.1.57"
+      "version": "2.1.59"
     },
     "libnatspec": {
       "version": "0.3.3-alt1",
@@ -326,9 +326,10 @@
       "url": "https://github.com/Morganamilo/paru/releases/tag/v2.0.3"
     },
     "pgloader": {
-      "version": "3.6.9",
-      "gitref": "refs/tags/v3.6.9",
-      "url": "https://github.com/dimitri/pgloader/releases/tag/v3.6.9"
+      "version": "3.6.10",
+      "gitref": "refs/tags/v3.6.10",
+      "revision": "9a5a2e1bf652af2d8f5708b0f380cee9f8153c77",
+      "url": "https://github.com/dimitri/pgloader/releases/tag/v3.6.10"
     },
     "pkcrack": {
       "version": "1.2.2"
@@ -337,9 +338,9 @@
       "version": "3.0.3"
     },
     "pnpm-shell-completion": {
-      "version": "0.5.3",
-      "gitref": "refs/tags/v0.5.3",
-      "url": "https://github.com/g-plane/pnpm-shell-completion/releases/tag/v0.5.3"
+      "version": "0.5.4",
+      "gitref": "refs/tags/v0.5.4",
+      "url": "https://github.com/g-plane/pnpm-shell-completion/releases/tag/v0.5.4"
     },
     "pycharm-professional": {
       "version": "2024.1.1"
@@ -449,13 +450,13 @@
       "url": "https://github.com/danielmiessler/SecLists/releases/tag/2024.1"
     },
     "sedutil": {
-      "version": "1.49",
-      "gitref": "refs/tags/1.49",
-      "revision": "b483b8cb31264990bd6112f664826bbc6ee3027e",
-      "url": "https://github.com/Drive-Trust-Alliance/sedutil/releases/tag/1.49"
+      "version": "1.49.1",
+      "gitref": "refs/tags/1.49.1",
+      "revision": "2415eec72261020602c37949fd996af1612d5b92",
+      "url": "https://github.com/Drive-Trust-Alliance/sedutil/releases/tag/1.49.1"
     },
     "slack-desktop": {
-      "version": "4.37.101"
+      "version": "4.37.101-0.1"
     },
     "srmd-ncnn-vulkan": {
       "version": "20220728",
@@ -518,7 +519,7 @@
       "url": "https://github.com/k4yt3x/video2x/releases/tag/4.8.1"
     },
     "visual-studio-code": {
-      "version": "1.89.0"
+      "version": "1.89.1"
     },
     "wafw00f": {
       "version": "2.2.0",

@@ -474,7 +474,7 @@ prefix = "v"
 [pgloader]
 source = "github"
 github = "dimitri/pgloader"
-use_latest_release = true
+use_max_tag = true
 prefix = "v"
 
 [pkcrack]
@@ -554,8 +554,8 @@ use_max_tag = true
 
 [slack-desktop]
 source = "regex"
-url = "https://slack.com/downloads/linux"
-regex = 'Version ([\d.]+)'
+url = "https://slack.com/downloads/instructions/linux"
+regex = 'slack-([\d.-]+).el8.x86_64.rpm'
 
 [stm32cubeide]
 source = "regex"
