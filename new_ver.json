@@ -295,14 +295,14 @@
       "url": "https://github.com/nix-community/nixpkgs-fmt/releases/tag/v1.3.0"
     },
     "nuclei": {
-      "version": "3.2.6",
-      "gitref": "refs/tags/v3.2.6",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.2.6"
+      "version": "3.2.7",
+      "gitref": "refs/tags/v3.2.7",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.2.7"
     },
     "nuclei-bin": {
-      "version": "3.2.6",
-      "gitref": "refs/tags/v3.2.6",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.2.6"
+      "version": "3.2.7",
+      "gitref": "refs/tags/v3.2.7",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.2.7"
     },
     "nvidia-container-toolkit": {
       "version": "1.15.0",
