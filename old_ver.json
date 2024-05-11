@@ -111,10 +111,10 @@
       "url": "https://github.com/hluwa/frida-dexdump/releases/tag/v2.0.1"
     },
     "fscan": {
-      "version": "1.8.3",
-      "gitref": "refs/tags/1.8.3",
-      "revision": "6bf396d09f9acc611c75a51d4d443580500535e5",
-      "url": "https://github.com/shadow1ng/fscan/releases/tag/1.8.3"
+      "version": "1.8.4",
+      "gitref": "refs/tags/1.8.4",
+      "revision": "d470a91d55a45b7e3189dd275d82cfff03fbc9b4",
+      "url": "https://github.com/shadow1ng/fscan/releases/tag/1.8.4"
     },
     "gnome-shell-extension-blur-my-shell": {
       "version": "61",
