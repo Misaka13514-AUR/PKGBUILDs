@@ -2,7 +2,7 @@
   "version": 2,
   "data": {
     "android-studio": {
-      "version": "2023.3.1.18"
+      "version": "2023.3.1.19"
     },
     "anime4k": {
       "version": "4.0.1",
@@ -15,14 +15,14 @@
       "url": "https://github.com/arduino/arduino-ide/releases/tag/2.3.2"
     },
     "bbg": {
-      "version": "20240104",
-      "gitref": "refs/tags/20240104",
-      "url": "https://github.com/bbg-contributors/bbg/releases/tag/20240104"
+      "version": "20240519",
+      "gitref": "refs/tags/20240519",
+      "url": "https://github.com/bbg-contributors/bbg/releases/tag/20240519"
     },
     "bbg-git": {
-      "version": "20240519.113724",
-      "revision": "73e2d820a53cd148127fdeebd3684306193a7468",
-      "url": "https://github.com/bbg-contributors/bbg/commit/73e2d820a53cd148127fdeebd3684306193a7468"
+      "version": "20240520.030751",
+      "revision": "1083133363bc5e4681206535b145fc88fb177b21",
+      "url": "https://github.com/bbg-contributors/bbg/commit/1083133363bc5e4681206535b145fc88fb177b21"
     },
     "burpsuite": {
       "version": "2024.3.1.4"
@@ -60,9 +60,6 @@
       "gitref": "refs/tags/v10.18.6",
       "url": "https://github.com/gchq/CyberChef/releases/tag/v10.18.6"
     },
-    "davinci-resolve": {
-      "version": "18.6.6"
-    },
     "dirsearch": {
       "version": "0.4.3",
       "gitref": "refs/tags/v0.4.3",
@@ -95,10 +92,10 @@
       "version": "6.5.40"
     },
     "easyeda-pro-bin": {
-      "version": "2.1.59"
+      "version": "2.1.61"
     },
     "easyeda-pro-electron": {
-      "version": "2.1.59"
+      "version": "2.1.61"
     },
     "freerouting": {
       "version": "1.9.0",
@@ -159,7 +156,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "125.0.6422.60-1"
+      "version": "125.0.6422.76-1"
     },
     "gqrx": {
       "version": "2.17.5",
@@ -206,6 +203,9 @@
       "gitref": "refs/tags/v1.33.2",
       "url": "https://github.com/WerWolv/ImHex/releases/tag/v1.33.2"
     },
+    "intellij-idea-ultimate-edition": {
+      "version": "2024.1.1"
+    },
     "iptv-checker": {
       "version": "0.28.0",
       "gitref": "refs/tags/v0.28.0",
@@ -230,15 +230,15 @@
       "url": "https://github.com/espressif/kicad-libraries/commit/7b4d7ea404f092d656946c789d59d230e6b704f0"
     },
     "kicad-library-sparkfun-git": {
-      "version": "20240516.225545",
-      "revision": "b46b942c8ba2a425cfe18e3cfacdb9b8f230d91c",
-      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/b46b942c8ba2a425cfe18e3cfacdb9b8f230d91c"
+      "version": "20240521.155135",
+      "revision": "6cef280e621d93a583ae57ae8245baba7f30d901",
+      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/6cef280e621d93a583ae57ae8245baba7f30d901"
     },
     "lceda-pro": {
-      "version": "2.1.59"
+      "version": "2.1.61"
     },
     "lceda-pro-bin": {
-      "version": "2.1.59"
+      "version": "2.1.61"
     },
     "libnatspec": {
       "version": "0.3.3-alt1",
@@ -247,7 +247,7 @@
       "url": "https://github.com/Etersoft/libnatspec/releases/tag/0.3.3-alt1"
     },
     "linuxqq-nt-bwrap": {
-      "version": "3.2.7_240428"
+      "version": "3.2.8_240520"
     },
     "meanalyzer": {
       "version": "r346",
@@ -312,10 +312,10 @@
       "url": "https://github.com/leolewis/openvisualtraceroute/commit/00d2327bffe7449fbcd19d1a4483305d72cc214a"
     },
     "pacroller": {
-      "version": "0.1.8",
-      "gitref": "refs/tags/0.1.8",
-      "revision": "3ae4c58ad59a2e2552fb03976e98a24db84c0d33",
-      "url": "https://github.com/isjerryxiao/pacroller/releases/tag/0.1.8"
+      "version": "0.1.9",
+      "gitref": "refs/tags/0.1.9",
+      "revision": "f8c41aa4c111f8ddba8d1eb765945971228469bb",
+      "url": "https://github.com/isjerryxiao/pacroller/releases/tag/0.1.9"
     },
     "paru": {
       "version": "2.0.3",
@@ -331,10 +331,16 @@
     "pkcrack": {
       "version": "1.2.2"
     },
+    "pngcheck": {
+      "version": "3.0.3"
+    },
     "pnpm-shell-completion": {
       "version": "0.5.4",
       "gitref": "refs/tags/v0.5.4",
       "url": "https://github.com/g-plane/pnpm-shell-completion/releases/tag/v0.5.4"
+    },
+    "pycharm-professional": {
+      "version": "2024.1.1"
     },
     "python-crccheck": {
       "version": "1.3.0",
@@ -342,9 +348,9 @@
       "url": "https://github.com/MartinScharrer/crccheck/releases/tag/v1.3.0"
     },
     "python-frida": {
-      "version": "16.2.3",
-      "gitref": "refs/tags/16.2.3",
-      "url": "https://github.com/frida/frida/releases/tag/16.2.3"
+      "version": "16.2.5",
+      "gitref": "refs/tags/16.2.5",
+      "url": "https://github.com/frida/frida/releases/tag/16.2.5"
     },
     "python-frida-tools": {
       "version": "12.4.2",
@@ -447,7 +453,7 @@
       "url": "https://github.com/Drive-Trust-Alliance/sedutil/releases/tag/1.49.1"
     },
     "slack-desktop": {
-      "version": "4.38.121-0.1"
+      "version": "4.38.125-0.1"
     },
     "srmd-ncnn-vulkan": {
       "version": "20220728",
@@ -500,9 +506,9 @@
       "url": "https://github.com/v2rayA/v2rayA/releases/tag/v2.2.5.1"
     },
     "ventoy": {
-      "version": "1.0.97",
-      "gitref": "refs/tags/v1.0.97",
-      "url": "https://github.com/ventoy/Ventoy/releases/tag/v1.0.97"
+      "version": "1.0.98",
+      "gitref": "refs/tags/v1.0.98",
+      "url": "https://github.com/ventoy/Ventoy/releases/tag/v1.0.98"
     },
     "video2x": {
       "version": "4.8.1",
@@ -523,9 +529,9 @@
       "url": "https://github.com/openai/whisper/releases/tag/v20231117"
     },
     "whisper-cpp": {
-      "version": "1.6.0",
-      "gitref": "refs/tags/v1.6.0",
-      "url": "https://github.com/ggerganov/whisper.cpp/releases/tag/v1.6.0"
+      "version": "1.6.1",
+      "gitref": "refs/tags/v1.6.1",
+      "url": "https://github.com/ggerganov/whisper.cpp/releases/tag/v1.6.1"
     },
     "whitesur-cursor-theme-git": {
       "version": "20220617.145134",
