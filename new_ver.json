@@ -25,7 +25,7 @@
       "url": "https://github.com/bbg-contributors/bbg/commit/1083133363bc5e4681206535b145fc88fb177b21"
     },
     "burpsuite": {
-      "version": "2024.3.1.4"
+      "version": "2024.4.4"
     },
     "canokey-usbip-git": {
       "version": "20240311.144100",
@@ -59,6 +59,9 @@
       "version": "10.18.6",
       "gitref": "refs/tags/v10.18.6",
       "url": "https://github.com/gchq/CyberChef/releases/tag/v10.18.6"
+    },
+    "davinci-resolve": {
+      "version": "18.6.6"
     },
     "dirsearch": {
       "version": "0.4.3",
@@ -156,7 +159,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "125.0.6422.76-1"
+      "version": "125.0.6422.112-1"
     },
     "gqrx": {
       "version": "2.17.5",
@@ -204,7 +207,7 @@
       "url": "https://github.com/WerWolv/ImHex/releases/tag/v1.33.2"
     },
     "intellij-idea-ultimate-edition": {
-      "version": "2024.1.1"
+      "version": "2024.1.2"
     },
     "iptv-checker": {
       "version": "0.28.0",
@@ -292,14 +295,14 @@
       "url": "https://github.com/nix-community/nixpkgs-fmt/releases/tag/v1.3.0"
     },
     "nuclei": {
-      "version": "3.2.7",
-      "gitref": "refs/tags/v3.2.7",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.2.7"
+      "version": "3.2.8",
+      "gitref": "refs/tags/v3.2.8",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.2.8"
     },
     "nuclei-bin": {
-      "version": "3.2.7",
-      "gitref": "refs/tags/v3.2.7",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.2.7"
+      "version": "3.2.8",
+      "gitref": "refs/tags/v3.2.8",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.2.8"
     },
     "nvidia-container-toolkit": {
       "version": "1.15.0",
@@ -329,7 +332,7 @@
       "url": "https://github.com/dimitri/pgloader/releases/tag/v3.6.10"
     },
     "pkcrack": {
-      "version": "1.2.2"
+      "version": "1.2.3"
     },
     "pngcheck": {
       "version": "3.0.3"
@@ -437,9 +440,9 @@
       "url": "https://github.com/nihui/realsr-ncnn-vulkan/releases/tag/20220728"
     },
     "sdrangel": {
-      "version": "7.20.1",
-      "gitref": "refs/tags/v7.20.1",
-      "url": "https://github.com/f4exb/sdrangel/releases/tag/v7.20.1"
+      "version": "7.21.1",
+      "gitref": "refs/tags/v7.21.1",
+      "url": "https://github.com/f4exb/sdrangel/releases/tag/v7.21.1"
     },
     "seclists": {
       "version": "2024.1",
