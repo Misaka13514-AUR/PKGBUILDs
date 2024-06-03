@@ -212,6 +212,11 @@ source = "github"
 github = "daisukesuzuki/VLGothic"
 use_latest_release = true
 
+[turbocase]
+source = "regex"
+url = "https://git.sr.ht/~martijnbraam/turbocase/refs/rss.xml"
+regex = 'turbocase/refs/([\d.]+)'
+
 [whitesur-icon-theme]
 source = "github"
 github = "vinceliuice/WhiteSur-icon-theme"
@@ -617,10 +622,9 @@ use_latest_release = true
 prefix = "v"
 
 [wemeet]
-source = "htmlparser"
-url = "https://source.meeting.qq.com/download-center.html"
-xpath = """//div[contains(@class, 'linux')]//div[contains(@class, 'with-version')]/div"""
-prefix = "版本号："
+source = "jq"
+url = "https://meeting.tencent.com/web-service/query-download-info?q=%5B%7B%22package-type%22:%22app%22,%22channel%22:%220300000000%22,%22platform%22:%22linux%22,%22arch%22:%22x86_64%22,%22decorators%22:%5B%22deb%22%5D%7D%5D&nonce=CNAbmS3SJeGayJM7"
+filter = '.["info-list"][0].version'
 
 [whisper]
 source = "github"

@@ -20,12 +20,12 @@
       "url": "https://github.com/bbg-contributors/bbg/releases/tag/20240519"
     },
     "bbg-git": {
-      "version": "20240531.152557",
-      "revision": "e9859d57f85915973ceb648913dc34322a5b22b8",
-      "url": "https://github.com/bbg-contributors/bbg/commit/e9859d57f85915973ceb648913dc34322a5b22b8"
+      "version": "20240603.100551",
+      "revision": "6b6aa7a2fffc1562caaea2eb6ae2aff6369c4dfa",
+      "url": "https://github.com/bbg-contributors/bbg/commit/6b6aa7a2fffc1562caaea2eb6ae2aff6369c4dfa"
     },
     "burpsuite": {
-      "version": "2024.4.4"
+      "version": "2024.4.5"
     },
     "canokey-usbip-git": {
       "version": "20240311.144100",
@@ -51,9 +51,9 @@
       "url": "https://github.com/coder/code-server/releases/tag/v4.89.1"
     },
     "cura": {
-      "version": "5.7.1",
-      "gitref": "refs/tags/5.7.1",
-      "url": "https://github.com/Ultimaker/Cura/releases/tag/5.7.1"
+      "version": "5.7.2-RC2",
+      "gitref": "refs/tags/5.7.2-RC2",
+      "url": "https://github.com/Ultimaker/Cura/releases/tag/5.7.2-RC2"
     },
     "cyberchef-web": {
       "version": "10.18.6",
@@ -351,15 +351,15 @@
       "url": "https://github.com/MartinScharrer/crccheck/releases/tag/v1.3.0"
     },
     "python-frida": {
-      "version": "16.3.0",
-      "gitref": "refs/tags/16.3.0",
-      "url": "https://github.com/frida/frida/releases/tag/16.3.0"
+      "version": "16.3.1",
+      "gitref": "refs/tags/16.3.1",
+      "url": "https://github.com/frida/frida/releases/tag/16.3.1"
     },
     "python-frida-tools": {
-      "version": "12.4.2",
-      "gitref": "refs/tags/12.4.2",
-      "revision": "fd37e424ee7ec30336c323dfaa41cf52363955e6",
-      "url": "https://github.com/frida/frida-tools/releases/tag/12.4.2"
+      "version": "12.4.3",
+      "gitref": "refs/tags/12.4.3",
+      "revision": "0fd9d02c913a929c6f9c211f7ec1207fd3d0be28",
+      "url": "https://github.com/frida/frida-tools/releases/tag/12.4.3"
     },
     "python-iptvtools": {
       "version": "0.2.11",
@@ -498,6 +498,9 @@
       "gitref": "refs/tags/20230918",
       "url": "https://github.com/daisukesuzuki/VLGothic/releases/tag/20230918"
     },
+    "turbocase": {
+      "version": "1.5.0"
+    },
     "ulauncher": {
       "version": "5.15.7",
       "gitref": "refs/tags/5.15.7",
@@ -525,6 +528,9 @@
       "version": "2.2.0",
       "gitref": "refs/tags/v2.2.0",
       "url": "https://github.com/EnableSecurity/wafw00f/releases/tag/v2.2.0"
+    },
+    "wemeet": {
+      "version": "3.19.1.400"
     },
     "whisper": {
       "version": "20231117",
