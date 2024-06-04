@@ -15,14 +15,14 @@
       "url": "https://github.com/arduino/arduino-ide/releases/tag/2.3.2"
     },
     "bbg": {
-      "version": "20240519",
-      "gitref": "refs/tags/20240519",
-      "url": "https://github.com/bbg-contributors/bbg/releases/tag/20240519"
+      "version": "20240604",
+      "gitref": "refs/tags/20240604",
+      "url": "https://github.com/bbg-contributors/bbg/releases/tag/20240604"
     },
     "bbg-git": {
-      "version": "20240603.100551",
-      "revision": "6b6aa7a2fffc1562caaea2eb6ae2aff6369c4dfa",
-      "url": "https://github.com/bbg-contributors/bbg/commit/6b6aa7a2fffc1562caaea2eb6ae2aff6369c4dfa"
+      "version": "20240604.084440",
+      "revision": "c516e2080aa8fb49007d49714b0f1049fdc2a5d5",
+      "url": "https://github.com/bbg-contributors/bbg/commit/c516e2080aa8fb49007d49714b0f1049fdc2a5d5"
     },
     "burpsuite": {
       "version": "2024.4.5"
