@@ -536,6 +536,12 @@ github = "jiaaro/pydub"
 use_latest_release = true
 prefix = "v"
 
+[python-sexpdata]
+source = "github"
+github = "jd-boyd/sexpdata"
+use_max_tag = true
+prefix = "v"
+
 [realsr-ncnn-vulkan]
 source = "github"
 github = "nihui/realsr-ncnn-vulkan"
