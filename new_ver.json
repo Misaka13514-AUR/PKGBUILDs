@@ -2,7 +2,7 @@
   "version": 2,
   "data": {
     "android-studio": {
-      "version": "2023.3.1.19"
+      "version": "2023.3.1.20"
     },
     "anime4k": {
       "version": "4.0.1",
@@ -20,9 +20,9 @@
       "url": "https://github.com/bbg-contributors/bbg/releases/tag/20240604"
     },
     "bbg-git": {
-      "version": "20240604.084440",
-      "revision": "c516e2080aa8fb49007d49714b0f1049fdc2a5d5",
-      "url": "https://github.com/bbg-contributors/bbg/commit/c516e2080aa8fb49007d49714b0f1049fdc2a5d5"
+      "version": "20240611.004755",
+      "revision": "844212891cdc80925835189c6acab4abbc0e9047",
+      "url": "https://github.com/bbg-contributors/bbg/commit/844212891cdc80925835189c6acab4abbc0e9047"
     },
     "burpsuite": {
       "version": "2024.4.5"
@@ -192,14 +192,14 @@
       "url": "https://github.com/boltgolt/howdy/releases/tag/v2.6.1"
     },
     "hysteria": {
-      "version": "2.4.4",
-      "gitref": "refs/tags/app/v2.4.4",
-      "url": "https://github.com/apernet/hysteria/releases/tag/app/v2.4.4"
+      "version": "2.4.5",
+      "gitref": "refs/tags/app/v2.4.5",
+      "url": "https://github.com/apernet/hysteria/releases/tag/app/v2.4.5"
     },
     "icalingua-plus-plus": {
-      "version": "2.12.3",
-      "gitref": "refs/tags/v2.12.3",
-      "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.12.3"
+      "version": "2.12.6",
+      "gitref": "refs/tags/v2.12.6",
+      "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.12.6"
     },
     "imhex": {
       "version": "1.34.0",
@@ -207,7 +207,7 @@
       "url": "https://github.com/WerWolv/ImHex/releases/tag/v1.34.0"
     },
     "intellij-idea-ultimate-edition": {
-      "version": "2024.1.2"
+      "version": "2024.1.3"
     },
     "iptv-checker": {
       "version": "0.28.0",
@@ -250,7 +250,7 @@
       "url": "https://github.com/Etersoft/libnatspec/releases/tag/0.3.3-alt1"
     },
     "linuxqq-nt-bwrap": {
-      "version": "3.2.8_240520"
+      "version": "3.2.9_240606"
     },
     "meanalyzer": {
       "version": "r347",
@@ -343,7 +343,7 @@
       "url": "https://github.com/g-plane/pnpm-shell-completion/releases/tag/v0.5.4"
     },
     "pycharm-professional": {
-      "version": "2024.1.2"
+      "version": "2024.1.3"
     },
     "python-crccheck": {
       "version": "1.3.0",
@@ -351,9 +351,9 @@
       "url": "https://github.com/MartinScharrer/crccheck/releases/tag/v1.3.0"
     },
     "python-frida": {
-      "version": "16.3.1",
-      "gitref": "refs/tags/16.3.1",
-      "url": "https://github.com/frida/frida/releases/tag/16.3.1"
+      "version": "16.3.3",
+      "gitref": "refs/tags/16.3.3",
+      "url": "https://github.com/frida/frida/releases/tag/16.3.3"
     },
     "python-frida-tools": {
       "version": "12.4.3",
@@ -382,10 +382,10 @@
       "url": "https://github.com/librosa/librosa/releases/tag/0.10.2.post1"
     },
     "python-lzf": {
-      "version": "0.2.4",
-      "gitref": "refs/tags/release-0.2.4",
-      "revision": "a23fe69d78d4d8a088669202b30ca3bdb402c110",
-      "url": "https://github.com/teepark/python-lzf/releases/tag/release-0.2.4"
+      "version": "0.2.5",
+      "gitref": "refs/tags/release-0.2.5",
+      "revision": "fac855d07a988e2fade11f6969dfc8585bea3f01",
+      "url": "https://github.com/teepark/python-lzf/releases/tag/release-0.2.5"
     },
     "python-pipreqs": {
       "version": "0.5.0",
@@ -446,9 +446,9 @@
       "url": "https://github.com/nihui/realsr-ncnn-vulkan/releases/tag/20220728"
     },
     "sdrangel": {
-      "version": "7.21.1",
-      "gitref": "refs/tags/v7.21.1",
-      "url": "https://github.com/f4exb/sdrangel/releases/tag/v7.21.1"
+      "version": "7.21.2",
+      "gitref": "refs/tags/v7.21.2",
+      "url": "https://github.com/f4exb/sdrangel/releases/tag/v7.21.2"
     },
     "seclists": {
       "version": "2024.1",
@@ -518,9 +518,9 @@
       "url": "https://github.com/v2rayA/v2rayA/releases/tag/v2.2.5.1"
     },
     "ventoy": {
-      "version": "1.0.98",
-      "gitref": "refs/tags/v1.0.98",
-      "url": "https://github.com/ventoy/Ventoy/releases/tag/v1.0.98"
+      "version": "1.0.99",
+      "gitref": "refs/tags/v1.0.99",
+      "url": "https://github.com/ventoy/Ventoy/releases/tag/v1.0.99"
     },
     "video2x": {
       "version": "4.8.1",
@@ -528,7 +528,7 @@
       "url": "https://github.com/k4yt3x/video2x/releases/tag/4.8.1"
     },
     "visual-studio-code": {
-      "version": "1.89.1"
+      "version": "1.90.0"
     },
     "wafw00f": {
       "version": "2.2.0",
