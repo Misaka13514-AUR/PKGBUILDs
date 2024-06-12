@@ -15,14 +15,14 @@
       "url": "https://github.com/arduino/arduino-ide/releases/tag/2.3.2"
     },
     "bbg": {
-      "version": "20240604",
-      "gitref": "refs/tags/20240604",
-      "url": "https://github.com/bbg-contributors/bbg/releases/tag/20240604"
+      "version": "20240613",
+      "gitref": "refs/tags/20240613",
+      "url": "https://github.com/bbg-contributors/bbg/releases/tag/20240613"
     },
     "bbg-git": {
-      "version": "20240611.004755",
-      "revision": "844212891cdc80925835189c6acab4abbc0e9047",
-      "url": "https://github.com/bbg-contributors/bbg/commit/844212891cdc80925835189c6acab4abbc0e9047"
+      "version": "20240612.073326",
+      "revision": "8d969cc3b0b27d29d2e29ac89565d9d53f84b427",
+      "url": "https://github.com/bbg-contributors/bbg/commit/8d969cc3b0b27d29d2e29ac89565d9d53f84b427"
     },
     "burpsuite": {
       "version": "2024.4.5"
@@ -46,9 +46,9 @@
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/tag/v2.2.5"
     },
     "code-server": {
-      "version": "4.89.1",
-      "gitref": "refs/tags/v4.89.1",
-      "url": "https://github.com/coder/code-server/releases/tag/v4.89.1"
+      "version": "4.90.0",
+      "gitref": "refs/tags/v4.90.0",
+      "url": "https://github.com/coder/code-server/releases/tag/v4.90.0"
     },
     "cura": {
       "version": "5.7.2-RC2",
@@ -56,9 +56,9 @@
       "url": "https://github.com/Ultimaker/Cura/releases/tag/5.7.2-RC2"
     },
     "cyberchef-web": {
-      "version": "10.18.6",
-      "gitref": "refs/tags/v10.18.6",
-      "url": "https://github.com/gchq/CyberChef/releases/tag/v10.18.6"
+      "version": "10.18.8",
+      "gitref": "refs/tags/v10.18.8",
+      "url": "https://github.com/gchq/CyberChef/releases/tag/v10.18.8"
     },
     "davinci-resolve": {
       "version": "18.6.6"
@@ -159,7 +159,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "125.0.6422.141-1"
+      "version": "126.0.6478.55-1"
     },
     "gqrx": {
       "version": "2.17.5",
@@ -451,9 +451,9 @@
       "url": "https://github.com/f4exb/sdrangel/releases/tag/v7.21.2"
     },
     "seclists": {
-      "version": "2024.1",
-      "gitref": "refs/tags/2024.1",
-      "url": "https://github.com/danielmiessler/SecLists/releases/tag/2024.1"
+      "version": "2024.2",
+      "gitref": "refs/tags/2024.2",
+      "url": "https://github.com/danielmiessler/SecLists/releases/tag/2024.2"
     },
     "sedutil": {
       "version": "1.49.1",
