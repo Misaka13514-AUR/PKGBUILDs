@@ -2,7 +2,7 @@
   "version": 2,
   "data": {
     "android-studio": {
-      "version": "2023.3.1.20"
+      "version": "2024.1.1.11"
     },
     "anime4k": {
       "version": "4.0.1",
@@ -20,9 +20,9 @@
       "url": "https://github.com/bbg-contributors/bbg/releases/tag/20240613"
     },
     "bbg-git": {
-      "version": "20240612.073326",
-      "revision": "8d969cc3b0b27d29d2e29ac89565d9d53f84b427",
-      "url": "https://github.com/bbg-contributors/bbg/commit/8d969cc3b0b27d29d2e29ac89565d9d53f84b427"
+      "version": "20240613.140825",
+      "revision": "deba3fea9583a95f0a20befb178f4b747d58e59a",
+      "url": "https://github.com/bbg-contributors/bbg/commit/deba3fea9583a95f0a20befb178f4b747d58e59a"
     },
     "burpsuite": {
       "version": "2024.4.5"
@@ -46,9 +46,9 @@
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/tag/v2.2.5"
     },
     "code-server": {
-      "version": "4.90.0",
-      "gitref": "refs/tags/v4.90.0",
-      "url": "https://github.com/coder/code-server/releases/tag/v4.90.0"
+      "version": "4.90.1",
+      "gitref": "refs/tags/v4.90.1",
+      "url": "https://github.com/coder/code-server/releases/tag/v4.90.1"
     },
     "cura": {
       "version": "5.7.2-RC2",
@@ -159,7 +159,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "126.0.6478.55-1"
+      "version": "126.0.6478.61-1"
     },
     "gqrx": {
       "version": "2.17.5",
@@ -382,10 +382,10 @@
       "url": "https://github.com/librosa/librosa/releases/tag/0.10.2.post1"
     },
     "python-lzf": {
-      "version": "0.2.5",
-      "gitref": "refs/tags/release-0.2.5",
-      "revision": "fac855d07a988e2fade11f6969dfc8585bea3f01",
-      "url": "https://github.com/teepark/python-lzf/releases/tag/release-0.2.5"
+      "version": "0.2.6",
+      "gitref": "refs/tags/release-0.2.6",
+      "revision": "b74842e31a9edb1bce8e52348d912840ee05a039",
+      "url": "https://github.com/teepark/python-lzf/releases/tag/release-0.2.6"
     },
     "python-pipreqs": {
       "version": "0.5.0",
@@ -528,7 +528,7 @@
       "url": "https://github.com/k4yt3x/video2x/releases/tag/4.8.1"
     },
     "visual-studio-code": {
-      "version": "1.90.0"
+      "version": "1.90.1"
     },
     "wafw00f": {
       "version": "2.2.0",
