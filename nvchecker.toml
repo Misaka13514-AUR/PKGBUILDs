@@ -207,11 +207,6 @@ github = "projectdiscovery/subfinder"
 use_latest_release = true
 prefix = "v"
 
-[ttf-vlgothic]
-source = "github"
-github = "daisukesuzuki/VLGothic"
-use_latest_release = true
-
 [turbocase]
 source = "regex"
 url = "https://git.sr.ht/~martijnbraam/turbocase/refs/rss.xml"

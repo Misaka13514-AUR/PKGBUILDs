@@ -20,9 +20,9 @@
       "url": "https://github.com/bbg-contributors/bbg/releases/tag/20240613"
     },
     "bbg-git": {
-      "version": "20240613.140825",
-      "revision": "deba3fea9583a95f0a20befb178f4b747d58e59a",
-      "url": "https://github.com/bbg-contributors/bbg/commit/deba3fea9583a95f0a20befb178f4b747d58e59a"
+      "version": "20240615.090030",
+      "revision": "d862aa6a1a1b08ffeae56ddb8619d0b2b00e4f0c",
+      "url": "https://github.com/bbg-contributors/bbg/commit/d862aa6a1a1b08ffeae56ddb8619d0b2b00e4f0c"
     },
     "burpsuite": {
       "version": "2024.4.5"
@@ -46,9 +46,9 @@
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/tag/v2.2.5"
     },
     "code-server": {
-      "version": "4.90.1",
-      "gitref": "refs/tags/v4.90.1",
-      "url": "https://github.com/coder/code-server/releases/tag/v4.90.1"
+      "version": "4.90.2",
+      "gitref": "refs/tags/v4.90.2",
+      "url": "https://github.com/coder/code-server/releases/tag/v4.90.2"
     },
     "cura": {
       "version": "5.7.2-RC2",
@@ -182,9 +182,9 @@
       "url": "https://github.com/pobrn/hid-ite8291r3/commit/7ad5991acbe2f949ae64a03a99dced347ead99fa"
     },
     "hmcl": {
-      "version": "3.5.8.248",
-      "gitref": "refs/tags/v3.5.8.248",
-      "url": "https://github.com/HMCL-dev/HMCL/releases/tag/v3.5.8.248"
+      "version": "3.5.8.249",
+      "gitref": "refs/tags/v3.5.8.249",
+      "url": "https://github.com/HMCL-dev/HMCL/releases/tag/v3.5.8.249"
     },
     "howdy": {
       "version": "2.6.1",
