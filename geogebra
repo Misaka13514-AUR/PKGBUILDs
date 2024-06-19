@@ -1,3 +1,3 @@
 #!/bin/sh
 
-exec /usr/lib/geogebra/geogebra -JavaCMD=/usr/bin/java "$@"
+electron "/usr/lib/geogebra/resources/app" $@
