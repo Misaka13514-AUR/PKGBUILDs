@@ -1,36 +1,43 @@
-# Maintainer: Evgeniy Alekseev <arcanis at archlinux dot org>
+# Maintainer: Misaka13514 <Misaka13514 at gmail dot com>
+# Contributor: Antonio Rojas <arojas@archlinux.org>
+# Contributor: Evgeniy Alekseev <arcanis at archlinux dot org>
 # Contributor: Bartłomiej Piotrowski <bpiotrowski at archlinux dot org>
 # Contributor: Felipe Hommen <felibank at gmail dot com>
 # Contributor: moostik <mooostik at gmail dot com>
 
-pkgname=geogebra
-pkgver=6.0.804.0
+pkgname=geogebra-6-electron
+pkgver=6.0.846.0
 pkgrel=1
 pkgdesc='Dynamic mathematics software with interactive graphics, algebra and spreadsheet'
-arch=(x86_64)
+arch=(any)
 url='https://www.geogebra.org/'
-license=(GPL3 'CCPL:by-sa' 'CCPL:by-nc')
+license=(LicenseRef-GeoGebra)
 depends=(electron)
-source=(https://download.geogebra.org/installers/6.0/GeoGebra-Linux64-Portable-${pkgver//./-}.zip
-        https://static.geogebra.org/images/geogebra-logo.svg
+provides=(geogebra)
+conflicts=(geogebra geogebra-6-bin)
+source=(https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Portable-${pkgver//./-}.zip
+        LICENSE.html::https://www.geogebra.org/license
         geogebra
+        geogebra.svg
         geogebra.desktop
         geogebra-mime.xml)
-sha256sums=('114e537fad9322e1ae8ebdf8aa734e473b3c66a9f1d98c5a1ec5fa55d6ea9bd7'
-            '55ded6b5ec9ad382494f858d8ab5def0ed6c7d529481cd212863b2edde3b5e07'
+sha256sums=('4111345b88a5ef025b4c328bb3f9e106f5859a25ccaeddbb98b36d7b3072022c'
+            'SKIP'
             '62d6d48511ec9a3d08440d0bba7e6da35e61f84348729872941f66f2f8f15e57'
+            'd81270ac2a7702246633fe11f448bd809e9250e2057077195eeabdc32b64ac46'
             'e8f3ac2c91daf1bb38ef4dddf705d341c3d8028aa4afb9b74a2d1a78a9953b98'
             '100dd83e61057b9a104630ea39a84d967475d459ab38e29783a7587b3acfb6a4')
 
 package() {
-  cd GeoGebra-linux-x64
+  cd $srcdir
 
-  install -Dm755 "$srcdir"/geogebra "$pkgdir"/usr/bin/geogebra
+  install -Dm755 geogebra "$pkgdir"/usr/bin/geogebra
   install -dm755 "$pkgdir"/usr/lib/geogebra
   cp -dpr --no-preserve=ownership resources "$pkgdir"/usr/lib/geogebra
   cp -dpr --no-preserve=ownership locales "$pkgdir"/usr/lib/geogebra
 
-  install -Dm644 "$srcdir"/geogebra.desktop -t "$pkgdir"/usr/share/applications/
-  install -Dm644 "$srcdir"/geogebra-logo.svg "$pkgdir"/usr/share/icons/hicolor/scalable/apps/geogebra.svg
-  install -Dm644 "$srcdir"/geogebra-mime.xml "$pkgdir"/usr/share/mime/packages/geogebra.xml
+  install -Dm644 LICENSE.html -t "$pkgdir"/usr/share/licenses/$pkgname
+  install -Dm644 geogebra.desktop -t "$pkgdir"/usr/share/applications/
+  install -Dm644 geogebra.svg "$pkgdir"/usr/share/icons/hicolor/scalable/apps/geogebra.svg
+  install -Dm644 geogebra-mime.xml "$pkgdir"/usr/share/mime/packages/geogebra.xml
 }
