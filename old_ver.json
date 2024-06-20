@@ -25,7 +25,7 @@
       "url": "https://github.com/bbg-contributors/bbg/commit/d862aa6a1a1b08ffeae56ddb8619d0b2b00e4f0c"
     },
     "burpsuite": {
-      "version": "2024.4.5"
+      "version": "2024.5.3"
     },
     "canokey-usbip-git": {
       "version": "20240311.144100",
@@ -116,6 +116,9 @@
       "revision": "d470a91d55a45b7e3189dd275d82cfff03fbc9b4",
       "url": "https://github.com/shadow1ng/fscan/releases/tag/1.8.4"
     },
+    "geogebra-6-electron": {
+      "version": "6.0.846.0"
+    },
     "gnome-shell-extension-blur-my-shell": {
       "version": "62",
       "gitref": "refs/tags/v62",
@@ -159,7 +162,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "126.0.6478.61-1"
+      "version": "126.0.6478.114-1"
     },
     "gqrx": {
       "version": "2.17.5",
@@ -446,9 +449,9 @@
       "url": "https://github.com/nihui/realsr-ncnn-vulkan/releases/tag/20220728"
     },
     "sdrangel": {
-      "version": "7.21.2",
-      "gitref": "refs/tags/v7.21.2",
-      "url": "https://github.com/f4exb/sdrangel/releases/tag/v7.21.2"
+      "version": "7.21.3",
+      "gitref": "refs/tags/v7.21.3",
+      "url": "https://github.com/f4exb/sdrangel/releases/tag/v7.21.3"
     },
     "seclists": {
       "version": "2024.2",
@@ -513,9 +516,9 @@
       "url": "https://github.com/Ulauncher/Ulauncher/releases/tag/5.15.7"
     },
     "v2raya": {
-      "version": "2.2.5.1",
-      "gitref": "refs/tags/v2.2.5.1",
-      "url": "https://github.com/v2rayA/v2rayA/releases/tag/v2.2.5.1"
+      "version": "2.2.5.5",
+      "gitref": "refs/tags/v2.2.5.5",
+      "url": "https://github.com/v2rayA/v2rayA/releases/tag/v2.2.5.5"
     },
     "ventoy": {
       "version": "1.0.99",
@@ -528,7 +531,7 @@
       "url": "https://github.com/k4yt3x/video2x/releases/tag/4.8.1"
     },
     "visual-studio-code": {
-      "version": "1.90.1"
+      "version": "1.90.2"
     },
     "wafw00f": {
       "version": "2.2.0",
