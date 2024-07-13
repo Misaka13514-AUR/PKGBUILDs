@@ -125,10 +125,10 @@
       "url": "https://github.com/aunetx/blur-my-shell/releases/tag/v62"
     },
     "gnome-shell-extension-clipboard-indicator": {
-      "version": "60",
-      "gitref": "refs/tags/v60",
-      "revision": "dc48ca5a51aef55712faf1a920dfaaf5186ff517",
-      "url": "https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator/releases/tag/v60"
+      "version": "63",
+      "gitref": "refs/tags/v63",
+      "revision": "548118b3b4578ecd0f38d680bc8fdeb1fa39e6ae",
+      "url": "https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator/releases/tag/v63"
     },
     "gnome-shell-extension-dash-to-dock": {
       "version": "92",
@@ -354,9 +354,9 @@
       "url": "https://github.com/MartinScharrer/crccheck/releases/tag/v1.3.0"
     },
     "python-frida": {
-      "version": "16.4.2",
-      "gitref": "refs/tags/16.4.2",
-      "url": "https://github.com/frida/frida/releases/tag/16.4.2"
+      "version": "16.4.3",
+      "gitref": "refs/tags/16.4.3",
+      "url": "https://github.com/frida/frida/releases/tag/16.4.3"
     },
     "python-frida-tools": {
       "version": "12.4.4",
