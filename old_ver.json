@@ -256,9 +256,9 @@
       "version": "3.2.9_240606"
     },
     "meanalyzer": {
-      "version": "r349",
-      "gitref": "refs/tags/r349",
-      "url": "https://github.com/platomav/MEAnalyzer/releases/tag/r349"
+      "version": "r350",
+      "gitref": "refs/tags/r350",
+      "url": "https://github.com/platomav/MEAnalyzer/releases/tag/r350"
     },
     "mfcuk-git": {
       "version": "20180714.103154",
@@ -463,6 +463,11 @@
       "gitref": "refs/tags/1.49.3",
       "revision": "df44c5a8bf666337442d1a7bc6d772e96951fe62",
       "url": "https://github.com/Drive-Trust-Alliance/sedutil/releases/tag/1.49.3"
+    },
+    "serenity": {
+      "version": "1.0.0-beta.13",
+      "gitref": "refs/tags/v1.0.0-beta.13",
+      "url": "https://github.com/SagerNet/serenity/releases/tag/v1.0.0-beta.13"
     },
     "slack-desktop": {
       "version": "4.39.88-0.1"

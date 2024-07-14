@@ -190,6 +190,12 @@ source = "github"
 github = "kura/yarg"
 use_max_tag = true
 
+[serenity]
+source = "github"
+github = "SagerNet/serenity"
+use_latest_release = true
+prefix = "v"
+
 [srmd-ncnn-vulkan]
 source = "github"
 github = "nihui/srmd-ncnn-vulkan"
