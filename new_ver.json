@@ -20,9 +20,9 @@
       "url": "https://github.com/bbg-contributors/bbg/releases/tag/20240613"
     },
     "bbg-git": {
-      "version": "20240623.020934",
-      "revision": "cb47c1fdc5d83677ab61e5f4eb8cd6114b632df9",
-      "url": "https://github.com/bbg-contributors/bbg/commit/cb47c1fdc5d83677ab61e5f4eb8cd6114b632df9"
+      "version": "20240719.135515",
+      "revision": "542255f2ca5ad4cf262d3dcf0135dea699feef6b",
+      "url": "https://github.com/bbg-contributors/bbg/commit/542255f2ca5ad4cf262d3dcf0135dea699feef6b"
     },
     "burpsuite": {
       "version": "2024.5.5"
@@ -46,9 +46,9 @@
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/tag/v2.2.5"
     },
     "code-server": {
-      "version": "4.91.0",
-      "gitref": "refs/tags/v4.91.0",
-      "url": "https://github.com/coder/code-server/releases/tag/v4.91.0"
+      "version": "4.91.1",
+      "gitref": "refs/tags/v4.91.1",
+      "url": "https://github.com/coder/code-server/releases/tag/v4.91.1"
     },
     "cura": {
       "version": "5.7.2-RC2",
@@ -125,10 +125,10 @@
       "url": "https://github.com/aunetx/blur-my-shell/releases/tag/v62"
     },
     "gnome-shell-extension-clipboard-indicator": {
-      "version": "63",
-      "gitref": "refs/tags/v63",
-      "revision": "548118b3b4578ecd0f38d680bc8fdeb1fa39e6ae",
-      "url": "https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator/releases/tag/v63"
+      "version": "64",
+      "gitref": "refs/tags/v64",
+      "revision": "46442690f0a6fd2a4caef1851582155af6fd5976",
+      "url": "https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator/releases/tag/v64"
     },
     "gnome-shell-extension-dash-to-dock": {
       "version": "92",
@@ -152,9 +152,9 @@
       "url": "https://github.com/fthx/no-overview/releases/tag/v46"
     },
     "gnome-shell-extension-system-monitor-next-git": {
-      "version": "20240510.005206",
-      "revision": "4bd03a2944f124a493ab8fe0df757c45f00b9c81",
-      "url": "https://github.com/mgalgs/gnome-shell-system-monitor-applet/commit/4bd03a2944f124a493ab8fe0df757c45f00b9c81"
+      "version": "20240720.225936",
+      "revision": "de5cf90323edc1b76dc5f94c6f8994ffe99216d1",
+      "url": "https://github.com/mgalgs/gnome-shell-system-monitor-applet/commit/de5cf90323edc1b76dc5f94c6f8994ffe99216d1"
     },
     "go-cqhttp-bin": {
       "version": "1.2.0",
@@ -162,7 +162,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "126.0.6478.126-1"
+      "version": "126.0.6478.182-1"
     },
     "gqrx": {
       "version": "2.17.5",
@@ -236,15 +236,15 @@
       "url": "https://github.com/espressif/kicad-libraries/commit/7b4d7ea404f092d656946c789d59d230e6b704f0"
     },
     "kicad-library-sparkfun-git": {
-      "version": "20240628.193810",
-      "revision": "7d07d9a7f072f7d71e636603e017c697b7fc19ad",
-      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/7d07d9a7f072f7d71e636603e017c697b7fc19ad"
+      "version": "20240719.150422",
+      "revision": "2cfd335daa7fa6c8e03f12495c1f5f52f9abb022",
+      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/2cfd335daa7fa6c8e03f12495c1f5f52f9abb022"
     },
     "lceda-pro": {
-      "version": "2.1.63"
+      "version": "2.2.23.6"
     },
     "lceda-pro-bin": {
-      "version": "2.1.63"
+      "version": "2.2.23.6"
     },
     "libnatspec": {
       "version": "0.3.3-alt1",
@@ -298,19 +298,19 @@
       "url": "https://github.com/nix-community/nixpkgs-fmt/releases/tag/v1.3.0"
     },
     "nuclei": {
-      "version": "3.2.9",
-      "gitref": "refs/tags/v3.2.9",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.2.9"
+      "version": "3.3.0",
+      "gitref": "refs/tags/v3.3.0",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.0"
     },
     "nuclei-bin": {
-      "version": "3.2.9",
-      "gitref": "refs/tags/v3.2.9",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.2.9"
+      "version": "3.3.0",
+      "gitref": "refs/tags/v3.3.0",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.0"
     },
     "nvidia-container-toolkit": {
-      "version": "1.15.0",
-      "gitref": "refs/tags/v1.15.0",
-      "url": "https://github.com/NVIDIA/nvidia-container-toolkit/releases/tag/v1.15.0"
+      "version": "1.16.0",
+      "gitref": "refs/tags/v1.16.0",
+      "url": "https://github.com/NVIDIA/nvidia-container-toolkit/releases/tag/v1.16.0"
     },
     "openvisualtraceroute": {
       "version": "20220521.225939",
@@ -354,15 +354,15 @@
       "url": "https://github.com/MartinScharrer/crccheck/releases/tag/v1.3.0"
     },
     "python-frida": {
-      "version": "16.4.3",
-      "gitref": "refs/tags/16.4.3",
-      "url": "https://github.com/frida/frida/releases/tag/16.4.3"
+      "version": "16.4.5",
+      "gitref": "refs/tags/16.4.5",
+      "url": "https://github.com/frida/frida/releases/tag/16.4.5"
     },
     "python-frida-tools": {
-      "version": "12.4.4",
-      "gitref": "refs/tags/12.4.4",
-      "revision": "cb8aaa6d2fd9ba92983905c432a61dbe6019a899",
-      "url": "https://github.com/frida/frida-tools/releases/tag/12.4.4"
+      "version": "12.5.0",
+      "gitref": "refs/tags/12.5.0",
+      "revision": "c1002d27b2c6b7aab39e2c74fbb20a255037f407",
+      "url": "https://github.com/frida/frida-tools/releases/tag/12.5.0"
     },
     "python-iptvtools": {
       "version": "0.2.11",
@@ -521,9 +521,9 @@
       "url": "https://github.com/Ulauncher/Ulauncher/releases/tag/5.15.7"
     },
     "v2raya": {
-      "version": "2.2.5.6",
-      "gitref": "refs/tags/v2.2.5.6",
-      "url": "https://github.com/v2rayA/v2rayA/releases/tag/v2.2.5.6"
+      "version": "2.2.5.8",
+      "gitref": "refs/tags/v2.2.5.8",
+      "url": "https://github.com/v2rayA/v2rayA/releases/tag/v2.2.5.8"
     },
     "ventoy": {
       "version": "1.0.99",
