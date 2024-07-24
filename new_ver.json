@@ -162,7 +162,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "126.0.6478.182-1"
+      "version": "127.0.6533.72-1"
     },
     "gqrx": {
       "version": "2.17.5",
@@ -200,9 +200,9 @@
       "url": "https://github.com/apernet/hysteria/releases/tag/app/v2.5.0"
     },
     "icalingua-plus-plus": {
-      "version": "2.12.8",
-      "gitref": "refs/tags/v2.12.8",
-      "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.12.8"
+      "version": "2.12.9",
+      "gitref": "refs/tags/v2.12.9",
+      "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.12.9"
     },
     "imhex": {
       "version": "1.35.4",
@@ -236,9 +236,9 @@
       "url": "https://github.com/espressif/kicad-libraries/commit/7b4d7ea404f092d656946c789d59d230e6b704f0"
     },
     "kicad-library-sparkfun-git": {
-      "version": "20240719.150422",
-      "revision": "2cfd335daa7fa6c8e03f12495c1f5f52f9abb022",
-      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/2cfd335daa7fa6c8e03f12495c1f5f52f9abb022"
+      "version": "20240722.213514",
+      "revision": "eb489025d375113631217fcf3af72ee692f7716d",
+      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/eb489025d375113631217fcf3af72ee692f7716d"
     },
     "lceda-pro": {
       "version": "2.2.23.6"
@@ -308,9 +308,9 @@
       "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.0"
     },
     "nvidia-container-toolkit": {
-      "version": "1.16.0",
-      "gitref": "refs/tags/v1.16.0",
-      "url": "https://github.com/NVIDIA/nvidia-container-toolkit/releases/tag/v1.16.0"
+      "version": "1.16.1",
+      "gitref": "refs/tags/v1.16.1",
+      "url": "https://github.com/NVIDIA/nvidia-container-toolkit/releases/tag/v1.16.1"
     },
     "openvisualtraceroute": {
       "version": "20220521.225939",
@@ -354,9 +354,9 @@
       "url": "https://github.com/MartinScharrer/crccheck/releases/tag/v1.3.0"
     },
     "python-frida": {
-      "version": "16.4.5",
-      "gitref": "refs/tags/16.4.5",
-      "url": "https://github.com/frida/frida/releases/tag/16.4.5"
+      "version": "16.4.7",
+      "gitref": "refs/tags/16.4.7",
+      "url": "https://github.com/frida/frida/releases/tag/16.4.7"
     },
     "python-frida-tools": {
       "version": "12.5.0",
@@ -513,7 +513,7 @@
       "url": "https://github.com/daisukesuzuki/VLGothic/releases/tag/20230918"
     },
     "turbocase": {
-      "version": "1.7.1"
+      "version": "1.8.0"
     },
     "ulauncher": {
       "version": "5.15.7",
