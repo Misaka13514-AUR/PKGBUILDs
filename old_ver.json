@@ -20,9 +20,9 @@
       "url": "https://github.com/bbg-contributors/bbg/releases/tag/20240613"
     },
     "bbg-git": {
-      "version": "20240719.135515",
-      "revision": "542255f2ca5ad4cf262d3dcf0135dea699feef6b",
-      "url": "https://github.com/bbg-contributors/bbg/commit/542255f2ca5ad4cf262d3dcf0135dea699feef6b"
+      "version": "20240727.143424",
+      "revision": "d62fda2a9bb0497a05f8420248db6dcadd0404cb",
+      "url": "https://github.com/bbg-contributors/bbg/commit/d62fda2a9bb0497a05f8420248db6dcadd0404cb"
     },
     "burpsuite": {
       "version": "2024.5.5"
@@ -33,12 +33,12 @@
       "url": "https://github.com/canokeys/canokey-usbip/commit/cc7087277096f185401b05143f9a028711d43557"
     },
     "charles": {
-      "version": "4.6.6"
+      "version": "4.6.7"
     },
     "cinny-desktop": {
-      "version": "3.2.1",
-      "gitref": "refs/tags/v3.2.1",
-      "url": "https://github.com/cinnyapp/cinny-desktop/releases/tag/v3.2.1"
+      "version": "4.0.3",
+      "gitref": "refs/tags/v4.0.3",
+      "url": "https://github.com/cinnyapp/cinny-desktop/releases/tag/v4.0.3"
     },
     "cloudflarespeedtest": {
       "version": "2.2.5",
@@ -51,9 +51,9 @@
       "url": "https://github.com/coder/code-server/releases/tag/v4.91.1"
     },
     "cura": {
-      "version": "5.7.2-RC2",
-      "gitref": "refs/tags/5.7.2-RC2",
-      "url": "https://github.com/Ultimaker/Cura/releases/tag/5.7.2-RC2"
+      "version": "5.8.0",
+      "gitref": "refs/tags/5.8.0",
+      "url": "https://github.com/Ultimaker/Cura/releases/tag/5.8.0"
     },
     "cyberchef-web": {
       "version": "10.18.9",
@@ -117,7 +117,7 @@
       "url": "https://github.com/shadow1ng/fscan/releases/tag/1.8.4"
     },
     "geogebra-6-electron": {
-      "version": "6.0.848.0"
+      "version": "6.0.850.0"
     },
     "gnome-shell-extension-blur-my-shell": {
       "version": "62",
@@ -162,7 +162,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "127.0.6533.72-1"
+      "version": "127.0.6533.88-1"
     },
     "gqrx": {
       "version": "2.17.5",
@@ -185,9 +185,9 @@
       "url": "https://github.com/pobrn/hid-ite8291r3/commit/7ad5991acbe2f949ae64a03a99dced347ead99fa"
     },
     "hmcl": {
-      "version": "3.5.8.249",
-      "gitref": "refs/tags/v3.5.8.249",
-      "url": "https://github.com/HMCL-dev/HMCL/releases/tag/v3.5.8.249"
+      "version": "3.5.8.251",
+      "gitref": "refs/tags/v3.5.8.251",
+      "url": "https://github.com/HMCL-dev/HMCL/releases/tag/v3.5.8.251"
     },
     "howdy": {
       "version": "2.6.1",
@@ -236,9 +236,9 @@
       "url": "https://github.com/espressif/kicad-libraries/commit/7b4d7ea404f092d656946c789d59d230e6b704f0"
     },
     "kicad-library-sparkfun-git": {
-      "version": "20240722.213514",
-      "revision": "eb489025d375113631217fcf3af72ee692f7716d",
-      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/eb489025d375113631217fcf3af72ee692f7716d"
+      "version": "20240726.171048",
+      "revision": "4a21c7ab98b344fcef6cef02ee8fd5ee9b2917f8",
+      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/4a21c7ab98b344fcef6cef02ee8fd5ee9b2917f8"
     },
     "lceda-pro": {
       "version": "2.2.23.6"
@@ -465,9 +465,10 @@
       "url": "https://github.com/Drive-Trust-Alliance/sedutil/releases/tag/1.49.3"
     },
     "serenity": {
-      "version": "1.0.0-beta.13",
-      "gitref": "refs/tags/v1.0.0-beta.13",
-      "url": "https://github.com/SagerNet/serenity/releases/tag/v1.0.0-beta.13"
+      "version": "1.0.0-beta.17",
+      "gitref": "refs/tags/v1.0.0-beta.17",
+      "revision": "adab7ec47e227ef0f9bfc311d731c0e60b84efdb",
+      "url": "https://github.com/SagerNet/serenity/releases/tag/v1.0.0-beta.17"
     },
     "slack-desktop": {
       "version": "4.39.88-0.1"
@@ -536,7 +537,7 @@
       "url": "https://github.com/k4yt3x/video2x/releases/tag/4.8.1"
     },
     "visual-studio-code": {
-      "version": "1.91.1"
+      "version": "1.92.0"
     },
     "wafw00f": {
       "version": "2.2.0",
