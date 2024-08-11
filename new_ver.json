@@ -2,7 +2,7 @@
   "version": 2,
   "data": {
     "android-studio": {
-      "version": "2024.1.1.12"
+      "version": "2024.1.1.13"
     },
     "anime4k": {
       "version": "4.0.1",
@@ -25,7 +25,7 @@
       "url": "https://github.com/bbg-contributors/bbg/commit/d62fda2a9bb0497a05f8420248db6dcadd0404cb"
     },
     "burpsuite": {
-      "version": "2024.5.5"
+      "version": "2024.6.5"
     },
     "canokey-usbip-git": {
       "version": "20240311.144100",
@@ -117,7 +117,7 @@
       "url": "https://github.com/shadow1ng/fscan/releases/tag/1.8.4"
     },
     "geogebra-6-electron": {
-      "version": "6.0.850.0"
+      "version": "6.0.851.0"
     },
     "gnome-shell-extension-blur-my-shell": {
       "version": "62",
@@ -131,9 +131,9 @@
       "url": "https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator/releases/tag/v64"
     },
     "gnome-shell-extension-dash-to-dock": {
-      "version": "92",
-      "gitref": "refs/tags/extensions.gnome.org-v92",
-      "url": "https://github.com/micheleg/dash-to-dock/releases/tag/extensions.gnome.org-v92"
+      "version": "93",
+      "gitref": "refs/tags/extensions.gnome.org-v93",
+      "url": "https://github.com/micheleg/dash-to-dock/releases/tag/extensions.gnome.org-v93"
     },
     "gnome-shell-extension-gsconnect": {
       "version": "57",
@@ -210,7 +210,7 @@
       "url": "https://github.com/WerWolv/ImHex/releases/tag/v1.35.4"
     },
     "intellij-idea-ultimate-edition": {
-      "version": "2024.1.5"
+      "version": "2024.2"
     },
     "iptv-checker": {
       "version": "0.28.0",
@@ -346,7 +346,7 @@
       "url": "https://github.com/g-plane/pnpm-shell-completion/releases/tag/v0.5.4"
     },
     "pycharm-professional": {
-      "version": "2024.1.5"
+      "version": "2024.1.6"
     },
     "python-crccheck": {
       "version": "1.3.0",
@@ -438,10 +438,10 @@
       "url": "https://github.com/hluwa/Wallbreaker/releases/tag/1.0.3"
     },
     "python-yarg": {
-      "version": "0.1.9",
-      "gitref": "refs/tags/0.1.9",
-      "revision": "990702cc64a03a3c96dd1e228298daf3178f680a",
-      "url": "https://github.com/kura/yarg/releases/tag/0.1.9"
+      "version": "0.1.10",
+      "gitref": "refs/tags/0.1.10",
+      "revision": "6378a9f4ab75acefcf166624082ad55eb484e04e",
+      "url": "https://github.com/kura/yarg/releases/tag/0.1.10"
     },
     "realsr-ncnn-vulkan": {
       "version": "20220728",
@@ -471,7 +471,7 @@
       "url": "https://github.com/SagerNet/serenity/releases/tag/v1.0.0-beta.17"
     },
     "slack-desktop": {
-      "version": "4.39.88-0.1"
+      "version": "4.39.95-0.1"
     },
     "srmd-ncnn-vulkan": {
       "version": "20220728",
@@ -537,7 +537,7 @@
       "url": "https://github.com/k4yt3x/video2x/releases/tag/4.8.1"
     },
     "visual-studio-code": {
-      "version": "1.92.0"
+      "version": "1.92.1"
     },
     "wafw00f": {
       "version": "2.2.0",
