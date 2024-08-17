@@ -20,9 +20,9 @@
       "url": "https://github.com/bbg-contributors/bbg/releases/tag/20240613"
     },
     "bbg-git": {
-      "version": "20240813.014826",
-      "revision": "df173e9f4ef5e4772f5f223b122b071653f9ec99",
-      "url": "https://github.com/bbg-contributors/bbg/commit/df173e9f4ef5e4772f5f223b122b071653f9ec99"
+      "version": "20240815.060222",
+      "revision": "be5c40c0c9774e07814180f34bc9aeafcc88e056",
+      "url": "https://github.com/bbg-contributors/bbg/commit/be5c40c0c9774e07814180f34bc9aeafcc88e056"
     },
     "burpsuite": {
       "version": "2024.6.6"
@@ -56,9 +56,9 @@
       "url": "https://github.com/Ultimaker/Cura/releases/tag/5.8.0"
     },
     "cyberchef-web": {
-      "version": "10.18.9",
-      "gitref": "refs/tags/v10.18.9",
-      "url": "https://github.com/gchq/CyberChef/releases/tag/v10.18.9"
+      "version": "10.19.2",
+      "gitref": "refs/tags/v10.19.2",
+      "url": "https://github.com/gchq/CyberChef/releases/tag/v10.19.2"
     },
     "davinci-resolve": {
       "version": "18.6.6"
@@ -120,9 +120,9 @@
       "version": "6.0.851.0"
     },
     "gnome-shell-extension-blur-my-shell": {
-      "version": "62",
-      "gitref": "refs/tags/v62",
-      "url": "https://github.com/aunetx/blur-my-shell/releases/tag/v62"
+      "version": "64",
+      "gitref": "refs/tags/v64",
+      "url": "https://github.com/aunetx/blur-my-shell/releases/tag/v64"
     },
     "gnome-shell-extension-clipboard-indicator": {
       "version": "64",
@@ -152,9 +152,9 @@
       "url": "https://github.com/fthx/no-overview/releases/tag/v46"
     },
     "gnome-shell-extension-system-monitor-next-git": {
-      "version": "20240812.185123",
-      "revision": "fe6774f261b6d2311467fe2355569a64db7d060e",
-      "url": "https://github.com/mgalgs/gnome-shell-system-monitor-applet/commit/fe6774f261b6d2311467fe2355569a64db7d060e"
+      "version": "20240815.214406",
+      "revision": "81f07cea31c14968475aa15d60adcf22cbcb2d25",
+      "url": "https://github.com/mgalgs/gnome-shell-system-monitor-applet/commit/81f07cea31c14968475aa15d60adcf22cbcb2d25"
     },
     "go-cqhttp-bin": {
       "version": "1.2.0",
@@ -162,7 +162,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "127.0.6533.99-1"
+      "version": "127.0.6533.119-1"
     },
     "gqrx": {
       "version": "2.17.5",
@@ -200,9 +200,9 @@
       "url": "https://github.com/apernet/hysteria/releases/tag/app/v2.5.0"
     },
     "icalingua-plus-plus": {
-      "version": "2.12.11",
-      "gitref": "refs/tags/v2.12.11",
-      "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.12.11"
+      "version": "2.12.12",
+      "gitref": "refs/tags/v2.12.12",
+      "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.12.12"
     },
     "imhex": {
       "version": "1.35.4",
@@ -210,7 +210,7 @@
       "url": "https://github.com/WerWolv/ImHex/releases/tag/v1.35.4"
     },
     "intellij-idea-ultimate-edition": {
-      "version": "2024.2"
+      "version": "2024.2.0.1"
     },
     "iptv-checker": {
       "version": "0.28.0",
@@ -298,14 +298,14 @@
       "url": "https://github.com/nix-community/nixpkgs-fmt/releases/tag/v1.3.0"
     },
     "nuclei": {
-      "version": "3.3.0",
-      "gitref": "refs/tags/v3.3.0",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.0"
+      "version": "3.3.1",
+      "gitref": "refs/tags/v3.3.1",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.1"
     },
     "nuclei-bin": {
-      "version": "3.3.0",
-      "gitref": "refs/tags/v3.3.0",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.0"
+      "version": "3.3.1",
+      "gitref": "refs/tags/v3.3.1",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.1"
     },
     "nvidia-container-toolkit": {
       "version": "1.16.1",
@@ -449,9 +449,9 @@
       "url": "https://github.com/nihui/realsr-ncnn-vulkan/releases/tag/20220728"
     },
     "sdrangel": {
-      "version": "7.21.4",
-      "gitref": "refs/tags/v7.21.4",
-      "url": "https://github.com/f4exb/sdrangel/releases/tag/v7.21.4"
+      "version": "7.22.0",
+      "gitref": "refs/tags/v7.22.0",
+      "url": "https://github.com/f4exb/sdrangel/releases/tag/v7.22.0"
     },
     "seclists": {
       "version": "2024.3",
@@ -537,7 +537,7 @@
       "url": "https://github.com/k4yt3x/video2x/releases/tag/4.8.1"
     },
     "visual-studio-code": {
-      "version": "1.92.1"
+      "version": "1.92.2"
     },
     "wafw00f": {
       "version": "2.2.0",
