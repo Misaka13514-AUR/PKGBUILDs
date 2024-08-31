@@ -2,7 +2,7 @@
   "version": 2,
   "data": {
     "android-studio": {
-      "version": "2024.1.1.13"
+      "version": "2024.1.2.12"
     },
     "anime4k": {
       "version": "4.0.1",
@@ -20,12 +20,12 @@
       "url": "https://github.com/bbg-contributors/bbg/releases/tag/20240613"
     },
     "bbg-git": {
-      "version": "20240815.060222",
-      "revision": "be5c40c0c9774e07814180f34bc9aeafcc88e056",
-      "url": "https://github.com/bbg-contributors/bbg/commit/be5c40c0c9774e07814180f34bc9aeafcc88e056"
+      "version": "20240829.134623",
+      "revision": "c8f02602daee9ffd601d3b2e2cb1eb835f4f8145",
+      "url": "https://github.com/bbg-contributors/bbg/commit/c8f02602daee9ffd601d3b2e2cb1eb835f4f8145"
     },
     "burpsuite": {
-      "version": "2024.6.6"
+      "version": "2024.7.5"
     },
     "canokey-usbip-git": {
       "version": "20240311.144100",
@@ -51,9 +51,9 @@
       "url": "https://github.com/coder/code-server/releases/tag/v4.92.2"
     },
     "cura": {
-      "version": "5.8.0",
-      "gitref": "refs/tags/5.8.0",
-      "url": "https://github.com/Ultimaker/Cura/releases/tag/5.8.0"
+      "version": "5.8.1",
+      "gitref": "refs/tags/5.8.1",
+      "url": "https://github.com/Ultimaker/Cura/releases/tag/5.8.1"
     },
     "cyberchef-web": {
       "version": "10.19.2",
@@ -92,13 +92,13 @@
       "url": "https://github.com/lyc8503/EasierConnect/commit/376593ea5517d4ea73c66f668b80b20a17cb09ad"
     },
     "easyeda-bin": {
-      "version": "6.5.44"
+      "version": "6.5.46"
     },
     "easyeda-pro-bin": {
-      "version": "2.1.64"
+      "version": "2.2.27.1"
     },
     "easyeda-pro-electron": {
-      "version": "2.1.64"
+      "version": "2.2.27.1"
     },
     "freerouting": {
       "version": "1.9.0",
@@ -117,7 +117,7 @@
       "url": "https://github.com/shadow1ng/fscan/releases/tag/1.8.4"
     },
     "geogebra-6-electron": {
-      "version": "6.0.851.0"
+      "version": "6.0.853.0"
     },
     "gnome-shell-extension-blur-my-shell": {
       "version": "65",
@@ -162,7 +162,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "128.0.6613.84-1"
+      "version": "128.0.6613.113-1"
     },
     "gqrx": {
       "version": "2.17.5",
@@ -210,7 +210,7 @@
       "url": "https://github.com/WerWolv/ImHex/releases/tag/v1.35.4"
     },
     "intellij-idea-ultimate-edition": {
-      "version": "2024.2.0.2"
+      "version": "2024.2.1"
     },
     "iptv-checker": {
       "version": "0.28.0",
@@ -236,15 +236,15 @@
       "url": "https://github.com/espressif/kicad-libraries/commit/7b4d7ea404f092d656946c789d59d230e6b704f0"
     },
     "kicad-library-sparkfun-git": {
-      "version": "20240826.190135",
-      "revision": "bb41c1341df754c4c3ec179b77c0cc82e8edcdbb",
-      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/bb41c1341df754c4c3ec179b77c0cc82e8edcdbb"
+      "version": "20240828.203530",
+      "revision": "b928480789c5e931120078798ccbf9b4633952f7",
+      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/b928480789c5e931120078798ccbf9b4633952f7"
     },
     "lceda-pro": {
-      "version": "2.2.26.6"
+      "version": "2.2.27.1"
     },
     "lceda-pro-bin": {
-      "version": "2.2.26.6"
+      "version": "2.2.27.1"
     },
     "libnatspec": {
       "version": "0.3.3-alt1",
@@ -346,7 +346,7 @@
       "url": "https://github.com/g-plane/pnpm-shell-completion/releases/tag/v0.5.4"
     },
     "pycharm-professional": {
-      "version": "2024.2.0.1"
+      "version": "2024.2.1"
     },
     "python-crccheck": {
       "version": "1.3.0",
