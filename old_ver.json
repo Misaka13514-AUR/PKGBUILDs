@@ -131,9 +131,9 @@
       "url": "https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator/releases/tag/v64"
     },
     "gnome-shell-extension-dash-to-dock": {
-      "version": "95",
-      "gitref": "refs/tags/extensions.gnome.org-v95",
-      "url": "https://github.com/micheleg/dash-to-dock/releases/tag/extensions.gnome.org-v95"
+      "version": "96",
+      "gitref": "refs/tags/extensions.gnome.org-v96",
+      "url": "https://github.com/micheleg/dash-to-dock/releases/tag/extensions.gnome.org-v96"
     },
     "gnome-shell-extension-gsconnect": {
       "version": "57",
@@ -354,9 +354,9 @@
       "url": "https://github.com/MartinScharrer/crccheck/releases/tag/v1.3.0"
     },
     "python-frida": {
-      "version": "16.4.10",
-      "gitref": "refs/tags/16.4.10",
-      "url": "https://github.com/frida/frida/releases/tag/16.4.10"
+      "version": "16.5.1",
+      "gitref": "refs/tags/16.5.1",
+      "url": "https://github.com/frida/frida/releases/tag/16.5.1"
     },
     "python-frida-tools": {
       "version": "12.5.0",
@@ -537,7 +537,7 @@
       "url": "https://github.com/k4yt3x/video2x/releases/tag/4.8.1"
     },
     "visual-studio-code": {
-      "version": "1.92.2"
+      "version": "1.93.0"
     },
     "wafw00f": {
       "version": "2.2.0",
@@ -568,9 +568,9 @@
       "url": "https://github.com/vinceliuice/WhiteSur-gtk-theme/releases/tag/2024.09.02"
     },
     "whitesur-icon-theme": {
-      "version": "2024.05.28",
-      "gitref": "refs/tags/2024-05-28",
-      "url": "https://github.com/vinceliuice/WhiteSur-icon-theme/releases/tag/2024-05-28"
+      "version": "2024.09.07",
+      "gitref": "refs/tags/2024-09-07",
+      "url": "https://github.com/vinceliuice/WhiteSur-icon-theme/releases/tag/2024-09-07"
     },
     "yay": {
       "version": "12.3.5",
