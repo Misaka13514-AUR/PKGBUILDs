@@ -95,10 +95,10 @@
       "version": "6.5.46"
     },
     "easyeda-pro-bin": {
-      "version": "2.2.27.1"
+      "version": "2.2.28.1"
     },
     "easyeda-pro-electron": {
-      "version": "2.2.27.1"
+      "version": "2.2.28.1"
     },
     "freerouting": {
       "version": "1.9.0",
@@ -162,7 +162,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "128.0.6613.119-1"
+      "version": "128.0.6613.137-1"
     },
     "gqrx": {
       "version": "2.17.5",
@@ -359,10 +359,10 @@
       "url": "https://github.com/frida/frida/releases/tag/16.5.1"
     },
     "python-frida-tools": {
-      "version": "12.5.0",
-      "gitref": "refs/tags/12.5.0",
-      "revision": "c1002d27b2c6b7aab39e2c74fbb20a255037f407",
-      "url": "https://github.com/frida/frida-tools/releases/tag/12.5.0"
+      "version": "12.5.1",
+      "gitref": "refs/tags/12.5.1",
+      "revision": "92c9a254ff40456445c69fbedee5b46313787267",
+      "url": "https://github.com/frida/frida-tools/releases/tag/12.5.1"
     },
     "python-iptvtools": {
       "version": "0.2.11",
