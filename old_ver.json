@@ -2,7 +2,7 @@
   "version": 2,
   "data": {
     "android-studio": {
-      "version": "2024.1.2.12"
+      "version": "2024.1.2.13"
     },
     "anime4k": {
       "version": "4.0.1",
@@ -25,7 +25,7 @@
       "url": "https://github.com/bbg-contributors/bbg/commit/c8f02602daee9ffd601d3b2e2cb1eb835f4f8145"
     },
     "burpsuite": {
-      "version": "2024.7.5"
+      "version": "2024.7.6"
     },
     "canokey-usbip-git": {
       "version": "20240311.144100",
@@ -36,9 +36,9 @@
       "version": "4.6.7"
     },
     "cinny-desktop": {
-      "version": "4.1.0",
-      "gitref": "refs/tags/v4.1.0",
-      "url": "https://github.com/cinnyapp/cinny-desktop/releases/tag/v4.1.0"
+      "version": "4.2.1",
+      "gitref": "refs/tags/v4.2.1",
+      "url": "https://github.com/cinnyapp/cinny-desktop/releases/tag/v4.2.1"
     },
     "cloudflarespeedtest": {
       "version": "2.2.5",
@@ -95,10 +95,10 @@
       "version": "6.5.46"
     },
     "easyeda-pro-bin": {
-      "version": "2.2.28.1"
+      "version": "2.2.27.1"
     },
     "easyeda-pro-electron": {
-      "version": "2.2.28.1"
+      "version": "2.2.27.1"
     },
     "freerouting": {
       "version": "1.9.0",
@@ -117,12 +117,12 @@
       "url": "https://github.com/shadow1ng/fscan/releases/tag/1.8.4"
     },
     "geogebra-6-electron": {
-      "version": "6.0.853.0"
+      "version": "6.0.857.0"
     },
     "gnome-shell-extension-blur-my-shell": {
-      "version": "65",
-      "gitref": "refs/tags/v65",
-      "url": "https://github.com/aunetx/blur-my-shell/releases/tag/v65"
+      "version": "67",
+      "gitref": "refs/tags/v67",
+      "url": "https://github.com/aunetx/blur-my-shell/releases/tag/v67"
     },
     "gnome-shell-extension-clipboard-indicator": {
       "version": "64",
@@ -141,9 +141,9 @@
       "url": "https://github.com/GSConnect/gnome-shell-extension-gsconnect/releases/tag/v57"
     },
     "gnome-shell-extension-nightthemeswitcher": {
-      "version": "77",
-      "revision": "34aeb19fdc097a8c1be33476ddb49e176188a57e",
-      "url": "https://gitlab.com/rmnvgr/nightthemeswitcher-gnome-shell-extension/-/tags/77"
+      "version": "78",
+      "revision": "ddae0707c0a09f7e8762813606e94a945093de6e",
+      "url": "https://gitlab.com/rmnvgr/nightthemeswitcher-gnome-shell-extension/-/tags/78"
     },
     "gnome-shell-extension-no-overview": {
       "version": "46",
@@ -162,7 +162,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "128.0.6613.137-1"
+      "version": "129.0.6668.58-1"
     },
     "gqrx": {
       "version": "2.17.5",
@@ -200,9 +200,9 @@
       "url": "https://github.com/apernet/hysteria/releases/tag/app/v2.5.1"
     },
     "icalingua-plus-plus": {
-      "version": "2.12.15",
-      "gitref": "refs/tags/v2.12.15",
-      "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.12.15"
+      "version": "2.12.20",
+      "gitref": "refs/tags/v2.12.20",
+      "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.12.20"
     },
     "imhex": {
       "version": "1.35.4",
@@ -210,7 +210,7 @@
       "url": "https://github.com/WerWolv/ImHex/releases/tag/v1.35.4"
     },
     "intellij-idea-ultimate-edition": {
-      "version": "2024.2.1"
+      "version": "2024.2.2"
     },
     "iptv-checker": {
       "version": "0.28.0",
@@ -231,9 +231,9 @@
       "url": "https://github.com/Digi-Key/digikey-kicad-library/commit/d4bd68f42e6ccc474526811a853a03692e170b58"
     },
     "kicad-library-espressif-git": {
-      "version": "20240430.094958",
-      "revision": "7b4d7ea404f092d656946c789d59d230e6b704f0",
-      "url": "https://github.com/espressif/kicad-libraries/commit/7b4d7ea404f092d656946c789d59d230e6b704f0"
+      "version": "20240917.075922",
+      "revision": "c5468205b68ba925c090a86ab177d2f1a652d89b",
+      "url": "https://github.com/espressif/kicad-libraries/commit/c5468205b68ba925c090a86ab177d2f1a652d89b"
     },
     "kicad-library-sparkfun-git": {
       "version": "20240904.192147",
@@ -241,10 +241,10 @@
       "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/55860804a83abd403edb70968b619e9a59219aff"
     },
     "lceda-pro": {
-      "version": "2.2.27.1"
+      "version": "2.2.28.1"
     },
     "lceda-pro-bin": {
-      "version": "2.2.27.1"
+      "version": "2.2.28.1"
     },
     "libnatspec": {
       "version": "0.3.3-alt1",
@@ -354,15 +354,15 @@
       "url": "https://github.com/MartinScharrer/crccheck/releases/tag/v1.3.0"
     },
     "python-frida": {
-      "version": "16.5.1",
-      "gitref": "refs/tags/16.5.1",
-      "url": "https://github.com/frida/frida/releases/tag/16.5.1"
+      "version": "16.5.2",
+      "gitref": "refs/tags/16.5.2",
+      "url": "https://github.com/frida/frida/releases/tag/16.5.2"
     },
     "python-frida-tools": {
-      "version": "12.5.1",
-      "gitref": "refs/tags/12.5.1",
-      "revision": "92c9a254ff40456445c69fbedee5b46313787267",
-      "url": "https://github.com/frida/frida-tools/releases/tag/12.5.1"
+      "version": "13.0.2",
+      "gitref": "refs/tags/13.0.2",
+      "revision": "b5b9da30ae04834d98d0ebd3e78968838ae11a83",
+      "url": "https://github.com/frida/frida-tools/releases/tag/13.0.2"
     },
     "python-iptvtools": {
       "version": "0.2.11",
@@ -465,10 +465,10 @@
       "url": "https://github.com/Drive-Trust-Alliance/sedutil/releases/tag/1.49.4"
     },
     "serenity": {
-      "version": "1.0.0-beta.17",
-      "gitref": "refs/tags/v1.0.0-beta.17",
-      "revision": "adab7ec47e227ef0f9bfc311d731c0e60b84efdb",
-      "url": "https://github.com/SagerNet/serenity/releases/tag/v1.0.0-beta.17"
+      "version": "1.0.0-beta.19",
+      "gitref": "refs/tags/v1.0.0-beta.19",
+      "revision": "c6baae3b27f6a750474f9f72fa93756d65c3c126",
+      "url": "https://github.com/SagerNet/serenity/releases/tag/v1.0.0-beta.19"
     },
     "slack-desktop": {
       "version": "4.39.95-0.1"
@@ -537,7 +537,7 @@
       "url": "https://github.com/k4yt3x/video2x/releases/tag/4.8.1"
     },
     "visual-studio-code": {
-      "version": "1.93.0"
+      "version": "1.93.1"
     },
     "wafw00f": {
       "version": "2.2.0",
@@ -573,9 +573,9 @@
       "url": "https://github.com/vinceliuice/WhiteSur-icon-theme/releases/tag/2024-09-07"
     },
     "yay": {
-      "version": "12.3.5",
-      "gitref": "refs/tags/v12.3.5",
-      "url": "https://github.com/Jguer/yay/releases/tag/v12.3.5"
+      "version": "12.4.2",
+      "gitref": "refs/tags/v12.4.2",
+      "url": "https://github.com/Jguer/yay/releases/tag/v12.4.2"
     }
   }
 }
