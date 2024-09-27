@@ -140,6 +140,12 @@ github = "projectdiscovery/nuclei"
 use_latest_release = true
 prefix = "v"
 
+[nuclei-templates]
+source = "github"
+github = "projectdiscovery/nuclei-templates"
+use_latest_release = true
+prefix = "v"
+
 [python-ite8291r3-ctl-git]
 source = "github"
 github = "pobrn/ite8291r3-ctl"
