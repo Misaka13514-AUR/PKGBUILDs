@@ -10,9 +10,9 @@
       "url": "https://github.com/bloc97/Anime4K/releases/tag/v4.0.1"
     },
     "arduino-ide": {
-      "version": "2.3.2",
-      "gitref": "refs/tags/2.3.2",
-      "url": "https://github.com/arduino/arduino-ide/releases/tag/2.3.2"
+      "version": "2.3.3",
+      "gitref": "refs/tags/2.3.3",
+      "url": "https://github.com/arduino/arduino-ide/releases/tag/2.3.3"
     },
     "bbg": {
       "version": "20240613",
@@ -46,9 +46,9 @@
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/tag/v2.2.5"
     },
     "code-server": {
-      "version": "4.92.2",
-      "gitref": "refs/tags/v4.92.2",
-      "url": "https://github.com/coder/code-server/releases/tag/v4.92.2"
+      "version": "4.93.1",
+      "gitref": "refs/tags/v4.93.1",
+      "url": "https://github.com/coder/code-server/releases/tag/v4.93.1"
     },
     "cura": {
       "version": "5.8.1",
@@ -146,10 +146,10 @@
       "url": "https://gitlab.com/rmnvgr/nightthemeswitcher-gnome-shell-extension/-/tags/78"
     },
     "gnome-shell-extension-no-overview": {
-      "version": "46",
-      "gitref": "refs/tags/v46",
-      "revision": "85eba640736db7f48cbfef997eb0c5e1c4c6f570",
-      "url": "https://github.com/fthx/no-overview/releases/tag/v46"
+      "version": "47",
+      "gitref": "refs/tags/v47",
+      "revision": "7d1d8e2e3955dd521151c7c9f449092a316aca32",
+      "url": "https://github.com/fthx/no-overview/releases/tag/v47"
     },
     "gnome-shell-extension-system-monitor-next-git": {
       "version": "20240821.195047",
@@ -162,7 +162,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "129.0.6668.58-1"
+      "version": "129.0.6668.70-1"
     },
     "gqrx": {
       "version": "2.17.5",
@@ -210,7 +210,7 @@
       "url": "https://github.com/WerWolv/ImHex/releases/tag/v1.35.4"
     },
     "intellij-idea-ultimate-edition": {
-      "version": "2024.2.2"
+      "version": "2024.2.3"
     },
     "iptv-checker": {
       "version": "0.28.0",
@@ -236,15 +236,15 @@
       "url": "https://github.com/espressif/kicad-libraries/commit/c5468205b68ba925c090a86ab177d2f1a652d89b"
     },
     "kicad-library-sparkfun-git": {
-      "version": "20240904.192147",
-      "revision": "55860804a83abd403edb70968b619e9a59219aff",
-      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/55860804a83abd403edb70968b619e9a59219aff"
+      "version": "20240925.021729",
+      "revision": "bd7f7e3847eba7f14ee9c710a3c00f716e844254",
+      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/bd7f7e3847eba7f14ee9c710a3c00f716e844254"
     },
     "lceda-pro": {
-      "version": "2.2.28.1"
+      "version": "2.2.27.1"
     },
     "lceda-pro-bin": {
-      "version": "2.2.28.1"
+      "version": "2.2.27.1"
     },
     "libnatspec": {
       "version": "0.3.3-alt1",
@@ -256,9 +256,9 @@
       "version": "3.2.9_240606"
     },
     "meanalyzer": {
-      "version": "r352",
-      "gitref": "refs/tags/r352",
-      "url": "https://github.com/platomav/MEAnalyzer/releases/tag/r352"
+      "version": "r353",
+      "gitref": "refs/tags/r353",
+      "url": "https://github.com/platomav/MEAnalyzer/releases/tag/r353"
     },
     "mfcuk-git": {
       "version": "20180714.103154",
@@ -298,19 +298,19 @@
       "url": "https://github.com/nix-community/nixpkgs-fmt/releases/tag/v1.3.0"
     },
     "nuclei": {
-      "version": "3.3.2",
-      "gitref": "refs/tags/v3.3.2",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.2"
+      "version": "3.3.3",
+      "gitref": "refs/tags/v3.3.3",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.3"
     },
     "nuclei-bin": {
-      "version": "3.3.2",
-      "gitref": "refs/tags/v3.3.2",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.2"
+      "version": "3.3.3",
+      "gitref": "refs/tags/v3.3.3",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.3"
     },
     "nvidia-container-toolkit": {
-      "version": "1.16.1",
-      "gitref": "refs/tags/v1.16.1",
-      "url": "https://github.com/NVIDIA/nvidia-container-toolkit/releases/tag/v1.16.1"
+      "version": "1.16.2",
+      "gitref": "refs/tags/v1.16.2",
+      "url": "https://github.com/NVIDIA/nvidia-container-toolkit/releases/tag/v1.16.2"
     },
     "openvisualtraceroute": {
       "version": "20220521.225939",
@@ -324,9 +324,9 @@
       "url": "https://github.com/isjerryxiao/pacroller/releases/tag/0.1.9"
     },
     "paru": {
-      "version": "2.0.3",
-      "gitref": "refs/tags/v2.0.3",
-      "url": "https://github.com/Morganamilo/paru/releases/tag/v2.0.3"
+      "version": "2.0.4",
+      "gitref": "refs/tags/v2.0.4",
+      "url": "https://github.com/Morganamilo/paru/releases/tag/v2.0.4"
     },
     "pgloader": {
       "version": "3.6.10",
@@ -346,7 +346,7 @@
       "url": "https://github.com/g-plane/pnpm-shell-completion/releases/tag/v0.5.4"
     },
     "pycharm-professional": {
-      "version": "2024.2.1"
+      "version": "2024.2.3"
     },
     "python-crccheck": {
       "version": "1.3.0",
@@ -359,10 +359,10 @@
       "url": "https://github.com/frida/frida/releases/tag/16.5.2"
     },
     "python-frida-tools": {
-      "version": "13.0.2",
-      "gitref": "refs/tags/13.0.2",
-      "revision": "b5b9da30ae04834d98d0ebd3e78968838ae11a83",
-      "url": "https://github.com/frida/frida-tools/releases/tag/13.0.2"
+      "version": "13.0.4",
+      "gitref": "refs/tags/13.0.4",
+      "revision": "07336992b1a5bb31a8f0eea8e02a69cd262d4e95",
+      "url": "https://github.com/frida/frida-tools/releases/tag/13.0.4"
     },
     "python-iptvtools": {
       "version": "0.2.11",

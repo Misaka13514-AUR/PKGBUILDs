@@ -576,20 +576,20 @@ source = "regex"
 url = "https://slack.com/downloads/instructions/linux"
 regex = 'slack-([\d.-]+).el8.x86_64.rpm'
 
-[stm32cubeide]
-source = "regex"
-url = "https://nvchecker.apeiria.net/stm32cubeide"
-regex = 'STM32CubeIDE-Lnx.version=([\d.]+).html'
+# [stm32cubeide]
+# source = "regex"
+# url = "https://nvchecker.apeiria.net/stm32cubeide"
+# regex = 'STM32CubeIDE-Lnx.version=([\d.]+).html'
 
-[stm32cubemonitor]
-source = "regex"
-url = "https://nvchecker.apeiria.net/stm32cubemonitor"
-regex = 'STM32CubeMon-Lin.version=([\d.]+).html'
+# [stm32cubemonitor]
+# source = "regex"
+# url = "https://nvchecker.apeiria.net/stm32cubemonitor"
+# regex = 'STM32CubeMon-Lin.version=([\d.]+).html'
 
-[stm32cubemx]
-source = "regex"
-url = "https://nvchecker.apeiria.net/stm32cubemx"
-regex = 'STM32CubeMX-Lin.version=([\d.]+).html'
+# [stm32cubemx]
+# source = "regex"
+# url = "https://nvchecker.apeiria.net/stm32cubemx"
+# regex = 'STM32CubeMX-Lin.version=([\d.]+).html'
 
 [subconverter]
 source = "github"
