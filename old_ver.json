@@ -33,7 +33,7 @@
       "url": "https://github.com/canokeys/canokey-usbip/commit/cc7087277096f185401b05143f9a028711d43557"
     },
     "charles": {
-      "version": "4.6.7"
+      "version": "6"
     },
     "cinny-desktop": {
       "version": "4.2.1",
@@ -125,10 +125,10 @@
       "url": "https://github.com/aunetx/blur-my-shell/releases/tag/v67"
     },
     "gnome-shell-extension-clipboard-indicator": {
-      "version": "64",
-      "gitref": "refs/tags/v64",
-      "revision": "46442690f0a6fd2a4caef1851582155af6fd5976",
-      "url": "https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator/releases/tag/v64"
+      "version": "65",
+      "gitref": "refs/tags/v65",
+      "revision": "08855b144b2e2e9163d6d8a99d6f8e81a88f1a5d",
+      "url": "https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator/releases/tag/v65"
     },
     "gnome-shell-extension-dash-to-dock": {
       "version": "96",
@@ -164,11 +164,6 @@
     "google-chrome": {
       "version": "129.0.6668.70-1"
     },
-    "gqrx": {
-      "version": "2.17.5",
-      "gitref": "refs/tags/v2.17.5",
-      "url": "https://github.com/gqrx-sdr/gqrx/releases/tag/v2.17.5"
-    },
     "gqrx-scanner": {
       "version": "1.0.5",
       "gitref": "refs/tags/v1.0.5",
@@ -200,9 +195,9 @@
       "url": "https://github.com/apernet/hysteria/releases/tag/app/v2.5.1"
     },
     "icalingua-plus-plus": {
-      "version": "2.12.20",
-      "gitref": "refs/tags/v2.12.20",
-      "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.12.20"
+      "version": "2.12.21",
+      "gitref": "refs/tags/v2.12.21",
+      "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.12.21"
     },
     "imhex": {
       "version": "1.35.4",
@@ -298,14 +293,14 @@
       "url": "https://github.com/nix-community/nixpkgs-fmt/releases/tag/v1.3.0"
     },
     "nuclei": {
-      "version": "3.3.3",
-      "gitref": "refs/tags/v3.3.3",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.3"
+      "version": "3.3.4",
+      "gitref": "refs/tags/v3.3.4",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.4"
     },
     "nuclei-bin": {
-      "version": "3.3.3",
-      "gitref": "refs/tags/v3.3.3",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.3"
+      "version": "3.3.4",
+      "gitref": "refs/tags/v3.3.4",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.4"
     },
     "nuclei-templates": {
       "version": "10.0.0",
@@ -483,15 +478,6 @@
       "gitref": "refs/tags/20220728",
       "url": "https://github.com/nihui/srmd-ncnn-vulkan/releases/tag/20220728"
     },
-    "stm32cubeide": {
-      "version": "1.16.0"
-    },
-    "stm32cubemonitor": {
-      "version": "1.8.0"
-    },
-    "stm32cubemx": {
-      "version": "6.12.0"
-    },
     "subconverter": {
       "version": "0.9.0",
       "gitref": "refs/tags/v0.9.0",
@@ -512,11 +498,6 @@
       "gitref": "refs/tags/0.1.1rc1",
       "revision": "eeea867bf55406d378f197ceb14b5d2a2499072a",
       "url": "https://github.com/zhengxiaowai/tcping/releases/tag/0.1.1rc1"
-    },
-    "ttf-vlgothic": {
-      "version": "20230918",
-      "gitref": "refs/tags/20230918",
-      "url": "https://github.com/daisukesuzuki/VLGothic/releases/tag/20230918"
     },
     "turbocase": {
       "version": "1.8.0"
@@ -553,9 +534,9 @@
       "version": "3.19.2.400"
     },
     "whisper": {
-      "version": "20231117",
-      "gitref": "refs/tags/v20231117",
-      "url": "https://github.com/openai/whisper/releases/tag/v20231117"
+      "version": "20240927",
+      "gitref": "refs/tags/v20240927",
+      "url": "https://github.com/openai/whisper/releases/tag/v20240927"
     },
     "whisper-cpp": {
       "version": "1.6.2",
