@@ -33,7 +33,7 @@
       "url": "https://github.com/canokeys/canokey-usbip/commit/cc7087277096f185401b05143f9a028711d43557"
     },
     "charles": {
-      "version": "6"
+      "version": "4.6.7"
     },
     "cinny-desktop": {
       "version": "4.2.1",
@@ -303,9 +303,9 @@
       "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.4"
     },
     "nuclei-templates": {
-      "version": "10.0.0",
-      "gitref": "refs/tags/v10.0.0",
-      "url": "https://github.com/projectdiscovery/nuclei-templates/releases/tag/v10.0.0"
+      "version": "10.0.1",
+      "gitref": "refs/tags/v10.0.1",
+      "url": "https://github.com/projectdiscovery/nuclei-templates/releases/tag/v10.0.1"
     },
     "nvidia-container-toolkit": {
       "version": "1.16.2",
@@ -534,9 +534,9 @@
       "version": "3.19.2.400"
     },
     "whisper": {
-      "version": "20240927",
-      "gitref": "refs/tags/v20240927",
-      "url": "https://github.com/openai/whisper/releases/tag/v20240927"
+      "version": "20240930",
+      "gitref": "refs/tags/v20240930",
+      "url": "https://github.com/openai/whisper/releases/tag/v20240930"
     },
     "whisper-cpp": {
       "version": "1.6.2",
