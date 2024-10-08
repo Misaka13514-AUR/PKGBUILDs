@@ -2,7 +2,7 @@
 # Co-Maintainer: Misaka13514 <Misaka13514 at gmail dot com>
 
 pkgname=lceda-pro
-pkgver=2.2.28.1
+pkgver=2.2.32.3
 pkgrel=1
 pkgdesc="免费、专业、强大的国产PCB设计工具"
 arch=(x86_64)
@@ -50,14 +50,14 @@ package() {
     # desktop entry
     if [ -f lceda-pro.dkt ]; then
         install -Dm644 lceda-pro.dkt \
-                       $pkgdir/usr/share/applications/$_pkgname.desktop
+                       $pkgdir/usr/share/applications/${pkgname}.desktop
 
         sed -i 's|/opt/lceda-pro/icon/icon_128x128.png|lceda-pro|g' \
             ${pkgdir}/usr/share/applications/${pkgname}.desktop
         sed -i 's|/opt/lceda-pro/||g' \
             ${pkgdir}/usr/share/applications/${pkgname}.desktop
     else
-        install -Dm644 /dev/stdin $pkgdir/usr/share/applications/$_pkgname.desktop << "EOF"
+        install -Dm644 /dev/stdin $pkgdir/usr/share/applications/${pkgname}.desktop << "EOF"
 [Desktop Entry]
 Categories=Development;Electronics;
 Comment=免费、强大、易用的在线电路设计软件
