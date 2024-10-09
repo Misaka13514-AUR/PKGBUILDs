@@ -25,7 +25,7 @@
       "url": "https://github.com/bbg-contributors/bbg/commit/22c156d2f1cb97c7f9ffda3ac23274db61eaef75"
     },
     "burpsuite": {
-      "version": "2024.8.3"
+      "version": "2024.8.4"
     },
     "canokey-usbip-git": {
       "version": "20240311.144100",
@@ -83,9 +83,6 @@
       "revision": "bff92c4ad772a0a8d433f788d39dae97e00e4dbe",
       "url": "https://github.com/MalcolmRobb/dump1090/commit/bff92c4ad772a0a8d433f788d39dae97e00e4dbe"
     },
-    "eagle": {
-      "version": "9.6.2"
-    },
     "easierconnect": {
       "version": "20240624.160430",
       "revision": "376593ea5517d4ea73c66f668b80b20a17cb09ad",
@@ -117,7 +114,7 @@
       "url": "https://github.com/shadow1ng/fscan/releases/tag/1.8.4"
     },
     "geogebra-6-electron": {
-      "version": "6.0.857.0"
+      "version": "6.0.861.0"
     },
     "gnome-shell-extension-blur-my-shell": {
       "version": "67",
@@ -162,7 +159,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "129.0.6668.89-1"
+      "version": "129.0.6668.100-1"
     },
     "gqrx-scanner": {
       "version": "1.0.5",
@@ -523,7 +520,7 @@
       "url": "https://github.com/k4yt3x/video2x/releases/tag/4.8.1"
     },
     "visual-studio-code": {
-      "version": "1.94.0"
+      "version": "1.94.1"
     },
     "wafw00f": {
       "version": "2.2.0",
