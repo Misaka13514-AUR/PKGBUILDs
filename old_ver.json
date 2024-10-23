@@ -117,7 +117,7 @@
       "url": "https://github.com/shadow1ng/fscan/releases/tag/1.8.4"
     },
     "geogebra-6-electron": {
-      "version": "6.0.861.0"
+      "version": "6.0.864.0"
     },
     "gnome-shell-extension-blur-my-shell": {
       "version": "67",
@@ -152,9 +152,9 @@
       "url": "https://github.com/fthx/no-overview/releases/tag/v47"
     },
     "gnome-shell-extension-system-monitor-next-git": {
-      "version": "20241017.195740",
-      "revision": "887d6ad356d588d17123210bdcbb2befe49892a9",
-      "url": "https://github.com/mgalgs/gnome-shell-system-monitor-applet/commit/887d6ad356d588d17123210bdcbb2befe49892a9"
+      "version": "20241020.222338",
+      "revision": "fce02ae63426b46864ff06d661bb73389e104682",
+      "url": "https://github.com/mgalgs/gnome-shell-system-monitor-applet/commit/fce02ae63426b46864ff06d661bb73389e104682"
     },
     "go-cqhttp-bin": {
       "version": "1.2.0",
@@ -162,7 +162,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "130.0.6723.58-1"
+      "version": "130.0.6723.69-1"
     },
     "gqrx-scanner": {
       "version": "1.0.5",
@@ -231,9 +231,9 @@
       "url": "https://github.com/espressif/kicad-libraries/commit/c5468205b68ba925c090a86ab177d2f1a652d89b"
     },
     "kicad-library-sparkfun-git": {
-      "version": "20241017.171038",
-      "revision": "a2411fe3e95c5294d5ffcbdfa7e65266debb2339",
-      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/a2411fe3e95c5294d5ffcbdfa7e65266debb2339"
+      "version": "20241022.164053",
+      "revision": "07ef3e5767f20de9d70d3548cef68e1dc6a27d72",
+      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/07ef3e5767f20de9d70d3548cef68e1dc6a27d72"
     },
     "lceda-pro": {
       "version": "2.2.32.3"
@@ -449,9 +449,9 @@
       "url": "https://github.com/nihui/realsr-ncnn-vulkan/releases/tag/20220728"
     },
     "sdrangel": {
-      "version": "7.22.1",
-      "gitref": "refs/tags/v7.22.1",
-      "url": "https://github.com/f4exb/sdrangel/releases/tag/v7.22.1"
+      "version": "7.22.2",
+      "gitref": "refs/tags/v7.22.2",
+      "url": "https://github.com/f4exb/sdrangel/releases/tag/v7.22.2"
     },
     "seclists": {
       "version": "2024.3",
