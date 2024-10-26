@@ -20,12 +20,12 @@
       "url": "https://github.com/bbg-contributors/bbg/releases/tag/20240613"
     },
     "bbg-git": {
-      "version": "20241013.053455",
-      "revision": "13e36076b3984c376895669e8f579d73dd4cefd8",
-      "url": "https://github.com/bbg-contributors/bbg/commit/13e36076b3984c376895669e8f579d73dd4cefd8"
+      "version": "20241024.074518",
+      "revision": "45235ef708d9cfdb56bb2d1c5ab36e9b1c8036e9",
+      "url": "https://github.com/bbg-contributors/bbg/commit/45235ef708d9cfdb56bb2d1c5ab36e9b1c8036e9"
     },
     "burpsuite": {
-      "version": "2024.8.5"
+      "version": "2024.9.3"
     },
     "canokey-usbip-git": {
       "version": "20240311.144100",
@@ -56,9 +56,9 @@
       "url": "https://github.com/Ultimaker/Cura/releases/tag/5.8.1"
     },
     "cyberchef-web": {
-      "version": "10.19.2",
-      "gitref": "refs/tags/v10.19.2",
-      "url": "https://github.com/gchq/CyberChef/releases/tag/v10.19.2"
+      "version": "10.19.4",
+      "gitref": "refs/tags/v10.19.4",
+      "url": "https://github.com/gchq/CyberChef/releases/tag/v10.19.4"
     },
     "davinci-resolve": {
       "version": "18.6.6"
@@ -136,9 +136,9 @@
       "url": "https://github.com/micheleg/dash-to-dock/releases/tag/extensions.gnome.org-v99"
     },
     "gnome-shell-extension-gsconnect": {
-      "version": "57",
-      "gitref": "refs/tags/v57",
-      "url": "https://github.com/GSConnect/gnome-shell-extension-gsconnect/releases/tag/v57"
+      "version": "58",
+      "gitref": "refs/tags/v58",
+      "url": "https://github.com/GSConnect/gnome-shell-extension-gsconnect/releases/tag/v58"
     },
     "gnome-shell-extension-nightthemeswitcher": {
       "version": "78",
@@ -180,9 +180,9 @@
       "url": "https://github.com/pobrn/hid-ite8291r3/commit/7ad5991acbe2f949ae64a03a99dced347ead99fa"
     },
     "hmcl": {
-      "version": "3.5.9.257",
-      "gitref": "refs/tags/v3.5.9.257",
-      "url": "https://github.com/HMCL-dev/HMCL/releases/tag/v3.5.9.257"
+      "version": "3.5.9.258",
+      "gitref": "refs/tags/v3.5.9.258",
+      "url": "https://github.com/HMCL-dev/HMCL/releases/tag/v3.5.9.258"
     },
     "howdy": {
       "version": "2.6.1",
@@ -205,7 +205,7 @@
       "url": "https://github.com/WerWolv/ImHex/releases/tag/v1.35.4"
     },
     "intellij-idea-ultimate-edition": {
-      "version": "2024.2.3"
+      "version": "2024.2.4"
     },
     "iptv-checker": {
       "version": "0.28.0",
@@ -231,9 +231,9 @@
       "url": "https://github.com/espressif/kicad-libraries/commit/c5468205b68ba925c090a86ab177d2f1a652d89b"
     },
     "kicad-library-sparkfun-git": {
-      "version": "20241022.164053",
-      "revision": "07ef3e5767f20de9d70d3548cef68e1dc6a27d72",
-      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/07ef3e5767f20de9d70d3548cef68e1dc6a27d72"
+      "version": "20241025.024326",
+      "revision": "4b25f52b2f145eb44bb11c0c26c355075d95933d",
+      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/4b25f52b2f145eb44bb11c0c26c355075d95933d"
     },
     "lceda-pro": {
       "version": "2.2.32.3"
@@ -346,7 +346,7 @@
       "url": "https://github.com/g-plane/pnpm-shell-completion/releases/tag/v0.5.4"
     },
     "pycharm-professional": {
-      "version": "2024.2.3"
+      "version": "2024.2.4"
     },
     "python-crccheck": {
       "version": "1.3.0",
@@ -484,14 +484,14 @@
       "url": "https://github.com/tindy2013/subconverter/releases/tag/v0.9.0"
     },
     "subfinder": {
-      "version": "2.6.6",
-      "gitref": "refs/tags/v2.6.6",
-      "url": "https://github.com/projectdiscovery/subfinder/releases/tag/v2.6.6"
+      "version": "2.6.7",
+      "gitref": "refs/tags/v2.6.7",
+      "url": "https://github.com/projectdiscovery/subfinder/releases/tag/v2.6.7"
     },
     "subfinder-bin": {
-      "version": "2.6.6",
-      "gitref": "refs/tags/v2.6.6",
-      "url": "https://github.com/projectdiscovery/subfinder/releases/tag/v2.6.6"
+      "version": "2.6.7",
+      "gitref": "refs/tags/v2.6.7",
+      "url": "https://github.com/projectdiscovery/subfinder/releases/tag/v2.6.7"
     },
     "tcping": {
       "version": "0.1.1rc1",
@@ -508,9 +508,9 @@
       "url": "https://github.com/Ulauncher/Ulauncher/releases/tag/5.15.7"
     },
     "v2raya": {
-      "version": "2.2.6",
-      "gitref": "refs/tags/v2.2.6",
-      "url": "https://github.com/v2rayA/v2rayA/releases/tag/v2.2.6"
+      "version": "2.2.6.1",
+      "gitref": "refs/tags/v2.2.6.1",
+      "url": "https://github.com/v2rayA/v2rayA/releases/tag/v2.2.6.1"
     },
     "ventoy": {
       "version": "1.0.99",
