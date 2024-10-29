@@ -92,10 +92,10 @@
       "version": "6.5.46"
     },
     "easyeda-pro-bin": {
-      "version": "2.2.32.3"
+      "version": "2.2.32.3.1"
     },
     "easyeda-pro-electron": {
-      "version": "2.2.32.3"
+      "version": "2.2.32.3.1"
     },
     "freerouting": {
       "version": "1.9.0",
@@ -177,9 +177,9 @@
       "url": "https://github.com/pobrn/hid-ite8291r3/commit/7ad5991acbe2f949ae64a03a99dced347ead99fa"
     },
     "hmcl": {
-      "version": "3.5.9.258",
-      "gitref": "refs/tags/v3.5.9.258",
-      "url": "https://github.com/HMCL-dev/HMCL/releases/tag/v3.5.9.258"
+      "version": "3.5.9.259",
+      "gitref": "refs/tags/v3.5.9.259",
+      "url": "https://github.com/HMCL-dev/HMCL/releases/tag/v3.5.9.259"
     },
     "howdy": {
       "version": "2.6.1",
@@ -233,10 +233,10 @@
       "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/4b25f52b2f145eb44bb11c0c26c355075d95933d"
     },
     "lceda-pro": {
-      "version": "2.2.32.3"
+      "version": "2.2.32.3.1"
     },
     "lceda-pro-bin": {
-      "version": "2.2.32.3"
+      "version": "2.2.32.3.1"
     },
     "libnatspec": {
       "version": "0.3.3-alt1",
@@ -362,9 +362,9 @@
       "url": "https://github.com/frida/frida-tools/releases/tag/13.6.0"
     },
     "python-iptvtools": {
-      "version": "0.2.11",
-      "gitref": "refs/tags/v0.2.11",
-      "url": "https://github.com/huxuan/iptvtools/releases/tag/v0.2.11"
+      "version": "0.2.12",
+      "gitref": "refs/tags/v0.2.12",
+      "url": "https://github.com/huxuan/iptvtools/releases/tag/v0.2.12"
     },
     "python-ite8291r3-ctl-git": {
       "version": "20220314.181251",
@@ -505,9 +505,9 @@
       "url": "https://github.com/Ulauncher/Ulauncher/releases/tag/5.15.7"
     },
     "v2raya": {
-      "version": "2.2.6.1",
-      "gitref": "refs/tags/v2.2.6.1",
-      "url": "https://github.com/v2rayA/v2rayA/releases/tag/v2.2.6.1"
+      "version": "2.2.6.2",
+      "gitref": "refs/tags/v2.2.6.2",
+      "url": "https://github.com/v2rayA/v2rayA/releases/tag/v2.2.6.2"
     },
     "ventoy": {
       "version": "1.0.99",
@@ -515,9 +515,9 @@
       "url": "https://github.com/ventoy/Ventoy/releases/tag/v1.0.99"
     },
     "video2x": {
-      "version": "4.8.1",
-      "gitref": "refs/tags/4.8.1",
-      "url": "https://github.com/k4yt3x/video2x/releases/tag/4.8.1"
+      "version": "6.0.0",
+      "gitref": "refs/tags/6.0.0",
+      "url": "https://github.com/k4yt3x/video2x/releases/tag/6.0.0"
     },
     "visual-studio-code": {
       "version": "1.94.2"
@@ -541,9 +541,9 @@
       "url": "https://github.com/ggerganov/whisper.cpp/releases/tag/v1.7.1"
     },
     "whitesur-cursor-theme-git": {
-      "version": "20220617.145134",
-      "revision": "5c94e8c22de067282f4cf6d782afd7b75cdd08c8",
-      "url": "https://github.com/vinceliuice/WhiteSur-cursors/commit/5c94e8c22de067282f4cf6d782afd7b75cdd08c8"
+      "version": "20241027.052253",
+      "revision": "63d04b852abd59ffa270e6d551ced27ff25ef838",
+      "url": "https://github.com/vinceliuice/WhiteSur-cursors/commit/63d04b852abd59ffa270e6d551ced27ff25ef838"
     },
     "whitesur-gtk-theme": {
       "version": "2024.09.02",
