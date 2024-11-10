@@ -20,12 +20,12 @@
       "url": "https://github.com/bbg-contributors/bbg/releases/tag/20240613"
     },
     "bbg-git": {
-      "version": "20241024.074518",
-      "revision": "45235ef708d9cfdb56bb2d1c5ab36e9b1c8036e9",
-      "url": "https://github.com/bbg-contributors/bbg/commit/45235ef708d9cfdb56bb2d1c5ab36e9b1c8036e9"
+      "version": "20241109.152509",
+      "revision": "8b98c47ddcc4de7f386791388b147956168e07dd",
+      "url": "https://github.com/bbg-contributors/bbg/commit/8b98c47ddcc4de7f386791388b147956168e07dd"
     },
     "burpsuite": {
-      "version": "2024.9.4"
+      "version": "2024.9.5"
     },
     "canokey-usbip-git": {
       "version": "20240311.144100",
@@ -46,9 +46,9 @@
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/tag/v2.2.5"
     },
     "code-server": {
-      "version": "4.93.1",
-      "gitref": "refs/tags/v4.93.1",
-      "url": "https://github.com/coder/code-server/releases/tag/v4.93.1"
+      "version": "4.95.1",
+      "gitref": "refs/tags/v4.95.1",
+      "url": "https://github.com/coder/code-server/releases/tag/v4.95.1"
     },
     "cura": {
       "version": "5.8.1",
@@ -83,6 +83,9 @@
       "revision": "bff92c4ad772a0a8d433f788d39dae97e00e4dbe",
       "url": "https://github.com/MalcolmRobb/dump1090/commit/bff92c4ad772a0a8d433f788d39dae97e00e4dbe"
     },
+    "eagle": {
+      "version": "9.6.2"
+    },
     "easierconnect": {
       "version": "20240624.160430",
       "revision": "376593ea5517d4ea73c66f668b80b20a17cb09ad",
@@ -98,9 +101,9 @@
       "version": "2.2.32.3.1"
     },
     "freerouting": {
-      "version": "1.9.0",
-      "gitref": "refs/tags/v1.9.0",
-      "url": "https://github.com/freerouting/freerouting/releases/tag/v1.9.0"
+      "version": "2.0.0",
+      "gitref": "refs/tags/v2.0.0",
+      "url": "https://github.com/freerouting/freerouting/releases/tag/v2.0.0"
     },
     "frida-dexdump": {
       "version": "2.0.1",
@@ -149,9 +152,9 @@
       "url": "https://github.com/fthx/no-overview/releases/tag/v47"
     },
     "gnome-shell-extension-system-monitor-next-git": {
-      "version": "20241020.222338",
-      "revision": "fce02ae63426b46864ff06d661bb73389e104682",
-      "url": "https://github.com/mgalgs/gnome-shell-system-monitor-applet/commit/fce02ae63426b46864ff06d661bb73389e104682"
+      "version": "20241108.195705",
+      "revision": "f1847130c8ec007930123ee6344ae3e56b4182d0",
+      "url": "https://github.com/mgalgs/gnome-shell-system-monitor-applet/commit/f1847130c8ec007930123ee6344ae3e56b4182d0"
     },
     "go-cqhttp-bin": {
       "version": "1.2.0",
@@ -159,7 +162,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "130.0.6723.91-1"
+      "version": "130.0.6723.116-1"
     },
     "gqrx-scanner": {
       "version": "1.0.5",
@@ -177,9 +180,9 @@
       "url": "https://github.com/pobrn/hid-ite8291r3/commit/7ad5991acbe2f949ae64a03a99dced347ead99fa"
     },
     "hmcl": {
-      "version": "3.5.9.260",
-      "gitref": "refs/tags/v3.5.9.260",
-      "url": "https://github.com/HMCL-dev/HMCL/releases/tag/v3.5.9.260"
+      "version": "3.5.9.261",
+      "gitref": "refs/tags/v3.5.9.261",
+      "url": "https://github.com/HMCL-dev/HMCL/releases/tag/v3.5.9.261"
     },
     "howdy": {
       "version": "2.6.1",
@@ -305,9 +308,9 @@
       "url": "https://github.com/projectdiscovery/nuclei-templates/releases/tag/v10.0.3"
     },
     "nvidia-container-toolkit": {
-      "version": "1.17.0",
-      "gitref": "refs/tags/v1.17.0",
-      "url": "https://github.com/NVIDIA/nvidia-container-toolkit/releases/tag/v1.17.0"
+      "version": "1.17.1",
+      "gitref": "refs/tags/v1.17.1",
+      "url": "https://github.com/NVIDIA/nvidia-container-toolkit/releases/tag/v1.17.1"
     },
     "openvisualtraceroute": {
       "version": "20220521.225939",
@@ -403,10 +406,18 @@
       "revision": "f0b2c3baeac0269aa997371a903d861ed6474d5b",
       "url": "https://github.com/mitsuhiko/pluginbase/releases/tag/v1.0.1"
     },
+    "python-pyautogui": {
+      "version": "0.9.54",
+      "url": "https://pypi.org/project/PyAutoGUI/0.9.54/"
+    },
     "python-pydub": {
       "version": "0.25.1",
       "gitref": "refs/tags/v0.25.1",
       "url": "https://github.com/jiaaro/pydub/releases/tag/v0.25.1"
+    },
+    "python-pytweening": {
+      "version": "1.2.0",
+      "url": "https://pypi.org/project/pytweening/1.2.0/"
     },
     "python-rdbtools": {
       "version": "0.1.15",
@@ -446,9 +457,9 @@
       "url": "https://github.com/nihui/realsr-ncnn-vulkan/releases/tag/20220728"
     },
     "sdrangel": {
-      "version": "7.22.2",
-      "gitref": "refs/tags/v7.22.2",
-      "url": "https://github.com/f4exb/sdrangel/releases/tag/v7.22.2"
+      "version": "7.22.3",
+      "gitref": "refs/tags/v7.22.3",
+      "url": "https://github.com/f4exb/sdrangel/releases/tag/v7.22.3"
     },
     "seclists": {
       "version": "2024.3",
@@ -515,12 +526,12 @@
       "url": "https://github.com/ventoy/Ventoy/releases/tag/v1.0.99"
     },
     "video2x": {
-      "version": "6.1.0",
-      "gitref": "refs/tags/6.1.0",
-      "url": "https://github.com/k4yt3x/video2x/releases/tag/6.1.0"
+      "version": "6.1.1",
+      "gitref": "refs/tags/6.1.1",
+      "url": "https://github.com/k4yt3x/video2x/releases/tag/6.1.1"
     },
     "visual-studio-code": {
-      "version": "1.95.1"
+      "version": "1.95.2"
     },
     "wafw00f": {
       "version": "2.2.0",

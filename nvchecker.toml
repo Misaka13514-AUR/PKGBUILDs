@@ -168,6 +168,14 @@ github = "bndr/pipreqs"
 use_max_tag = true
 prefix = "v"
 
+[python-pyautogui]
+source = "pypi"
+pypi = "PyAutoGUI"
+
+[python-pytweening]
+source = "pypi"
+pypi = "pytweening"
+
 [python-rdbtools]
 source = "github"
 github = "sripathikrishnan/redis-rdb-tools"
@@ -322,7 +330,7 @@ prefix = "v"
 source = "httpheader"
 url = "https://www.autodesk.com/eagle-download-lin"
 regex = 'EAGLE_([\d.]+)_English_Linux'
-user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 
 [geogebra-6-electron]
 source = 'regex'
