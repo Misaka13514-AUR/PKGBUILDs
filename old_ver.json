@@ -15,14 +15,14 @@
       "url": "https://github.com/arduino/arduino-ide/releases/tag/2.3.3"
     },
     "bbg": {
-      "version": "20240613",
-      "gitref": "refs/tags/20240613",
-      "url": "https://github.com/bbg-contributors/bbg/releases/tag/20240613"
+      "version": "20241113",
+      "gitref": "refs/tags/20241113",
+      "url": "https://github.com/bbg-contributors/bbg/releases/tag/20241113"
     },
     "bbg-git": {
-      "version": "20241109.152509",
-      "revision": "8b98c47ddcc4de7f386791388b147956168e07dd",
-      "url": "https://github.com/bbg-contributors/bbg/commit/8b98c47ddcc4de7f386791388b147956168e07dd"
+      "version": "20241112.093046",
+      "revision": "b2cb621f3cfc565663510ced70e27d52a98e0f0a",
+      "url": "https://github.com/bbg-contributors/bbg/commit/b2cb621f3cfc565663510ced70e27d52a98e0f0a"
     },
     "burpsuite": {
       "version": "2024.9.5"
@@ -36,9 +36,9 @@
       "version": "4.6.7"
     },
     "cinny-desktop": {
-      "version": "4.2.2",
-      "gitref": "refs/tags/v4.2.2",
-      "url": "https://github.com/cinnyapp/cinny-desktop/releases/tag/v4.2.2"
+      "version": "4.2.3",
+      "gitref": "refs/tags/v4.2.3",
+      "url": "https://github.com/cinnyapp/cinny-desktop/releases/tag/v4.2.3"
     },
     "cloudflarespeedtest": {
       "version": "2.2.5",
@@ -180,9 +180,9 @@
       "url": "https://github.com/pobrn/hid-ite8291r3/commit/7ad5991acbe2f949ae64a03a99dced347ead99fa"
     },
     "hmcl": {
-      "version": "3.5.9.261",
-      "gitref": "refs/tags/v3.5.9.261",
-      "url": "https://github.com/HMCL-dev/HMCL/releases/tag/v3.5.9.261"
+      "version": "3.5.9.262",
+      "gitref": "refs/tags/v3.5.9.262",
+      "url": "https://github.com/HMCL-dev/HMCL/releases/tag/v3.5.9.262"
     },
     "howdy": {
       "version": "2.6.1",
@@ -190,14 +190,14 @@
       "url": "https://github.com/boltgolt/howdy/releases/tag/v2.6.1"
     },
     "hysteria": {
-      "version": "2.5.2",
-      "gitref": "refs/tags/app/v2.5.2",
-      "url": "https://github.com/apernet/hysteria/releases/tag/app/v2.5.2"
+      "version": "2.6.0",
+      "gitref": "refs/tags/app/v2.6.0",
+      "url": "https://github.com/apernet/hysteria/releases/tag/app/v2.6.0"
     },
     "icalingua-plus-plus": {
-      "version": "2.12.23",
-      "gitref": "refs/tags/v2.12.23",
-      "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.12.23"
+      "version": "2.12.24",
+      "gitref": "refs/tags/v2.12.24",
+      "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.12.24"
     },
     "imhex": {
       "version": "1.35.4",
@@ -457,9 +457,9 @@
       "url": "https://github.com/nihui/realsr-ncnn-vulkan/releases/tag/20220728"
     },
     "sdrangel": {
-      "version": "7.22.3",
-      "gitref": "refs/tags/v7.22.3",
-      "url": "https://github.com/f4exb/sdrangel/releases/tag/v7.22.3"
+      "version": "7.22.4",
+      "gitref": "refs/tags/v7.22.4",
+      "url": "https://github.com/f4exb/sdrangel/releases/tag/v7.22.4"
     },
     "seclists": {
       "version": "2024.3",
