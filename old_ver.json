@@ -46,9 +46,9 @@
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/tag/v2.2.5"
     },
     "code-server": {
-      "version": "4.95.1",
-      "gitref": "refs/tags/v4.95.1",
-      "url": "https://github.com/coder/code-server/releases/tag/v4.95.1"
+      "version": "4.95.2",
+      "gitref": "refs/tags/v4.95.2",
+      "url": "https://github.com/coder/code-server/releases/tag/v4.95.2"
     },
     "cura": {
       "version": "5.8.1",
@@ -101,9 +101,9 @@
       "version": "2.2.32.3.1"
     },
     "freerouting": {
-      "version": "2.0.0",
-      "gitref": "refs/tags/v2.0.0",
-      "url": "https://github.com/freerouting/freerouting/releases/tag/v2.0.0"
+      "version": "2.0.1",
+      "gitref": "refs/tags/v2.0.1",
+      "url": "https://github.com/freerouting/freerouting/releases/tag/v2.0.1"
     },
     "frida-dexdump": {
       "version": "2.0.1",
@@ -152,9 +152,9 @@
       "url": "https://github.com/fthx/no-overview/releases/tag/v47"
     },
     "gnome-shell-extension-system-monitor-next-git": {
-      "version": "20241108.195705",
-      "revision": "f1847130c8ec007930123ee6344ae3e56b4182d0",
-      "url": "https://github.com/mgalgs/gnome-shell-system-monitor-applet/commit/f1847130c8ec007930123ee6344ae3e56b4182d0"
+      "version": "20241112.223109",
+      "revision": "5ee731e14ec93ba6104a1e24ba0ea1c22aed65fe",
+      "url": "https://github.com/mgalgs/gnome-shell-system-monitor-applet/commit/5ee731e14ec93ba6104a1e24ba0ea1c22aed65fe"
     },
     "go-cqhttp-bin": {
       "version": "1.2.0",
@@ -162,7 +162,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "130.0.6723.116-1"
+      "version": "131.0.6778.69-1"
     },
     "gqrx-scanner": {
       "version": "1.0.5",
@@ -180,9 +180,9 @@
       "url": "https://github.com/pobrn/hid-ite8291r3/commit/7ad5991acbe2f949ae64a03a99dced347ead99fa"
     },
     "hmcl": {
-      "version": "3.5.9.262",
-      "gitref": "refs/tags/v3.5.9.262",
-      "url": "https://github.com/HMCL-dev/HMCL/releases/tag/v3.5.9.262"
+      "version": "release-3.5.10",
+      "gitref": "refs/tags/release-3.5.10",
+      "url": "https://github.com/HMCL-dev/HMCL/releases/tag/release-3.5.10"
     },
     "howdy": {
       "version": "2.6.1",
@@ -205,7 +205,7 @@
       "url": "https://github.com/WerWolv/ImHex/releases/tag/v1.35.4"
     },
     "intellij-idea-ultimate-edition": {
-      "version": "2024.2.4"
+      "version": "2024.3"
     },
     "iptv-checker": {
       "version": "0.28.0",
@@ -231,9 +231,9 @@
       "url": "https://github.com/espressif/kicad-libraries/commit/c5468205b68ba925c090a86ab177d2f1a652d89b"
     },
     "kicad-library-sparkfun-git": {
-      "version": "20241030.175429",
-      "revision": "3556c99139893036da1be5e3f9344498bb0d2fb5",
-      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/3556c99139893036da1be5e3f9344498bb0d2fb5"
+      "version": "20241115.042915",
+      "revision": "4de409815f87bb74cde67dc50b7ebdf57bcba0f2",
+      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/4de409815f87bb74cde67dc50b7ebdf57bcba0f2"
     },
     "lceda-pro": {
       "version": "2.2.32.3.1"
@@ -346,7 +346,7 @@
       "url": "https://github.com/g-plane/pnpm-shell-completion/releases/tag/v0.5.4"
     },
     "pycharm-professional": {
-      "version": "2024.2.4"
+      "version": "2024.3"
     },
     "python-crccheck": {
       "version": "1.3.0",
@@ -354,9 +354,9 @@
       "url": "https://github.com/MartinScharrer/crccheck/releases/tag/v1.3.0"
     },
     "python-frida": {
-      "version": "16.5.6",
-      "gitref": "refs/tags/16.5.6",
-      "url": "https://github.com/frida/frida/releases/tag/16.5.6"
+      "version": "16.5.7",
+      "gitref": "refs/tags/16.5.7",
+      "url": "https://github.com/frida/frida/releases/tag/16.5.7"
     },
     "python-frida-tools": {
       "version": "13.6.0",
@@ -479,7 +479,7 @@
       "url": "https://github.com/SagerNet/serenity/releases/tag/v1.0.0-beta.20"
     },
     "slack-desktop": {
-      "version": "4.41.96-0.1"
+      "version": "4.41.97-0.1"
     },
     "srmd-ncnn-vulkan": {
       "version": "20220728",
@@ -531,7 +531,7 @@
       "url": "https://github.com/k4yt3x/video2x/releases/tag/6.1.1"
     },
     "visual-studio-code": {
-      "version": "1.95.2"
+      "version": "1.95.3"
     },
     "wafw00f": {
       "version": "2.2.0",
