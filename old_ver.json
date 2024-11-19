@@ -440,6 +440,10 @@
       "gitref": "refs/tags/v0.24.1",
       "url": "https://github.com/pappasam/toml-sort/releases/tag/v0.24.1"
     },
+    "python-undetected-chromedriver": {
+      "version": "3.5.5",
+      "url": "https://pypi.org/project/undetected-chromedriver/3.5.5/"
+    },
     "python-wallbreaker": {
       "version": "1.0.3",
       "gitref": "refs/tags/1.0.3",

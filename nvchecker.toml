@@ -194,6 +194,10 @@ github = "pappasam/toml-sort"
 use_latest_release = true
 prefix = "v"
 
+[python-undetected-chromedriver]
+source = "pypi"
+pypi = "undetected-chromedriver"
+
 [python-wallbreaker]
 source = "github"
 github = "hluwa/Wallbreaker"
