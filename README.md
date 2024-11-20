@@ -5,6 +5,7 @@ This repository contains the packages I maintain or co-maintain in [AUR](https:/
 Powered by [nvchecker](https://github.com/lilydjwg/nvchecker) & [aurpublish](https://github.com/eli-schwartz/aurpublish).
 
 [![Maintainer](https://img.shields.io/static/v1?label=maintainer&message=Misaka13514&color=333333)](https://aur.archlinux.org/account/Misaka13514)
+[![License](https://img.shields.io/github/license/Misaka13514-AUR/PKGBUILDs)](https://github.com/Misaka13514-AUR/PKGBUILDs/blob/main/LICENSE)
 
 ## Pre-built AUR packages (experimental)
 
