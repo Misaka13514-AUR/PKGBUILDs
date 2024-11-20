@@ -51,17 +51,14 @@
       "url": "https://github.com/coder/code-server/releases/tag/v4.95.3"
     },
     "cura": {
-      "version": "5.8.1",
-      "gitref": "refs/tags/5.8.1",
-      "url": "https://github.com/Ultimaker/Cura/releases/tag/5.8.1"
+      "version": "5.9.0",
+      "gitref": "refs/tags/5.9.0",
+      "url": "https://github.com/Ultimaker/Cura/releases/tag/5.9.0"
     },
     "cyberchef-web": {
       "version": "10.19.4",
       "gitref": "refs/tags/v10.19.4",
       "url": "https://github.com/gchq/CyberChef/releases/tag/v10.19.4"
-    },
-    "davinci-resolve": {
-      "version": "18.6.6"
     },
     "dirsearch": {
       "version": "0.4.3",
@@ -152,9 +149,9 @@
       "url": "https://github.com/fthx/no-overview/releases/tag/v47"
     },
     "gnome-shell-extension-system-monitor-next-git": {
-      "version": "20241115.180421",
-      "revision": "383892d8bc16ce55baecf8f6a4fb7e245fa1d8ca",
-      "url": "https://github.com/mgalgs/gnome-shell-system-monitor-applet/commit/383892d8bc16ce55baecf8f6a4fb7e245fa1d8ca"
+      "version": "20241120.003543",
+      "revision": "f240b66138a291ea8a18d7a692b7ef15bf42b02e",
+      "url": "https://github.com/mgalgs/gnome-shell-system-monitor-applet/commit/f240b66138a291ea8a18d7a692b7ef15bf42b02e"
     },
     "go-cqhttp-bin": {
       "version": "1.2.0",
@@ -162,7 +159,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "131.0.6778.69-1"
+      "version": "131.0.6778.85-1"
     },
     "gqrx-scanner": {
       "version": "1.0.5",
@@ -277,9 +274,9 @@
       "url": "https://github.com/jaquadro/NBTExplorer/releases/tag/v2.8.0-win"
     },
     "needrestart": {
-      "version": "3.7",
-      "gitref": "refs/tags/v3.7",
-      "url": "https://github.com/liske/needrestart/releases/tag/v3.7"
+      "version": "3.8",
+      "gitref": "refs/tags/v3.8",
+      "url": "https://github.com/liske/needrestart/releases/tag/v3.8"
     },
     "nixfmt": {
       "version": "0.6.0",
@@ -436,9 +433,9 @@
       "url": "https://github.com/OpenStitching/stitching/releases/tag/v0.6.1"
     },
     "python-toml-sort": {
-      "version": "0.24.1",
-      "gitref": "refs/tags/v0.24.1",
-      "url": "https://github.com/pappasam/toml-sort/releases/tag/v0.24.1"
+      "version": "0.24.2",
+      "gitref": "refs/tags/v0.24.2",
+      "url": "https://github.com/pappasam/toml-sort/releases/tag/v0.24.2"
     },
     "python-undetected-chromedriver": {
       "version": "3.5.5",
@@ -551,9 +548,9 @@
       "url": "https://github.com/openai/whisper/releases/tag/v20240930"
     },
     "whisper-cpp": {
-      "version": "1.7.1",
-      "gitref": "refs/tags/v1.7.1",
-      "url": "https://github.com/ggerganov/whisper.cpp/releases/tag/v1.7.1"
+      "version": "1.7.2",
+      "gitref": "refs/tags/v1.7.2",
+      "url": "https://github.com/ggerganov/whisper.cpp/releases/tag/v1.7.2"
     },
     "whitesur-cursor-theme-git": {
       "version": "20241027.052253",
