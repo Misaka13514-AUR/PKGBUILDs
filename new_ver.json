@@ -20,12 +20,12 @@
       "url": "https://github.com/bbg-contributors/bbg/releases/tag/20241113"
     },
     "bbg-git": {
-      "version": "20241112.093046",
-      "revision": "b2cb621f3cfc565663510ced70e27d52a98e0f0a",
-      "url": "https://github.com/bbg-contributors/bbg/commit/b2cb621f3cfc565663510ced70e27d52a98e0f0a"
+      "version": "20241123.104019",
+      "revision": "d795538d7812feccf37c05f956bdfb844810f2c1",
+      "url": "https://github.com/bbg-contributors/bbg/commit/d795538d7812feccf37c05f956bdfb844810f2c1"
     },
     "burpsuite": {
-      "version": "2024.9.5"
+      "version": "2024.10.3"
     },
     "canokey-usbip-git": {
       "version": "20240311.144100",
@@ -59,6 +59,9 @@
       "version": "10.19.4",
       "gitref": "refs/tags/v10.19.4",
       "url": "https://github.com/gchq/CyberChef/releases/tag/v10.19.4"
+    },
+    "davinci-resolve": {
+      "version": "18.6.6"
     },
     "dirsearch": {
       "version": "0.4.3",
@@ -114,7 +117,7 @@
       "url": "https://github.com/shadow1ng/fscan/releases/tag/1.8.4"
     },
     "geogebra-6-electron": {
-      "version": "6.0.866.0"
+      "version": "6.0.868.0"
     },
     "gnome-shell-extension-blur-my-shell": {
       "version": "67",
@@ -177,9 +180,9 @@
       "url": "https://github.com/pobrn/hid-ite8291r3/commit/7ad5991acbe2f949ae64a03a99dced347ead99fa"
     },
     "hmcl": {
-      "version": "3.5.9.263",
-      "gitref": "refs/tags/v3.5.9.263",
-      "url": "https://github.com/HMCL-dev/HMCL/releases/tag/v3.5.9.263"
+      "version": "release-3.6.11",
+      "gitref": "refs/tags/release-3.6.11",
+      "url": "https://github.com/HMCL-dev/HMCL/releases/tag/release-3.6.11"
     },
     "howdy": {
       "version": "2.6.1",
@@ -228,9 +231,9 @@
       "url": "https://github.com/espressif/kicad-libraries/commit/c5468205b68ba925c090a86ab177d2f1a652d89b"
     },
     "kicad-library-sparkfun-git": {
-      "version": "20241115.175031",
-      "revision": "fc3afd206a841da79050c76b1faa7636e56aa5fd",
-      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/fc3afd206a841da79050c76b1faa7636e56aa5fd"
+      "version": "20241121.204644",
+      "revision": "e2b38745220e76ca4d24d52281cb894e4356e03c",
+      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/e2b38745220e76ca4d24d52281cb894e4356e03c"
     },
     "lceda-pro": {
       "version": "2.2.32.3.1"
@@ -248,9 +251,9 @@
       "version": "3.2.9_240606"
     },
     "meanalyzer": {
-      "version": "r356",
-      "gitref": "refs/tags/r356",
-      "url": "https://github.com/platomav/MEAnalyzer/releases/tag/r356"
+      "version": "r357",
+      "gitref": "refs/tags/r357",
+      "url": "https://github.com/platomav/MEAnalyzer/releases/tag/r357"
     },
     "mfcuk-git": {
       "version": "20180714.103154",
@@ -290,14 +293,14 @@
       "url": "https://github.com/nix-community/nixpkgs-fmt/releases/tag/v1.3.0"
     },
     "nuclei": {
-      "version": "3.3.5",
-      "gitref": "refs/tags/v3.3.5",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.5"
+      "version": "3.3.6",
+      "gitref": "refs/tags/v3.3.6",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.6"
     },
     "nuclei-bin": {
-      "version": "3.3.5",
-      "gitref": "refs/tags/v3.3.5",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.5"
+      "version": "3.3.6",
+      "gitref": "refs/tags/v3.3.6",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.6"
     },
     "nuclei-templates": {
       "version": "10.0.4",
@@ -463,24 +466,24 @@
       "url": "https://github.com/f4exb/sdrangel/releases/tag/v7.22.4"
     },
     "seclists": {
-      "version": "2024.3",
-      "gitref": "refs/tags/2024.3",
-      "url": "https://github.com/danielmiessler/SecLists/releases/tag/2024.3"
+      "version": "2024.4",
+      "gitref": "refs/tags/2024.4",
+      "url": "https://github.com/danielmiessler/SecLists/releases/tag/2024.4"
     },
     "sedutil": {
-      "version": "1.49.4",
-      "gitref": "refs/tags/1.49.4",
-      "revision": "1396c331d1e55cbf4972ca1712023dff5744c1e2",
-      "url": "https://github.com/Drive-Trust-Alliance/sedutil/releases/tag/1.49.4"
+      "version": "1.49.5",
+      "gitref": "refs/tags/1.49.5",
+      "revision": "845151f86032bca80628b8f474bbf1f74d152fce",
+      "url": "https://github.com/Drive-Trust-Alliance/sedutil/releases/tag/1.49.5"
     },
     "serenity": {
-      "version": "1.1.0-alpha.3",
-      "gitref": "refs/tags/v1.1.0-alpha.3",
-      "revision": "ff33c5cba3c3edc6608058918ec7f196ec685f8f",
-      "url": "https://github.com/SagerNet/serenity/releases/tag/v1.1.0-alpha.3"
+      "version": "1.1.0-alpha.4",
+      "gitref": "refs/tags/v1.1.0-alpha.4",
+      "revision": "474ab7e4299d1395cf790036a07ecee23612599c",
+      "url": "https://github.com/SagerNet/serenity/releases/tag/v1.1.0-alpha.4"
     },
     "slack-desktop": {
-      "version": "4.41.97-0.1"
+      "version": "4.41.98-0.1"
     },
     "srmd-ncnn-vulkan": {
       "version": "20220728",
@@ -517,9 +520,9 @@
       "url": "https://github.com/Ulauncher/Ulauncher/releases/tag/5.15.7"
     },
     "v2raya": {
-      "version": "2.2.6.2",
-      "gitref": "refs/tags/v2.2.6.2",
-      "url": "https://github.com/v2rayA/v2rayA/releases/tag/v2.2.6.2"
+      "version": "2.2.6.3",
+      "gitref": "refs/tags/v2.2.6.3",
+      "url": "https://github.com/v2rayA/v2rayA/releases/tag/v2.2.6.3"
     },
     "ventoy": {
       "version": "1.0.99",
