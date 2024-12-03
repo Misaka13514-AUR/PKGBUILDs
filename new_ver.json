@@ -2,7 +2,7 @@
   "version": 2,
   "data": {
     "android-studio": {
-      "version": "2024.2.1.11"
+      "version": "2024.2.1.12"
     },
     "anime4k": {
       "version": "4.0.1",
@@ -117,7 +117,7 @@
       "url": "https://github.com/shadow1ng/fscan/releases/tag/1.8.4"
     },
     "geogebra-6-electron": {
-      "version": "6.0.868.0"
+      "version": "6.0.869.0"
     },
     "gnome-shell-extension-blur-my-shell": {
       "version": "67",
@@ -152,9 +152,9 @@
       "url": "https://github.com/fthx/no-overview/releases/tag/v47"
     },
     "gnome-shell-extension-system-monitor-next-git": {
-      "version": "20241120.003543",
-      "revision": "f240b66138a291ea8a18d7a692b7ef15bf42b02e",
-      "url": "https://github.com/mgalgs/gnome-shell-system-monitor-applet/commit/f240b66138a291ea8a18d7a692b7ef15bf42b02e"
+      "version": "20241202.174740",
+      "revision": "463a5ce0e04f44c6f401913cc53a2d5c9891ea7e",
+      "url": "https://github.com/mgalgs/gnome-shell-system-monitor-next-applet/commit/463a5ce0e04f44c6f401913cc53a2d5c9891ea7e"
     },
     "go-cqhttp-bin": {
       "version": "1.2.0",
@@ -231,9 +231,9 @@
       "url": "https://github.com/espressif/kicad-libraries/commit/c5468205b68ba925c090a86ab177d2f1a652d89b"
     },
     "kicad-library-sparkfun-git": {
-      "version": "20241121.204644",
-      "revision": "e2b38745220e76ca4d24d52281cb894e4356e03c",
-      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/e2b38745220e76ca4d24d52281cb894e4356e03c"
+      "version": "20241202.155336",
+      "revision": "9423583cb8f22433ddd5a1d7b3e3dd5d99119bb2",
+      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/9423583cb8f22433ddd5a1d7b3e3dd5d99119bb2"
     },
     "lceda-pro": {
       "version": "2.2.32.3.1"
@@ -293,14 +293,14 @@
       "url": "https://github.com/nix-community/nixpkgs-fmt/releases/tag/v1.3.0"
     },
     "nuclei": {
-      "version": "3.3.6",
-      "gitref": "refs/tags/v3.3.6",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.6"
+      "version": "3.3.7",
+      "gitref": "refs/tags/v3.3.7",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.7"
     },
     "nuclei-bin": {
-      "version": "3.3.6",
-      "gitref": "refs/tags/v3.3.6",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.6"
+      "version": "3.3.7",
+      "gitref": "refs/tags/v3.3.7",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.7"
     },
     "nuclei-templates": {
       "version": "10.0.4",
