@@ -239,9 +239,9 @@
       "version": "3.2.9_240606"
     },
     "meanalyzer": {
-      "version": "r359",
-      "gitref": "refs/tags/r359",
-      "url": "https://github.com/platomav/MEAnalyzer/releases/tag/r359"
+      "version": "r360",
+      "gitref": "refs/tags/r360",
+      "url": "https://github.com/platomav/MEAnalyzer/releases/tag/r360"
     },
     "mfcuk-git": {
       "version": "20180714.103154",
