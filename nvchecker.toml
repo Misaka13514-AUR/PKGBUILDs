@@ -5,11 +5,11 @@ keyfile = "apikey.crypt"
 
 # AUR I Maintain / Co-Maintain #
 
-[anime4k]
-source = "github"
-github = "bloc97/Anime4K"
-use_latest_release = true
-prefix = "v"
+# [anime4k]
+# source = "github"
+# github = "bloc97/Anime4K"
+# use_latest_release = true
+# prefix = "v"
 
 [bbg]
 source = "github"
@@ -87,6 +87,11 @@ source = "github"
 github = "neural75/gqrx-scanner"
 use_latest_release = true
 prefix = "v"
+
+[hath]
+source = "regex"
+url = "https://forums.e-hentai.org/index.php?showtopic=234458"
+regex = 'The most recent version is <b>([\d.]+)</b>.'
 
 [hid-ite8291r3-dkms-git]
 source = "github"
@@ -275,10 +280,10 @@ source = "regex"
 url = "https://developer.android.com/studio"
 regex = 'android-studio-([\d.]+)-linux.tar.gz'
 
-[arduino-ide]
-source = "github"
-github = "arduino/arduino-ide"
-use_latest_release = true
+# [arduino-ide]
+# source = "github"
+# github = "arduino/arduino-ide"
+# use_latest_release = true
 
 [burpsuite]
 source = "regex"
@@ -290,11 +295,11 @@ source = "regex"
 url = "https://www.charlesproxy.com/download/"
 regex = 'v([\d.]+)'
 
-[cinny-desktop]
-source = "github"
-github = "cinnyapp/cinny-desktop"
-use_latest_release = true
-prefix = "v"
+# [cinny-desktop]
+# source = "github"
+# github = "cinnyapp/cinny-desktop"
+# use_latest_release = true
+# prefix = "v"
 
 [cloudflarespeedtest]
 source = "github"
@@ -396,7 +401,7 @@ prefix = "v"
 source = "github"
 github = "huanghongxun/HMCL"
 use_latest_release = true
-prefix = "v"
+prefix = "release-"
 
 [howdy]
 source = "github"
@@ -545,10 +550,14 @@ github = "huxuan/iptvtools"
 use_latest_release = true
 prefix = "v"
 
-[python-librosa]
-source = "github"
-github = "librosa/librosa"
-use_latest_release = true
+# [python-librosa]
+# source = "github"
+# github = "librosa/librosa"
+# use_latest_release = true
+
+[python-mouseinfo]
+source = "pypi"
+pypi = "MouseInfo"
 
 [python-pluginbase]
 source = "github"
@@ -556,11 +565,25 @@ github = "mitsuhiko/pluginbase"
 use_max_tag = true
 prefix = "v"
 
-[python-pydub]
+# [python-pydub]
+# source = "github"
+# github = "jiaaro/pydub"
+# use_latest_release = true
+# prefix = "v"
+
+[python-pymsgbox]
+source = "pypi"
+pypi = "PyMsgBox"
+
+[python-pyscreeze]
+source = "pypi"
+pypi = "PyScreeze"
+
+[python-selenium]
 source = "github"
-github = "jiaaro/pydub"
+github = "SeleniumHQ/selenium"
 use_latest_release = true
-prefix = "v"
+prefix = "selenium-"
 
 [python-sexpdata]
 source = "github"
@@ -588,6 +611,12 @@ use_latest_release = true
 source = "github"
 github = "Drive-Trust-Alliance/sedutil"
 use_max_tag = true
+
+[sing-box]
+source = "github"
+github = "SagerNet/sing-box"
+use_latest_release = true
+prefix = "v"
 
 [slack-desktop]
 source = "regex"

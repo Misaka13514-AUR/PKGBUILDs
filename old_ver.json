@@ -4,16 +4,6 @@
     "android-studio": {
       "version": "2024.2.1.12"
     },
-    "anime4k": {
-      "version": "4.0.1",
-      "gitref": "refs/tags/v4.0.1",
-      "url": "https://github.com/bloc97/Anime4K/releases/tag/v4.0.1"
-    },
-    "arduino-ide": {
-      "version": "2.3.4",
-      "gitref": "refs/tags/2.3.4",
-      "url": "https://github.com/arduino/arduino-ide/releases/tag/2.3.4"
-    },
     "bbg": {
       "version": "20241113",
       "gitref": "refs/tags/20241113",
@@ -35,20 +25,15 @@
     "charles": {
       "version": "4.6.7"
     },
-    "cinny-desktop": {
-      "version": "4.2.3",
-      "gitref": "refs/tags/v4.2.3",
-      "url": "https://github.com/cinnyapp/cinny-desktop/releases/tag/v4.2.3"
-    },
     "cloudflarespeedtest": {
       "version": "2.2.5",
       "gitref": "refs/tags/v2.2.5",
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/tag/v2.2.5"
     },
     "code-server": {
-      "version": "4.96.1",
-      "gitref": "refs/tags/v4.96.1",
-      "url": "https://github.com/coder/code-server/releases/tag/v4.96.1"
+      "version": "4.96.2",
+      "gitref": "refs/tags/v4.96.2",
+      "url": "https://github.com/coder/code-server/releases/tag/v4.96.2"
     },
     "cura": {
       "version": "5.9.0",
@@ -169,6 +154,9 @@
       "gitref": "refs/tags/v1.0.5",
       "url": "https://github.com/neural75/gqrx-scanner/releases/tag/v1.0.5"
     },
+    "hath": {
+      "version": "1.6.4"
+    },
     "hexo-cli": {
       "version": "4.3.2",
       "gitref": "refs/tags/v4.3.2",
@@ -180,7 +168,7 @@
       "url": "https://github.com/pobrn/hid-ite8291r3/commit/7ad5991acbe2f949ae64a03a99dced347ead99fa"
     },
     "hmcl": {
-      "version": "release-3.6.11",
+      "version": "3.6.11",
       "gitref": "refs/tags/release-3.6.11",
       "url": "https://github.com/HMCL-dev/HMCL/releases/tag/release-3.6.11"
     },
@@ -195,9 +183,9 @@
       "url": "https://github.com/apernet/hysteria/releases/tag/app/v2.6.0"
     },
     "icalingua-plus-plus": {
-      "version": "2.12.24",
-      "gitref": "refs/tags/v2.12.24",
-      "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.12.24"
+      "version": "2.12.26",
+      "gitref": "refs/tags/v2.12.26",
+      "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.12.26"
     },
     "imhex": {
       "version": "1.35.4",
@@ -379,16 +367,15 @@
       "gitref": "refs/tags/v0.2.1",
       "url": "https://github.com/OpenStitching/lir/releases/tag/v0.2.1"
     },
-    "python-librosa": {
-      "version": "0.10.2.post1",
-      "gitref": "refs/tags/0.10.2.post1",
-      "url": "https://github.com/librosa/librosa/releases/tag/0.10.2.post1"
-    },
     "python-lzf": {
       "version": "0.2.6",
       "gitref": "refs/tags/release-0.2.6",
       "revision": "b74842e31a9edb1bce8e52348d912840ee05a039",
       "url": "https://github.com/teepark/python-lzf/releases/tag/release-0.2.6"
+    },
+    "python-mouseinfo": {
+      "version": "0.1.3",
+      "url": "https://pypi.org/project/MouseInfo/0.1.3/"
     },
     "python-pipreqs": {
       "version": "0.5.0",
@@ -410,10 +397,13 @@
       "version": "0.9.54",
       "url": "https://pypi.org/project/PyAutoGUI/0.9.54/"
     },
-    "python-pydub": {
-      "version": "0.25.1",
-      "gitref": "refs/tags/v0.25.1",
-      "url": "https://github.com/jiaaro/pydub/releases/tag/v0.25.1"
+    "python-pymsgbox": {
+      "version": "1.0.9",
+      "url": "https://pypi.org/project/PyMsgBox/1.0.9/"
+    },
+    "python-pyscreeze": {
+      "version": "1.0.1",
+      "url": "https://pypi.org/project/PyScreeze/1.0.1/"
     },
     "python-pytweening": {
       "version": "1.2.0",
@@ -423,6 +413,11 @@
       "version": "0.1.15",
       "gitref": "refs/tags/rdbtools-0.1.15",
       "url": "https://github.com/sripathikrishnan/redis-rdb-tools/releases/tag/rdbtools-0.1.15"
+    },
+    "python-selenium": {
+      "version": "4.27.0",
+      "gitref": "refs/tags/selenium-4.27.0",
+      "url": "https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.27.0"
     },
     "python-sexpdata": {
       "version": "1.0.2",
@@ -482,6 +477,11 @@
       "revision": "def4abd15bc4d5d7198869f6ec62a6e15b0f337a",
       "url": "https://github.com/SagerNet/serenity/releases/tag/v1.1.0-beta.2"
     },
+    "sing-box": {
+      "version": "1.10.5",
+      "gitref": "refs/tags/v1.10.5",
+      "url": "https://github.com/SagerNet/sing-box/releases/tag/v1.10.5"
+    },
     "slack-desktop": {
       "version": "4.41.105-0.1"
     },
@@ -530,9 +530,9 @@
       "url": "https://github.com/ventoy/Ventoy/releases/tag/v1.0.99"
     },
     "video2x": {
-      "version": "6.2.0",
-      "gitref": "refs/tags/6.2.0",
-      "url": "https://github.com/k4yt3x/video2x/releases/tag/6.2.0"
+      "version": "6.3.1",
+      "gitref": "refs/tags/6.3.1",
+      "url": "https://github.com/k4yt3x/video2x/releases/tag/6.3.1"
     },
     "visual-studio-code": {
       "version": "1.96.2"
