@@ -10,9 +10,9 @@
       "url": "https://github.com/bbg-contributors/bbg/releases/tag/20241113"
     },
     "bbg-git": {
-      "version": "20241217.044401",
-      "revision": "04446c42f0d319a15af8c9f3b09e70fbf33d9842",
-      "url": "https://github.com/bbg-contributors/bbg/commit/04446c42f0d319a15af8c9f3b09e70fbf33d9842"
+      "version": "20241228.014709",
+      "revision": "bc623b45cecdd120e04c5be5819815800dd7be70",
+      "url": "https://github.com/bbg-contributors/bbg/commit/bc623b45cecdd120e04c5be5819815800dd7be70"
     },
     "burpsuite": {
       "version": "2024.11.2"
@@ -80,10 +80,10 @@
       "version": "6.5.46"
     },
     "easyeda-pro-bin": {
-      "version": "2.2.32.3.1"
+      "version": "2.2.34.8"
     },
     "easyeda-pro-electron": {
-      "version": "2.2.32.3.1"
+      "version": "2.2.34.8"
     },
     "freerouting": {
       "version": "2.0.1",
@@ -188,9 +188,9 @@
       "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.12.26"
     },
     "imhex": {
-      "version": "1.35.4",
-      "gitref": "refs/tags/v1.35.4",
-      "url": "https://github.com/WerWolv/ImHex/releases/tag/v1.35.4"
+      "version": "1.36.1",
+      "gitref": "refs/tags/v1.36.1",
+      "url": "https://github.com/WerWolv/ImHex/releases/tag/v1.36.1"
     },
     "intellij-idea-ultimate-edition": {
       "version": "2024.3.1.1"
@@ -224,10 +224,10 @@
       "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/396354b326e243cb829873f24dbc721f2c2b1c10"
     },
     "lceda-pro": {
-      "version": "2.2.34.5"
+      "version": "2.2.34.8"
     },
     "lceda-pro-bin": {
-      "version": "2.2.34.5"
+      "version": "2.2.34.8"
     },
     "libnatspec": {
       "version": "0.3.3-alt1",
