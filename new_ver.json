@@ -188,9 +188,9 @@
       "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.12.26"
     },
     "imhex": {
-      "version": "1.36.1",
-      "gitref": "refs/tags/v1.36.1",
-      "url": "https://github.com/WerWolv/ImHex/releases/tag/v1.36.1"
+      "version": "1.36.2",
+      "gitref": "refs/tags/v1.36.2",
+      "url": "https://github.com/WerWolv/ImHex/releases/tag/v1.36.2"
     },
     "intellij-idea-ultimate-edition": {
       "version": "2024.3.1.1"
@@ -239,9 +239,9 @@
       "version": "3.2.9_240606"
     },
     "meanalyzer": {
-      "version": "r360",
-      "gitref": "refs/tags/r360",
-      "url": "https://github.com/platomav/MEAnalyzer/releases/tag/r360"
+      "version": "r361",
+      "gitref": "refs/tags/r361",
+      "url": "https://github.com/platomav/MEAnalyzer/releases/tag/r361"
     },
     "mfcuk-git": {
       "version": "20180714.103154",
