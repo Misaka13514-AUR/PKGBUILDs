@@ -10,9 +10,9 @@
       "url": "https://github.com/bbg-contributors/bbg/releases/tag/20241113"
     },
     "bbg-git": {
-      "version": "20241228.014709",
-      "revision": "bc623b45cecdd120e04c5be5819815800dd7be70",
-      "url": "https://github.com/bbg-contributors/bbg/commit/bc623b45cecdd120e04c5be5819815800dd7be70"
+      "version": "20250106.120603",
+      "revision": "8d821ed2d57dc1e3e5b12571a6392329cbf1e0ad",
+      "url": "https://github.com/bbg-contributors/bbg/commit/8d821ed2d57dc1e3e5b12571a6392329cbf1e0ad"
     },
     "burpsuite": {
       "version": "2024.11.2"
@@ -147,7 +147,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "131.0.6778.204-1"
+      "version": "131.0.6778.264-1"
     },
     "gqrx-scanner": {
       "version": "1.0.5",
@@ -219,9 +219,9 @@
       "url": "https://github.com/espressif/kicad-libraries/commit/c5468205b68ba925c090a86ab177d2f1a652d89b"
     },
     "kicad-library-sparkfun-git": {
-      "version": "20241217.163307",
-      "revision": "396354b326e243cb829873f24dbc721f2c2b1c10",
-      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/396354b326e243cb829873f24dbc721f2c2b1c10"
+      "version": "20250102.202203",
+      "revision": "7af10293be8231ef143c4454cbc61537a0b94aab",
+      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/7af10293be8231ef143c4454cbc61537a0b94aab"
     },
     "lceda-pro": {
       "version": "2.2.34.8"
@@ -281,14 +281,14 @@
       "url": "https://github.com/nix-community/nixpkgs-fmt/releases/tag/v1.3.0"
     },
     "nuclei": {
-      "version": "3.3.7",
-      "gitref": "refs/tags/v3.3.7",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.7"
+      "version": "3.3.8",
+      "gitref": "refs/tags/v3.3.8",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.8"
     },
     "nuclei-bin": {
-      "version": "3.3.7",
-      "gitref": "refs/tags/v3.3.7",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.7"
+      "version": "3.3.8",
+      "gitref": "refs/tags/v3.3.8",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.8"
     },
     "nuclei-templates": {
       "version": "10.1.1",
@@ -472,15 +472,15 @@
       "url": "https://github.com/Drive-Trust-Alliance/sedutil/releases/tag/1.49.6"
     },
     "serenity": {
-      "version": "1.1.0-beta.2",
-      "gitref": "refs/tags/v1.1.0-beta.2",
-      "revision": "def4abd15bc4d5d7198869f6ec62a6e15b0f337a",
-      "url": "https://github.com/SagerNet/serenity/releases/tag/v1.1.0-beta.2"
+      "version": "1.1.0-beta.3",
+      "gitref": "refs/tags/v1.1.0-beta.3",
+      "revision": "09e4fee404a14437aa167a4c80e8adcaab9e0f4c",
+      "url": "https://github.com/SagerNet/serenity/releases/tag/v1.1.0-beta.3"
     },
     "sing-box": {
-      "version": "1.10.5",
-      "gitref": "refs/tags/v1.10.5",
-      "url": "https://github.com/SagerNet/sing-box/releases/tag/v1.10.5"
+      "version": "1.10.6",
+      "gitref": "refs/tags/v1.10.6",
+      "url": "https://github.com/SagerNet/sing-box/releases/tag/v1.10.6"
     },
     "slack-desktop": {
       "version": "4.41.105-0.1"
@@ -538,9 +538,9 @@
       "version": "1.96.2"
     },
     "wafw00f": {
-      "version": "2.3.0",
-      "gitref": "refs/tags/v2.3.0",
-      "url": "https://github.com/EnableSecurity/wafw00f/releases/tag/v2.3.0"
+      "version": "2.3.1",
+      "gitref": "refs/tags/v2.3.1",
+      "url": "https://github.com/EnableSecurity/wafw00f/releases/tag/v2.3.1"
     },
     "wemeet": {
       "version": "3.19.2.400"
@@ -551,9 +551,9 @@
       "url": "https://github.com/openai/whisper/releases/tag/v20240930"
     },
     "whisper-cpp": {
-      "version": "1.7.3",
-      "gitref": "refs/tags/v1.7.3",
-      "url": "https://github.com/ggerganov/whisper.cpp/releases/tag/v1.7.3"
+      "version": "1.7.4",
+      "gitref": "refs/tags/v1.7.4",
+      "url": "https://github.com/ggerganov/whisper.cpp/releases/tag/v1.7.4"
     },
     "whitesur-cursor-theme-git": {
       "version": "20241027.052253",
