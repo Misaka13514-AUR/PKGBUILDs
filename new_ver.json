@@ -2,7 +2,7 @@
   "version": 2,
   "data": {
     "android-studio": {
-      "version": "2024.2.1.12"
+      "version": "2024.2.2.13"
     },
     "bbg": {
       "version": "20241113",
@@ -80,10 +80,10 @@
       "version": "6.5.46"
     },
     "easyeda-pro-bin": {
-      "version": "2.2.34.8"
+      "version": "2.2.35.1"
     },
     "easyeda-pro-electron": {
-      "version": "2.2.34.8"
+      "version": "2.2.35.1"
     },
     "freerouting": {
       "version": "2.0.1",
@@ -214,20 +214,20 @@
       "url": "https://github.com/Digi-Key/digikey-kicad-library/commit/d4bd68f42e6ccc474526811a853a03692e170b58"
     },
     "kicad-library-espressif-git": {
-      "version": "20240917.075922",
-      "revision": "c5468205b68ba925c090a86ab177d2f1a652d89b",
-      "url": "https://github.com/espressif/kicad-libraries/commit/c5468205b68ba925c090a86ab177d2f1a652d89b"
+      "version": "20250109.082016",
+      "revision": "d1191785ba800c0fe30ee631b6d2a7da09b63606",
+      "url": "https://github.com/espressif/kicad-libraries/commit/d1191785ba800c0fe30ee631b6d2a7da09b63606"
     },
     "kicad-library-sparkfun-git": {
-      "version": "20250102.202203",
-      "revision": "7af10293be8231ef143c4454cbc61537a0b94aab",
-      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/7af10293be8231ef143c4454cbc61537a0b94aab"
+      "version": "20250110.214654",
+      "revision": "6d8a27e1f9f9cceaa23307783144108594c003db",
+      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/6d8a27e1f9f9cceaa23307783144108594c003db"
     },
     "lceda-pro": {
-      "version": "2.2.34.8"
+      "version": "2.2.35.1"
     },
     "lceda-pro-bin": {
-      "version": "2.2.34.8"
+      "version": "2.2.35.1"
     },
     "libnatspec": {
       "version": "0.3.3-alt1",
@@ -342,9 +342,9 @@
       "url": "https://github.com/MartinScharrer/crccheck/releases/tag/v1.3.0"
     },
     "python-frida": {
-      "version": "16.5.9",
-      "gitref": "refs/tags/16.5.9",
-      "url": "https://github.com/frida/frida/releases/tag/16.5.9"
+      "version": "16.6.2",
+      "gitref": "refs/tags/16.6.2",
+      "url": "https://github.com/frida/frida/releases/tag/16.6.2"
     },
     "python-frida-tools": {
       "version": "13.6.0",
@@ -478,9 +478,9 @@
       "url": "https://github.com/SagerNet/serenity/releases/tag/v1.1.0-beta.3"
     },
     "sing-box": {
-      "version": "1.10.6",
-      "gitref": "refs/tags/v1.10.6",
-      "url": "https://github.com/SagerNet/sing-box/releases/tag/v1.10.6"
+      "version": "1.10.7",
+      "gitref": "refs/tags/v1.10.7",
+      "url": "https://github.com/SagerNet/sing-box/releases/tag/v1.10.7"
     },
     "slack-desktop": {
       "version": "4.41.105-0.1"
@@ -496,14 +496,14 @@
       "url": "https://github.com/tindy2013/subconverter/releases/tag/v0.9.0"
     },
     "subfinder": {
-      "version": "2.6.7",
-      "gitref": "refs/tags/v2.6.7",
-      "url": "https://github.com/projectdiscovery/subfinder/releases/tag/v2.6.7"
+      "version": "2.6.8",
+      "gitref": "refs/tags/v2.6.8",
+      "url": "https://github.com/projectdiscovery/subfinder/releases/tag/v2.6.8"
     },
     "subfinder-bin": {
-      "version": "2.6.7",
-      "gitref": "refs/tags/v2.6.7",
-      "url": "https://github.com/projectdiscovery/subfinder/releases/tag/v2.6.7"
+      "version": "2.6.8",
+      "gitref": "refs/tags/v2.6.8",
+      "url": "https://github.com/projectdiscovery/subfinder/releases/tag/v2.6.8"
     },
     "tcping": {
       "version": "0.1.1rc1",
@@ -535,7 +535,7 @@
       "url": "https://github.com/k4yt3x/video2x/releases/tag/6.3.1"
     },
     "visual-studio-code": {
-      "version": "1.96.2"
+      "version": "1.96.3"
     },
     "wafw00f": {
       "version": "2.3.1",
@@ -556,9 +556,9 @@
       "url": "https://github.com/ggerganov/whisper.cpp/releases/tag/v1.7.4"
     },
     "whitesur-cursor-theme-git": {
-      "version": "20241027.052253",
-      "revision": "63d04b852abd59ffa270e6d551ced27ff25ef838",
-      "url": "https://github.com/vinceliuice/WhiteSur-cursors/commit/63d04b852abd59ffa270e6d551ced27ff25ef838"
+      "version": "20250113.034740",
+      "revision": "c8759f13de18612051e7c1250946f54e49128b61",
+      "url": "https://github.com/vinceliuice/WhiteSur-cursors/commit/c8759f13de18612051e7c1250946f54e49128b61"
     },
     "whitesur-gtk-theme": {
       "version": "2024.11.18",
