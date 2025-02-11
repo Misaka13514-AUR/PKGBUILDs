@@ -5,17 +5,17 @@
       "version": "2024.2.2.13"
     },
     "bbg": {
-      "version": "20241113",
-      "gitref": "refs/tags/20241113",
-      "url": "https://github.com/bbg-contributors/bbg/releases/tag/20241113"
+      "version": "20250204",
+      "gitref": "refs/tags/20250204",
+      "url": "https://github.com/bbg-contributors/bbg/releases/tag/20250204"
     },
     "bbg-git": {
-      "version": "20250106.120603",
-      "revision": "8d821ed2d57dc1e3e5b12571a6392329cbf1e0ad",
-      "url": "https://github.com/bbg-contributors/bbg/commit/8d821ed2d57dc1e3e5b12571a6392329cbf1e0ad"
+      "version": "20250204.093237",
+      "revision": "61e358c35539d871dd60afb5833be21028054eb6",
+      "url": "https://github.com/bbg-contributors/bbg/commit/61e358c35539d871dd60afb5833be21028054eb6"
     },
     "burpsuite": {
-      "version": "2024.11.2"
+      "version": "2024.12.1"
     },
     "canokey-usbip-git": {
       "version": "20240311.144100",
@@ -31,9 +31,9 @@
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/tag/v2.2.5"
     },
     "code-server": {
-      "version": "4.96.2",
-      "gitref": "refs/tags/v4.96.2",
-      "url": "https://github.com/coder/code-server/releases/tag/v4.96.2"
+      "version": "4.96.4",
+      "gitref": "refs/tags/v4.96.4",
+      "url": "https://github.com/coder/code-server/releases/tag/v4.96.4"
     },
     "cura": {
       "version": "5.9.0",
@@ -102,7 +102,7 @@
       "url": "https://github.com/shadow1ng/fscan/releases/tag/2.0.0"
     },
     "geogebra-6-electron": {
-      "version": "6.0.871.0"
+      "version": "6.0.874.1"
     },
     "gnome-shell-extension-blur-my-shell": {
       "version": "67",
@@ -110,10 +110,10 @@
       "url": "https://github.com/aunetx/blur-my-shell/releases/tag/v67"
     },
     "gnome-shell-extension-clipboard-indicator": {
-      "version": "65",
-      "gitref": "refs/tags/v65",
-      "revision": "08855b144b2e2e9163d6d8a99d6f8e81a88f1a5d",
-      "url": "https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator/releases/tag/v65"
+      "version": "66",
+      "gitref": "refs/tags/v66",
+      "revision": "89c57703641a9d5d15f899f6e780174641911d95",
+      "url": "https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator/releases/tag/v66"
     },
     "gnome-shell-extension-dash-to-dock": {
       "version": "99",
@@ -137,9 +137,9 @@
       "url": "https://github.com/fthx/no-overview/releases/tag/v47"
     },
     "gnome-shell-extension-system-monitor-next-git": {
-      "version": "20241202.174740",
-      "revision": "463a5ce0e04f44c6f401913cc53a2d5c9891ea7e",
-      "url": "https://github.com/mgalgs/gnome-shell-system-monitor-next-applet/commit/463a5ce0e04f44c6f401913cc53a2d5c9891ea7e"
+      "version": "20250205.052613",
+      "revision": "d7f330de85ada013e6664a109af12bd7de0bc4e4",
+      "url": "https://github.com/mgalgs/gnome-shell-system-monitor-next-applet/commit/d7f330de85ada013e6664a109af12bd7de0bc4e4"
     },
     "go-cqhttp-bin": {
       "version": "1.2.0",
@@ -147,7 +147,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "131.0.6778.264-1"
+      "version": "133.0.6943.53-1"
     },
     "gqrx-scanner": {
       "version": "1.0.5",
@@ -178,14 +178,14 @@
       "url": "https://github.com/boltgolt/howdy/releases/tag/v2.6.1"
     },
     "hysteria": {
-      "version": "2.6.0",
-      "gitref": "refs/tags/app/v2.6.0",
-      "url": "https://github.com/apernet/hysteria/releases/tag/app/v2.6.0"
+      "version": "2.6.1",
+      "gitref": "refs/tags/app/v2.6.1",
+      "url": "https://github.com/apernet/hysteria/releases/tag/app/v2.6.1"
     },
     "icalingua-plus-plus": {
-      "version": "2.12.26",
-      "gitref": "refs/tags/v2.12.26",
-      "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.12.26"
+      "version": "2.12.28",
+      "gitref": "refs/tags/v2.12.28",
+      "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.12.28"
     },
     "imhex": {
       "version": "1.36.2",
@@ -193,7 +193,7 @@
       "url": "https://github.com/WerWolv/ImHex/releases/tag/v1.36.2"
     },
     "intellij-idea-ultimate-edition": {
-      "version": "2024.3.1.1"
+      "version": "2024.3.2.2"
     },
     "iptv-checker": {
       "version": "0.28.0",
@@ -214,20 +214,20 @@
       "url": "https://github.com/Digi-Key/digikey-kicad-library/commit/d4bd68f42e6ccc474526811a853a03692e170b58"
     },
     "kicad-library-espressif-git": {
-      "version": "20250109.082016",
-      "revision": "d1191785ba800c0fe30ee631b6d2a7da09b63606",
-      "url": "https://github.com/espressif/kicad-libraries/commit/d1191785ba800c0fe30ee631b6d2a7da09b63606"
+      "version": "20250204.164728",
+      "revision": "2dd885db4b69aa5b4d3a6ae72d3b84fa21747e7e",
+      "url": "https://github.com/espressif/kicad-libraries/commit/2dd885db4b69aa5b4d3a6ae72d3b84fa21747e7e"
     },
     "kicad-library-sparkfun-git": {
-      "version": "20250110.214654",
-      "revision": "6d8a27e1f9f9cceaa23307783144108594c003db",
-      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/6d8a27e1f9f9cceaa23307783144108594c003db"
+      "version": "20250131.152857",
+      "revision": "6126315417f0710773f20757ead1e05e527c4011",
+      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/6126315417f0710773f20757ead1e05e527c4011"
     },
     "lceda-pro": {
-      "version": "2.2.35.1"
+      "version": "2.2.34.8"
     },
     "lceda-pro-bin": {
-      "version": "2.2.35.1"
+      "version": "2.2.34.8"
     },
     "libnatspec": {
       "version": "0.3.3-alt1",
@@ -239,9 +239,9 @@
       "version": "3.2.9_240606"
     },
     "meanalyzer": {
-      "version": "r361",
-      "gitref": "refs/tags/r361",
-      "url": "https://github.com/platomav/MEAnalyzer/releases/tag/r361"
+      "version": "r362",
+      "gitref": "refs/tags/r362",
+      "url": "https://github.com/platomav/MEAnalyzer/releases/tag/r362"
     },
     "mfcuk-git": {
       "version": "20180714.103154",
@@ -254,10 +254,10 @@
       "url": "https://github.com/nfc-tools/mfoc-hardnested/commit/a6007437405a0f18642a4bbca2eeba67c623d736"
     },
     "mozc": {
-      "version": "2.30.5544.102",
-      "gitref": "refs/tags/2.30.5544.102",
-      "revision": "225996e67fa694a005a108a425a4186f618784a8",
-      "url": "https://github.com/google/mozc/releases/tag/2.30.5544.102"
+      "version": "2.31.5712.102",
+      "gitref": "refs/tags/2.31.5712.102",
+      "revision": "be37e5bad672c78a6d2cb89da9fd3cd53c43afb5",
+      "url": "https://github.com/google/mozc/releases/tag/2.31.5712.102"
     },
     "nbtexplorer": {
       "version": "2.8.0",
@@ -291,14 +291,14 @@
       "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.8"
     },
     "nuclei-templates": {
-      "version": "10.1.1",
-      "gitref": "refs/tags/v10.1.1",
-      "url": "https://github.com/projectdiscovery/nuclei-templates/releases/tag/v10.1.1"
+      "version": "10.1.2",
+      "gitref": "refs/tags/v10.1.2",
+      "url": "https://github.com/projectdiscovery/nuclei-templates/releases/tag/v10.1.2"
     },
     "nvidia-container-toolkit": {
-      "version": "1.17.3",
-      "gitref": "refs/tags/v1.17.3",
-      "url": "https://github.com/NVIDIA/nvidia-container-toolkit/releases/tag/v1.17.3"
+      "version": "1.17.4",
+      "gitref": "refs/tags/v1.17.4",
+      "url": "https://github.com/NVIDIA/nvidia-container-toolkit/releases/tag/v1.17.4"
     },
     "openvisualtraceroute": {
       "version": "20220521.225939",
@@ -334,7 +334,7 @@
       "url": "https://github.com/g-plane/pnpm-shell-completion/releases/tag/v0.5.4"
     },
     "pycharm-professional": {
-      "version": "2024.3.1.1"
+      "version": "2024.3.2"
     },
     "python-crccheck": {
       "version": "1.3.0",
@@ -342,20 +342,20 @@
       "url": "https://github.com/MartinScharrer/crccheck/releases/tag/v1.3.0"
     },
     "python-frida": {
-      "version": "16.6.2",
-      "gitref": "refs/tags/16.6.2",
-      "url": "https://github.com/frida/frida/releases/tag/16.6.2"
+      "version": "16.6.6",
+      "gitref": "refs/tags/16.6.6",
+      "url": "https://github.com/frida/frida/releases/tag/16.6.6"
     },
     "python-frida-tools": {
-      "version": "13.6.0",
-      "gitref": "refs/tags/13.6.0",
-      "revision": "233ab2b3c2cddb62afd58f1959600429cb8ad3f7",
-      "url": "https://github.com/frida/frida-tools/releases/tag/13.6.0"
+      "version": "13.6.1",
+      "gitref": "refs/tags/13.6.1",
+      "revision": "eb3baca8f198e7feb88fbe68f0657f54e648e0c0",
+      "url": "https://github.com/frida/frida-tools/releases/tag/13.6.1"
     },
     "python-iptvtools": {
-      "version": "0.2.12",
-      "gitref": "refs/tags/v0.2.12",
-      "url": "https://github.com/huxuan/iptvtools/releases/tag/v0.2.12"
+      "version": "0.3.1",
+      "gitref": "refs/tags/v0.3.1",
+      "url": "https://github.com/huxuan/iptvtools/releases/tag/v0.3.1"
     },
     "python-ite8291r3-ctl-git": {
       "version": "20220314.181251",
@@ -415,9 +415,9 @@
       "url": "https://github.com/sripathikrishnan/redis-rdb-tools/releases/tag/rdbtools-0.1.15"
     },
     "python-selenium": {
-      "version": "4.27.0",
-      "gitref": "refs/tags/selenium-4.27.0",
-      "url": "https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.27.0"
+      "version": "4.28.0",
+      "gitref": "refs/tags/selenium-4.28.0",
+      "url": "https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.28.0"
     },
     "python-sexpdata": {
       "version": "1.0.2",
@@ -456,9 +456,9 @@
       "url": "https://github.com/nihui/realsr-ncnn-vulkan/releases/tag/20220728"
     },
     "sdrangel": {
-      "version": "7.22.5",
-      "gitref": "refs/tags/v7.22.5",
-      "url": "https://github.com/f4exb/sdrangel/releases/tag/v7.22.5"
+      "version": "7.22.6",
+      "gitref": "refs/tags/v7.22.6",
+      "url": "https://github.com/f4exb/sdrangel/releases/tag/v7.22.6"
     },
     "seclists": {
       "version": "2024.4",
@@ -478,9 +478,9 @@
       "url": "https://github.com/SagerNet/serenity/releases/tag/v1.1.0-beta.3"
     },
     "sing-box": {
-      "version": "1.10.7",
-      "gitref": "refs/tags/v1.10.7",
-      "url": "https://github.com/SagerNet/sing-box/releases/tag/v1.10.7"
+      "version": "1.11.2",
+      "gitref": "refs/tags/v1.11.2",
+      "url": "https://github.com/SagerNet/sing-box/releases/tag/v1.11.2"
     },
     "slack-desktop": {
       "version": "4.41.105-0.1"
@@ -520,22 +520,22 @@
       "url": "https://github.com/Ulauncher/Ulauncher/releases/tag/5.15.7"
     },
     "v2raya": {
-      "version": "2.2.6.3",
-      "gitref": "refs/tags/v2.2.6.3",
-      "url": "https://github.com/v2rayA/v2rayA/releases/tag/v2.2.6.3"
+      "version": "2.2.6.6",
+      "gitref": "refs/tags/v2.2.6.6",
+      "url": "https://github.com/v2rayA/v2rayA/releases/tag/v2.2.6.6"
     },
     "ventoy": {
-      "version": "1.0.99",
-      "gitref": "refs/tags/v1.0.99",
-      "url": "https://github.com/ventoy/Ventoy/releases/tag/v1.0.99"
+      "version": "1.1.01",
+      "gitref": "refs/tags/v1.1.01",
+      "url": "https://github.com/ventoy/Ventoy/releases/tag/v1.1.01"
     },
     "video2x": {
-      "version": "6.3.1",
-      "gitref": "refs/tags/6.3.1",
-      "url": "https://github.com/k4yt3x/video2x/releases/tag/6.3.1"
+      "version": "6.4.0",
+      "gitref": "refs/tags/6.4.0",
+      "url": "https://github.com/k4yt3x/video2x/releases/tag/6.4.0"
     },
     "visual-studio-code": {
-      "version": "1.96.3"
+      "version": "1.97.0"
     },
     "wafw00f": {
       "version": "2.3.1",
@@ -566,9 +566,9 @@
       "url": "https://github.com/vinceliuice/WhiteSur-gtk-theme/releases/tag/2024-11-18"
     },
     "whitesur-icon-theme": {
-      "version": "2024.09.07",
-      "gitref": "refs/tags/2024-09-07",
-      "url": "https://github.com/vinceliuice/WhiteSur-icon-theme/releases/tag/2024-09-07"
+      "version": "v2025.02.10",
+      "gitref": "refs/tags/v2025-02-10",
+      "url": "https://github.com/vinceliuice/WhiteSur-icon-theme/releases/tag/v2025-02-10"
     },
     "yay": {
       "version": "12.4.2",
