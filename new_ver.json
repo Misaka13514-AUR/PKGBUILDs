@@ -2,7 +2,7 @@
   "version": 2,
   "data": {
     "android-studio": {
-      "version": "2024.2.2.13"
+      "version": "2024.2.2.14"
     },
     "bbg": {
       "version": "20250204",
@@ -10,12 +10,12 @@
       "url": "https://github.com/bbg-contributors/bbg/releases/tag/20250204"
     },
     "bbg-git": {
-      "version": "20250204.093237",
-      "revision": "61e358c35539d871dd60afb5833be21028054eb6",
-      "url": "https://github.com/bbg-contributors/bbg/commit/61e358c35539d871dd60afb5833be21028054eb6"
+      "version": "20250214.012558",
+      "revision": "d225275bbe0fae7f19a95d3d4af07ae4bb312002",
+      "url": "https://github.com/bbg-contributors/bbg/commit/d225275bbe0fae7f19a95d3d4af07ae4bb312002"
     },
     "burpsuite": {
-      "version": "2024.12.1"
+      "version": "2025.1.1"
     },
     "canokey-usbip-git": {
       "version": "20240311.144100",
@@ -131,10 +131,10 @@
       "url": "https://gitlab.com/rmnvgr/nightthemeswitcher-gnome-shell-extension/-/tags/78"
     },
     "gnome-shell-extension-no-overview": {
-      "version": "47",
-      "gitref": "refs/tags/v47",
-      "revision": "7d1d8e2e3955dd521151c7c9f449092a316aca32",
-      "url": "https://github.com/fthx/no-overview/releases/tag/v47"
+      "version": "48",
+      "gitref": "refs/tags/v48",
+      "revision": "36f1f8a88fe09e4a7c23ba24d06293482f05e215",
+      "url": "https://github.com/fthx/no-overview/releases/tag/v48"
     },
     "gnome-shell-extension-system-monitor-next-git": {
       "version": "20250205.052613",
@@ -147,7 +147,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "133.0.6943.53-1"
+      "version": "133.0.6943.98-1"
     },
     "gqrx-scanner": {
       "version": "1.0.5",
@@ -193,7 +193,7 @@
       "url": "https://github.com/WerWolv/ImHex/releases/tag/v1.36.2"
     },
     "intellij-idea-ultimate-edition": {
-      "version": "2024.3.2.2"
+      "version": "2024.3.3"
     },
     "iptv-checker": {
       "version": "0.28.0",
@@ -219,9 +219,9 @@
       "url": "https://github.com/espressif/kicad-libraries/commit/2dd885db4b69aa5b4d3a6ae72d3b84fa21747e7e"
     },
     "kicad-library-sparkfun-git": {
-      "version": "20250131.152857",
-      "revision": "6126315417f0710773f20757ead1e05e527c4011",
-      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/6126315417f0710773f20757ead1e05e527c4011"
+      "version": "20250212.150503",
+      "revision": "e91ee299b51a40883356fb210cdb737ad8c132a2",
+      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/e91ee299b51a40883356fb210cdb737ad8c132a2"
     },
     "lceda-pro": {
       "version": "2.2.34.8"
@@ -281,14 +281,14 @@
       "url": "https://github.com/nix-community/nixpkgs-fmt/releases/tag/v1.3.0"
     },
     "nuclei": {
-      "version": "3.3.8",
-      "gitref": "refs/tags/v3.3.8",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.8"
+      "version": "3.3.9",
+      "gitref": "refs/tags/v3.3.9",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.9"
     },
     "nuclei-bin": {
-      "version": "3.3.8",
-      "gitref": "refs/tags/v3.3.8",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.8"
+      "version": "3.3.9",
+      "gitref": "refs/tags/v3.3.9",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.9"
     },
     "nuclei-templates": {
       "version": "10.1.2",
@@ -478,9 +478,9 @@
       "url": "https://github.com/SagerNet/serenity/releases/tag/v1.1.0-beta.3"
     },
     "sing-box": {
-      "version": "1.11.2",
-      "gitref": "refs/tags/v1.11.2",
-      "url": "https://github.com/SagerNet/sing-box/releases/tag/v1.11.2"
+      "version": "1.11.3",
+      "gitref": "refs/tags/v1.11.3",
+      "url": "https://github.com/SagerNet/sing-box/releases/tag/v1.11.3"
     },
     "slack-desktop": {
       "version": "4.41.105-0.1"
@@ -525,9 +525,9 @@
       "url": "https://github.com/v2rayA/v2rayA/releases/tag/v2.2.6.6"
     },
     "ventoy": {
-      "version": "1.1.01",
-      "gitref": "refs/tags/v1.1.01",
-      "url": "https://github.com/ventoy/Ventoy/releases/tag/v1.1.01"
+      "version": "1.1.02",
+      "gitref": "refs/tags/v1.1.02",
+      "url": "https://github.com/ventoy/Ventoy/releases/tag/v1.1.02"
     },
     "video2x": {
       "version": "6.4.0",
@@ -535,7 +535,7 @@
       "url": "https://github.com/k4yt3x/video2x/releases/tag/6.4.0"
     },
     "visual-studio-code": {
-      "version": "1.97.0"
+      "version": "1.97.2"
     },
     "wafw00f": {
       "version": "2.3.1",
