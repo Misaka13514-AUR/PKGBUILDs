@@ -96,10 +96,9 @@
       "url": "https://github.com/hluwa/frida-dexdump/releases/tag/v2.0.1"
     },
     "fscan": {
-      "version": "2.0.0",
-      "gitref": "refs/tags/2.0.0",
-      "revision": "40b6dbcd1cccecefb9acce18c9fb697683cf49ab",
-      "url": "https://github.com/shadow1ng/fscan/releases/tag/2.0.0"
+      "version": "2.0.0-build4",
+      "gitref": "refs/tags/2.0.0-build4",
+      "url": "https://github.com/shadow1ng/fscan/releases/tag/2.0.0-build4"
     },
     "geogebra-6-electron": {
       "version": "6.0.874.1"
