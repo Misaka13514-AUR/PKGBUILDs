@@ -31,9 +31,9 @@
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/tag/v2.2.5"
     },
     "code-server": {
-      "version": "4.96.4",
-      "gitref": "refs/tags/v4.96.4",
-      "url": "https://github.com/coder/code-server/releases/tag/v4.96.4"
+      "version": "4.97.2",
+      "gitref": "refs/tags/v4.97.2",
+      "url": "https://github.com/coder/code-server/releases/tag/v4.97.2"
     },
     "cura": {
       "version": "5.9.0",
@@ -101,7 +101,7 @@
       "url": "https://github.com/shadow1ng/fscan/releases/tag/2.0.0-build4"
     },
     "geogebra-6-electron": {
-      "version": "6.0.874.1"
+      "version": "6.0.875.1"
     },
     "gnome-shell-extension-blur-my-shell": {
       "version": "67",
@@ -146,7 +146,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "133.0.6943.98-1"
+      "version": "133.0.6943.126-1"
     },
     "gqrx-scanner": {
       "version": "1.0.5",
@@ -187,9 +187,9 @@
       "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.12.28"
     },
     "imhex": {
-      "version": "1.37.0",
-      "gitref": "refs/tags/v1.37.0",
-      "url": "https://github.com/WerWolv/ImHex/releases/tag/v1.37.0"
+      "version": "1.37.1",
+      "gitref": "refs/tags/v1.37.1",
+      "url": "https://github.com/WerWolv/ImHex/releases/tag/v1.37.1"
     },
     "intellij-idea-ultimate-edition": {
       "version": "2024.3.3"
@@ -218,9 +218,9 @@
       "url": "https://github.com/espressif/kicad-libraries/commit/2dd885db4b69aa5b4d3a6ae72d3b84fa21747e7e"
     },
     "kicad-library-sparkfun-git": {
-      "version": "20250212.150503",
-      "revision": "e91ee299b51a40883356fb210cdb737ad8c132a2",
-      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/e91ee299b51a40883356fb210cdb737ad8c132a2"
+      "version": "20250218.233007",
+      "revision": "a2194513cc76b2a015d2f84048096c2c87e7a69d",
+      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/a2194513cc76b2a015d2f84048096c2c87e7a69d"
     },
     "lceda-pro": {
       "version": "2.2.36.5"
