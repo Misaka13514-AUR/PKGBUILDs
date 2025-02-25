@@ -101,7 +101,7 @@
       "url": "https://github.com/shadow1ng/fscan/releases/tag/2.0.0-build4"
     },
     "geogebra-6-electron": {
-      "version": "6.0.875.1"
+      "version": "6.0.876.0"
     },
     "gnome-shell-extension-blur-my-shell": {
       "version": "67",
@@ -187,9 +187,9 @@
       "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.12.28"
     },
     "imhex": {
-      "version": "1.37.1",
-      "gitref": "refs/tags/v1.37.1",
-      "url": "https://github.com/WerWolv/ImHex/releases/tag/v1.37.1"
+      "version": "1.37.2",
+      "gitref": "refs/tags/v1.37.2",
+      "url": "https://github.com/WerWolv/ImHex/releases/tag/v1.37.2"
     },
     "intellij-idea-ultimate-edition": {
       "version": "2024.3.3"
@@ -223,10 +223,10 @@
       "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/f2a5dd5a1a46133db8b557abe92cb343aa8bf923"
     },
     "lceda-pro": {
-      "version": "2.2.36.5"
+      "version": "2.2.36.7"
     },
     "lceda-pro-bin": {
-      "version": "2.2.36.5"
+      "version": "2.2.36.7"
     },
     "libnatspec": {
       "version": "0.3.3-alt1",
@@ -460,9 +460,9 @@
       "url": "https://github.com/f4exb/sdrangel/releases/tag/v7.22.6"
     },
     "seclists": {
-      "version": "2024.4",
-      "gitref": "refs/tags/2024.4",
-      "url": "https://github.com/danielmiessler/SecLists/releases/tag/2024.4"
+      "version": "2025.1",
+      "gitref": "refs/tags/2025.1",
+      "url": "https://github.com/danielmiessler/SecLists/releases/tag/2025.1"
     },
     "sedutil": {
       "version": "1.49.6",
@@ -477,9 +477,9 @@
       "url": "https://github.com/SagerNet/serenity/releases/tag/v1.1.0-beta.3"
     },
     "sing-box": {
-      "version": "1.11.3",
-      "gitref": "refs/tags/v1.11.3",
-      "url": "https://github.com/SagerNet/sing-box/releases/tag/v1.11.3"
+      "version": "1.11.4",
+      "gitref": "refs/tags/v1.11.4",
+      "url": "https://github.com/SagerNet/sing-box/releases/tag/v1.11.4"
     },
     "slack-desktop": {
       "version": "4.41.105-0.1"
@@ -524,9 +524,9 @@
       "url": "https://github.com/v2rayA/v2rayA/releases/tag/v2.2.6.6"
     },
     "ventoy": {
-      "version": "1.1.04",
-      "gitref": "refs/tags/v1.1.04",
-      "url": "https://github.com/ventoy/Ventoy/releases/tag/v1.1.04"
+      "version": "1.1.05",
+      "gitref": "refs/tags/v1.1.05",
+      "url": "https://github.com/ventoy/Ventoy/releases/tag/v1.1.05"
     },
     "video2x": {
       "version": "6.4.0",
