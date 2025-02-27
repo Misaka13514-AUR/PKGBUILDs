@@ -2,7 +2,7 @@
   "version": 2,
   "data": {
     "android-studio": {
-      "version": "2024.2.2.14"
+      "version": "2024.2.2.15"
     },
     "bbg": {
       "version": "20250204",
@@ -10,9 +10,9 @@
       "url": "https://github.com/bbg-contributors/bbg/releases/tag/20250204"
     },
     "bbg-git": {
-      "version": "20250214.012558",
-      "revision": "d225275bbe0fae7f19a95d3d4af07ae4bb312002",
-      "url": "https://github.com/bbg-contributors/bbg/commit/d225275bbe0fae7f19a95d3d4af07ae4bb312002"
+      "version": "20250226.161507",
+      "revision": "d36442a00879527312df59dc8023efa1d3d2320e",
+      "url": "https://github.com/bbg-contributors/bbg/commit/d36442a00879527312df59dc8023efa1d3d2320e"
     },
     "burpsuite": {
       "version": "2025.1.2"
@@ -80,10 +80,10 @@
       "version": "6.5.46"
     },
     "easyeda-pro-bin": {
-      "version": "2.2.35.1"
+      "version": "2.2.36.7"
     },
     "easyeda-pro-electron": {
-      "version": "2.2.35.1"
+      "version": "2.2.36.7"
     },
     "freerouting": {
       "version": "2.0.1",
@@ -146,7 +146,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "133.0.6943.126-1"
+      "version": "133.0.6943.141-1"
     },
     "gqrx-scanner": {
       "version": "1.0.5",
@@ -187,9 +187,9 @@
       "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/tag/v2.12.28"
     },
     "imhex": {
-      "version": "1.37.2",
-      "gitref": "refs/tags/v1.37.2",
-      "url": "https://github.com/WerWolv/ImHex/releases/tag/v1.37.2"
+      "version": "1.37.4",
+      "gitref": "refs/tags/v1.37.4",
+      "url": "https://github.com/WerWolv/ImHex/releases/tag/v1.37.4"
     },
     "intellij-idea-ultimate-edition": {
       "version": "2024.3.3"
@@ -495,14 +495,14 @@
       "url": "https://github.com/tindy2013/subconverter/releases/tag/v0.9.0"
     },
     "subfinder": {
-      "version": "2.6.8",
-      "gitref": "refs/tags/v2.6.8",
-      "url": "https://github.com/projectdiscovery/subfinder/releases/tag/v2.6.8"
+      "version": "2.7.0",
+      "gitref": "refs/tags/v2.7.0",
+      "url": "https://github.com/projectdiscovery/subfinder/releases/tag/v2.7.0"
     },
     "subfinder-bin": {
-      "version": "2.6.8",
-      "gitref": "refs/tags/v2.6.8",
-      "url": "https://github.com/projectdiscovery/subfinder/releases/tag/v2.6.8"
+      "version": "2.7.0",
+      "gitref": "refs/tags/v2.7.0",
+      "url": "https://github.com/projectdiscovery/subfinder/releases/tag/v2.7.0"
     },
     "tcping": {
       "version": "0.1.1rc1",
