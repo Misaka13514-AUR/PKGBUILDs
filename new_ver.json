@@ -2,7 +2,7 @@
   "version": 2,
   "data": {
     "android-studio": {
-      "version": "2024.3.1.13"
+      "version": "2024.3.1.14"
     },
     "bbg": {
       "version": "20250311",
@@ -36,9 +36,9 @@
       "url": "https://github.com/coder/code-server/releases/tag/v4.98.2"
     },
     "cura": {
-      "version": "5.9.1",
-      "gitref": "refs/tags/5.9.1",
-      "url": "https://github.com/Ultimaker/Cura/releases/tag/5.9.1"
+      "version": "5.10.0",
+      "gitref": "refs/tags/5.10.0",
+      "url": "https://github.com/Ultimaker/Cura/releases/tag/5.10.0"
     },
     "cyberchef-web": {
       "version": "10.19.4",
@@ -80,10 +80,10 @@
       "version": "6.5.46"
     },
     "easyeda-pro-bin": {
-      "version": "2.2.37.3"
+      "version": "2.2.37.7"
     },
     "easyeda-pro-electron": {
-      "version": "2.2.37.3"
+      "version": "2.2.37.7"
     },
     "freerouting": {
       "version": "2.0.1",
@@ -101,7 +101,7 @@
       "url": "https://github.com/shadow1ng/fscan/releases/tag/2.0.0-build4"
     },
     "geogebra-6-electron": {
-      "version": "6.0.878.0"
+      "version": "6.0.879.0"
     },
     "gnome-shell-extension-blur-my-shell": {
       "version": "68-2",
@@ -144,9 +144,6 @@
       "version": "1.2.0",
       "gitref": "refs/tags/v1.2.0",
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
-    },
-    "google-chrome": {
-      "version": "134.0.6998.117-1"
     },
     "gqrx-scanner": {
       "version": "1.0.5",
@@ -218,9 +215,9 @@
       "url": "https://github.com/espressif/kicad-libraries/commit/2dd885db4b69aa5b4d3a6ae72d3b84fa21747e7e"
     },
     "kicad-library-sparkfun-git": {
-      "version": "20250319.195624",
-      "revision": "267b2e7ccfdf4387531d8ef9a33e4cb4b1a34ef0",
-      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/267b2e7ccfdf4387531d8ef9a33e4cb4b1a34ef0"
+      "version": "20250321.161241",
+      "revision": "9ef97bebd6dd92a65c4ef604d1e2e990bb7b82e0",
+      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/9ef97bebd6dd92a65c4ef604d1e2e990bb7b82e0"
     },
     "lceda-pro": {
       "version": "2.2.37.7"
@@ -280,14 +277,14 @@
       "url": "https://github.com/nix-community/nixpkgs-fmt/releases/tag/v1.3.0"
     },
     "nuclei": {
-      "version": "3.3.10",
-      "gitref": "refs/tags/v3.3.10",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.10"
+      "version": "3.4.0",
+      "gitref": "refs/tags/v3.4.0",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.4.0"
     },
     "nuclei-bin": {
-      "version": "3.3.10",
-      "gitref": "refs/tags/v3.3.10",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.3.10"
+      "version": "3.4.0",
+      "gitref": "refs/tags/v3.4.0",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.4.0"
     },
     "nuclei-templates": {
       "version": "10.1.5",
@@ -341,9 +338,9 @@
       "url": "https://github.com/MartinScharrer/crccheck/releases/tag/v1.3.0"
     },
     "python-frida": {
-      "version": "16.7.0",
-      "gitref": "refs/tags/16.7.0",
-      "url": "https://github.com/frida/frida/releases/tag/16.7.0"
+      "version": "16.7.3",
+      "gitref": "refs/tags/16.7.3",
+      "url": "https://github.com/frida/frida/releases/tag/16.7.3"
     },
     "python-frida-tools": {
       "version": "13.6.1",
@@ -414,9 +411,9 @@
       "url": "https://github.com/sripathikrishnan/redis-rdb-tools/releases/tag/rdbtools-0.1.15"
     },
     "python-selenium": {
-      "version": "4.29.0",
-      "gitref": "refs/tags/selenium-4.29.0",
-      "url": "https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.29.0"
+      "version": "4.30.0",
+      "gitref": "refs/tags/selenium-4.30.0",
+      "url": "https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.30.0"
     },
     "python-sexpdata": {
       "version": "1.0.2",
@@ -465,10 +462,10 @@
       "url": "https://github.com/danielmiessler/SecLists/releases/tag/2025.1"
     },
     "sedutil": {
-      "version": "1.49.8",
-      "gitref": "refs/tags/1.49.8",
-      "revision": "0b4d7f4d3b5aadaeb89f2b51d3aa0322c5691c95",
-      "url": "https://github.com/Drive-Trust-Alliance/sedutil/releases/tag/1.49.8"
+      "version": "1.49.9",
+      "gitref": "refs/tags/1.49.9",
+      "revision": "67f35dd8926edecebecb8e636aa2bd76da31540e",
+      "url": "https://github.com/Drive-Trust-Alliance/sedutil/releases/tag/1.49.9"
     },
     "serenity": {
       "version": "1.1.0-beta.3",
@@ -550,9 +547,9 @@
       "url": "https://github.com/openai/whisper/releases/tag/v20240930"
     },
     "whisper-cpp": {
-      "version": "b2254",
-      "gitref": "refs/tags/b2254",
-      "url": "https://github.com/ggerganov/whisper.cpp/releases/tag/b2254"
+      "version": "b2280",
+      "gitref": "refs/tags/b2280",
+      "url": "https://github.com/ggerganov/whisper.cpp/releases/tag/b2280"
     },
     "whitesur-cursor-theme-git": {
       "version": "20250113.034740",
