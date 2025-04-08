@@ -280,14 +280,14 @@
       "url": "https://github.com/nix-community/nixpkgs-fmt/releases/tag/v1.3.0"
     },
     "nuclei": {
-      "version": "3.4.1",
-      "gitref": "refs/tags/v3.4.1",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.4.1"
+      "version": "3.4.2",
+      "gitref": "refs/tags/v3.4.2",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.4.2"
     },
     "nuclei-bin": {
-      "version": "3.4.1",
-      "gitref": "refs/tags/v3.4.1",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.4.1"
+      "version": "3.4.2",
+      "gitref": "refs/tags/v3.4.2",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.4.2"
     },
     "nuclei-templates": {
       "version": "10.1.6",
