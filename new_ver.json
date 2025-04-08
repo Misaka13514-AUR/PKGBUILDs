@@ -10,12 +10,12 @@
       "url": "https://github.com/bbg-contributors/bbg/releases/tag/20250311"
     },
     "bbg-git": {
-      "version": "20250317.114552",
-      "revision": "90c6bd0527635c81daadd7281715de71ed92ccd7",
-      "url": "https://github.com/bbg-contributors/bbg/commit/90c6bd0527635c81daadd7281715de71ed92ccd7"
+      "version": "20250311.082324",
+      "revision": "1dffde5430f98bf49694ed8e437c3f44a1d04415",
+      "url": "https://github.com/bbg-contributors/bbg/commit/1dffde5430f98bf49694ed8e437c3f44a1d04415"
     },
     "burpsuite": {
-      "version": "2025.1.5"
+      "version": "2025.2.4"
     },
     "canokey-usbip-git": {
       "version": "20240311.144100",
@@ -31,9 +31,9 @@
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/tag/v2.2.5"
     },
     "code-server": {
-      "version": "4.98.2",
-      "gitref": "refs/tags/v4.98.2",
-      "url": "https://github.com/coder/code-server/releases/tag/v4.98.2"
+      "version": "4.99.0",
+      "gitref": "refs/tags/v4.99.0",
+      "url": "https://github.com/coder/code-server/releases/tag/v4.99.0"
     },
     "cura": {
       "version": "5.10.0",
@@ -101,7 +101,7 @@
       "url": "https://github.com/shadow1ng/fscan/releases/tag/2.0.0-build4"
     },
     "geogebra-6-electron": {
-      "version": "6.0.879.0"
+      "version": "6.0.881.2"
     },
     "gnome-shell-extension-blur-my-shell": {
       "version": "68-2",
@@ -109,10 +109,10 @@
       "url": "https://github.com/aunetx/blur-my-shell/releases/tag/v68-2"
     },
     "gnome-shell-extension-clipboard-indicator": {
-      "version": "66",
-      "gitref": "refs/tags/v66",
-      "revision": "89c57703641a9d5d15f899f6e780174641911d95",
-      "url": "https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator/releases/tag/v66"
+      "version": "68",
+      "gitref": "refs/tags/v68",
+      "revision": "cb92265d62aad584735a4a3669d8c620db45a4c4",
+      "url": "https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator/releases/tag/v68"
     },
     "gnome-shell-extension-dash-to-dock": {
       "version": "100",
@@ -146,7 +146,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.2.0"
     },
     "google-chrome": {
-      "version": "134.0.6998.165-1"
+      "version": "135.0.7049.52-1"
     },
     "gqrx-scanner": {
       "version": "1.0.5",
@@ -218,9 +218,9 @@
       "url": "https://github.com/espressif/kicad-libraries/commit/2dd885db4b69aa5b4d3a6ae72d3b84fa21747e7e"
     },
     "kicad-library-sparkfun-git": {
-      "version": "20250328.203930",
-      "revision": "08ca5eb06f75f5ad9e44a5e5b6faf895230d375f",
-      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/08ca5eb06f75f5ad9e44a5e5b6faf895230d375f"
+      "version": "20250404.142825",
+      "revision": "2fc0d4af886b52eb81f49ed38b92f012a4ab974d",
+      "url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries/commit/2fc0d4af886b52eb81f49ed38b92f012a4ab974d"
     },
     "lceda-pro": {
       "version": "2.2.37.7"
@@ -264,9 +264,9 @@
       "url": "https://github.com/jaquadro/NBTExplorer/releases/tag/v2.8.0-win"
     },
     "needrestart": {
-      "version": "3.9",
-      "gitref": "refs/tags/v3.9",
-      "url": "https://github.com/liske/needrestart/releases/tag/v3.9"
+      "version": "3.10",
+      "gitref": "refs/tags/v3.10",
+      "url": "https://github.com/liske/needrestart/releases/tag/v3.10"
     },
     "nixfmt": {
       "version": "0.6.0",
@@ -341,9 +341,9 @@
       "url": "https://github.com/MartinScharrer/crccheck/releases/tag/v1.3.0"
     },
     "python-frida": {
-      "version": "16.7.3",
-      "gitref": "refs/tags/16.7.3",
-      "url": "https://github.com/frida/frida/releases/tag/16.7.3"
+      "version": "16.7.9",
+      "gitref": "refs/tags/16.7.9",
+      "url": "https://github.com/frida/frida/releases/tag/16.7.9"
     },
     "python-frida-tools": {
       "version": "13.6.1",
@@ -414,9 +414,9 @@
       "url": "https://github.com/sripathikrishnan/redis-rdb-tools/releases/tag/rdbtools-0.1.15"
     },
     "python-selenium": {
-      "version": "4.30.0",
-      "gitref": "refs/tags/selenium-4.30.0",
-      "url": "https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.30.0"
+      "version": "4.31.0",
+      "gitref": "refs/tags/selenium-4.31.0",
+      "url": "https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.31.0"
     },
     "python-sexpdata": {
       "version": "1.0.2",
@@ -477,12 +477,12 @@
       "url": "https://github.com/SagerNet/serenity/releases/tag/v1.1.0-beta.3"
     },
     "sing-box": {
-      "version": "1.11.6",
-      "gitref": "refs/tags/v1.11.6",
-      "url": "https://github.com/SagerNet/sing-box/releases/tag/v1.11.6"
+      "version": "1.11.7",
+      "gitref": "refs/tags/v1.11.7",
+      "url": "https://github.com/SagerNet/sing-box/releases/tag/v1.11.7"
     },
     "slack-desktop": {
-      "version": "4.41.105-0.1"
+      "version": "4.43.51-0.1"
     },
     "srmd-ncnn-vulkan": {
       "version": "20220728",
@@ -534,7 +534,7 @@
       "url": "https://github.com/k4yt3x/video2x/releases/tag/6.4.0"
     },
     "visual-studio-code": {
-      "version": "1.98.2"
+      "version": "1.99.0"
     },
     "wafw00f": {
       "version": "2.3.1",
@@ -550,19 +550,19 @@
       "url": "https://github.com/openai/whisper/releases/tag/v20240930"
     },
     "whisper-cpp": {
-      "version": "b2349",
-      "gitref": "refs/tags/b2349",
-      "url": "https://github.com/ggerganov/whisper.cpp/releases/tag/b2349"
+      "version": "1.7.5",
+      "gitref": "refs/tags/v1.7.5",
+      "url": "https://github.com/ggml-org/whisper.cpp/releases/tag/v1.7.5"
     },
     "whitesur-cursor-theme-git": {
-      "version": "20250113.034740",
-      "revision": "c8759f13de18612051e7c1250946f54e49128b61",
-      "url": "https://github.com/vinceliuice/WhiteSur-cursors/commit/c8759f13de18612051e7c1250946f54e49128b61"
+      "version": "20250405.024553",
+      "revision": "e190baf618ed95ee217d2fd45589bd309b37672b",
+      "url": "https://github.com/vinceliuice/WhiteSur-cursors/commit/e190baf618ed95ee217d2fd45589bd309b37672b"
     },
     "whitesur-gtk-theme": {
-      "version": "2024.11.18",
-      "gitref": "refs/tags/2024-11-18",
-      "url": "https://github.com/vinceliuice/WhiteSur-gtk-theme/releases/tag/2024-11-18"
+      "version": "2025.04.03",
+      "gitref": "refs/tags/2025-04-03",
+      "url": "https://github.com/vinceliuice/WhiteSur-gtk-theme/releases/tag/2025-04-03"
     },
     "whitesur-icon-theme": {
       "version": "v2025.02.10",
