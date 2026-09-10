@@ -7,11 +7,11 @@ build_prefix: extra-x86_64
 repo_depends:
   - python-frida
 
-pre_build_script: aur_pre_build(maintainers=['kriskras99'])
+pre_build_script: aur_pre_build(maintainers=['RubenKelevra'])
 
 post_build: aur_post_build
 
 update_on:
   - source: aur
-    aur: python-frida-tools
+    aur: frida-tools
   - alias: python
